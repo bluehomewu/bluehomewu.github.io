@@ -45,6 +45,18 @@ jobs:
           ruby-version: 3.3
           bundler-cache: true
 
+      - name: Sync GitHub Profile README
+        run: |
+          # 準備好 about.md 需要的 Front Matter
+          ABOUT_FRONT_MATTER="---\nicon: fas fa-info-circle\norder: 4\ntitle: About\n---\n\n"
+          
+          # 下載 README 內容到一個暫存檔案
+          curl -s https://raw.githubusercontent.com/bluehomewu/bluehomewu/master/README.md -o ./README_from_profile.md
+          
+          # 將 Front Matter 和下載的內容合併成最終的 _tabs/about.md
+          echo -e "$ABOUT_FRONT_MATTER" > _tabs/about.md
+          cat ./README_from_profile.md >> _tabs/about.md
+
       - name: Build site
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
         env:
