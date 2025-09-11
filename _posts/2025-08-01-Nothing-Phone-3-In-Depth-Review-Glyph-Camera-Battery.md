@@ -283,7 +283,7 @@ About Me
 - Instagram : [_920223](https://www.instagram.com/_920223/)
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 
-<a href="mailto:bluehome.wu@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></p></a>
+<a href="mailto:bluehome.wu@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 
 ![image](https://hackmd.io/_uploads/Bk1EYGfYA.png)
 

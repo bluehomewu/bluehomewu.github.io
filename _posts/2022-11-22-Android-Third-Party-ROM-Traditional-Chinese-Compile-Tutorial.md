@@ -241,7 +241,7 @@ brunch arrow_Z01R-userdebug | tee arrow_Z01R_$(date +"%Y%m%d_%H.%M")GMT8.txt
 
 #### 參考資料連結：
 1. [tmux](https://git.io/JIUrH)
-2. [tee](http://linux.vbird.org/linux_basic/0320bash.php#pipe_3)
+2. [tee](https://linux.vbird.org/linux_basic/0320bash.php#pipe_3)
 3. [rclone](https://www.timelate.com/archives/install-rclone-on-ubuntu.html)
 4. [為你自己學 Git 筆記 — GitHub 應用篇](https://link.medium.com/oQfJxibSRbb)
 [修改 Commit 紀錄](https://gitbook.tw/chapters/using-git/amend-commit1.html)
@@ -275,8 +275,9 @@ brunch arrow_Z01R-userdebug | tee arrow_Z01R_$(date +"%Y%m%d_%H.%M")GMT8.txt
 - 同場加映
 [Android 第三方 Recovery 繁體中文編譯教學](https://hackmd.io/@EdwardWu/CompileARecovery)
 <p align="center">
-<a href="https://github.com/bluehomewu"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
-<a href="mailto:bluehome.wu@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></p></a>
+<a href="https://github.com/bluehomewu"> <img alt="Github" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
+<a href="mailto:bluehome.wu@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
+</p>
 
 
 ###### tags: `Android` `ROM` `編譯` `第三方` `教學`

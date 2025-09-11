@@ -116,7 +116,7 @@ About Me
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 - HackMD : [@EdwardWu](https://hackmd.io/@EdwardWu)
 
-<a href="mailto:bluehome.wu@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></p></a>
+<a href="mailto:bluehome.wu@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 
 ![](https://hackmd.io/_uploads/rJJiX-pT2.png)
 
