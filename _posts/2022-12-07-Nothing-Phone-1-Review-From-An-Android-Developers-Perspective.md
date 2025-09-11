@@ -108,14 +108,28 @@ Nothing Camera 相機
 這次我使用 Nothing Phone(1) 進行拍攝的場景大多數都是晚上的室外，因此我覺得這將是針對 Nothing Phone(1) 原廠相機的一大考驗。
 
 
-| ![](https://i.imgur.com/h42sesU.jpg) | ![](https://i.imgur.com/RewrnB1.jpg) | ![](https://i.imgur.com/QZlCnDp.jpg) |
-| ------------------------------------ | ------------------------------------ | ------------------------------------ |
-| ![](https://i.imgur.com/71svYdj.jpg) | ![](https://i.imgur.com/vJGG2Cm.jpg) | ![](https://i.imgur.com/AsYLEHu.jpg) |
-
-
-| ![](https://i.imgur.com/dQJZYHH.jpg) | ![](https://i.imgur.com/v2isEJy.jpg) | ![](https://i.imgur.com/5U3fLIw.jpg) |
-| ------------------------------------ | ------------------------------------ |:------------------------------------:|
-| ![](https://i.imgur.com/uufWz2M.jpg) | ![](https://i.imgur.com/PZQ6rTW.jpg) | ![](https://i.imgur.com/18Mi5IP.jpg) |
+<table>
+  <tr>
+    <td><img src="https://i.imgur.com/h42sesU.jpg" alt=""></td>
+    <td><img src="https://i.imgur.com/RewrnB1.jpg" alt=""></td>
+    <td><img src="https://i.imgur.com/QZlCnDp.jpg" alt=""></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/71svYdj.jpg" alt=""></td>
+    <td><img src="https://i.imgur.com/vJGG2Cm.jpg" alt=""></td>
+    <td><img src="https://i.imgur.com/AsYLEHu.jpg" alt=""></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/dQJZYHH.jpg" alt=""></td>
+    <td><img src="https://i.imgur.com/v2isEJy.jpg" alt=""></td>
+    <td><img src="https://i.imgur.com/5U3fLIw.jpg" alt=""></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/uufWz2M.jpg" alt=""></td>
+    <td><img src="https://i.imgur.com/PZQ6rTW.jpg" alt=""></td>
+    <td><img src="https://i.imgur.com/18Mi5IP.jpg" alt=""></td>
+  </tr>
+</table>
 
 Nothing Phone(1) 採用了 50MP + 50MP（主攝 + 超廣角）+ 16MP（前攝）的設計，並且透過相機的夜景演算法以及搭載 IMX766 的主攝很大程度上提供了協助，即使在暗光的環境下，也可以輕鬆拍攝出清晰的照片。
 

@@ -72,10 +72,18 @@ Nothing OS
 ---
 這次的 CMF Phone 2 Pro 出廠即搭載最新的 Nothing OS 3.2 Android 15，自從我拿到手上，也更新了 2 個版本，修正了許多的 bug 以及最佳化許多功能。系統更新這塊，可以從過往的 Nothing Phone 產品當中體現，Nothing OS 的系統更新，都是有在認真改善問題，每一次的更新 ChangeLog 都是滿滿一頁。
 
-| ![Screenshot_20250606-170107](https://hackmd.io/_uploads/By-XqhJVel.png) |![Screenshot_20250618-115814](https://hackmd.io/_uploads/ry5QqhyEee.png) | ![Screenshot_20250618-112444](https://hackmd.io/_uploads/B1J8931Vxx.png) |
-| ------------------------------------ | ------------------------------------ | ------------------------------------ |
-| ![Screenshot_20250618-112024](https://hackmd.io/_uploads/ryEp53JNll.png) | ![Screenshot_20250618-115643](https://hackmd.io/_uploads/H1uI53JVee.png) | ![Screenshot_20250618-112108](https://hackmd.io/_uploads/S1XP53JNgg.png) |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/By-XqhJVel.png" alt="Screenshot_20250606-170107"></td>
+    <td><img src="https://hackmd.io/_uploads/ry5QqhyEee.png" alt="Screenshot_20250618-115814"></td>
+    <td><img src="https://hackmd.io/_uploads/B1J8931Vxx.png" alt="Screenshot_20250618-112444"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/ryEp53JNll.png" alt="Screenshot_20250618-112024"></td>
+    <td><img src="https://hackmd.io/_uploads/H1uI53JVee.png" alt="Screenshot_20250618-115643"></td>
+    <td><img src="https://hackmd.io/_uploads/S1XP53JNgg.png" alt="Screenshot_20250618-112108"></td>
+  </tr>
+</table>
 Nothing OS 也在最新的系統當中加入了許多實用的功能，而我也算是從 Nothing OS 1 一路用到 Nothing OS 3，著實是見證了 Nothing OS 的發展以及成長，從毛胚房一路搭建成為現在的透天別墅。
 對於這次的 CMF Phone 2 Pro，Nothing 也搭載了 Essential Space (Essential Key) 給這款平價手機，使得中階平價手機，也可以與今年推出的 Nothing Phone (3a) 有著同樣的快捷功能，對於想體驗嘗鮮的使用者來說，有著相當不錯的誘因，且稍加讓這台 CMF Phone 2 Pro 更加的不平凡。
 
@@ -86,51 +94,72 @@ Nothing OS 也在最新的系統當中加入了許多實用的功能，而我也
 #### CMF by Nothing Phone 2
 ![CMF_Phone_2Pro_Geekbench6_組圖](https://hackmd.io/_uploads/rJTja0kVgg.png)
 
-| ![Screenshot_20250618-131353](https://hackmd.io/_uploads/r1L26Ak4xx.png) | ![Screenshot_20250618-133420](https://hackmd.io/_uploads/SJeaaAJNxe.png) |
-| ------------------------------------ | ------------------------------------ |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/r1L26Ak4xx.png" alt="Screenshot_20250618-131353"></td>
+    <td><img src="https://hackmd.io/_uploads/SJeaaAJNxe.png" alt="Screenshot_20250618-133420"></td>
+  </tr>
+</table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (3a) Pro
 ![NP3aPro_Geekbench6_組圖](https://hackmd.io/_uploads/S1pApCkVeg.png)
-| ![Screenshot_20250618-131032](https://hackmd.io/_uploads/B1SyCCy4xe.png) | ![Screenshot_20250618-133102](https://hackmd.io/_uploads/SJRkC0kVgx.png) |
-| ------------------------------------ | ------------------------------------ |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/B1SyCCy4xe.png" alt="Screenshot_20250618-131032"></td>
+    <td><img src="https://hackmd.io/_uploads/SJRkC0kVgx.png" alt="Screenshot_20250618-133102"></td>
+  </tr>
+</table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (3a)
 ![NP3a_Geekbench6_組圖](https://hackmd.io/_uploads/rJig00y4ge.png)
-| ![Screenshot_20250618-131023](https://hackmd.io/_uploads/HkPZR0J4ge.png) | ![Screenshot_20250618-133059](https://hackmd.io/_uploads/BkIMAR14xe.png) |
-| ------------------------------------ | ------------------------------------ |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/HkPZR0J4ge.png" alt="Screenshot_20250618-131023"></td>
+    <td><img src="https://hackmd.io/_uploads/BkIMAR14xe.png" alt="Screenshot_20250618-133059"></td>
+  </tr>
+</table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### CMF by Nothing Phone 1
 ![CMF_Phone_1_Geekbench6_組圖](https://hackmd.io/_uploads/Sy8QRCk4ll.png)
-| ![Screenshot_20250618-131129](https://hackmd.io/_uploads/B1jm0A1Vlx.png) | ![Screenshot_20250618-133215](https://hackmd.io/_uploads/ryxERCJNel.png) |
-| ------------------------------------ | ------------------------------------ |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/B1jm0A1Vlx.png" alt="Screenshot_20250618-131129"></td>
+    <td><img src="https://hackmd.io/_uploads/ryxERCJNel.png" alt="Screenshot_20250618-133215"></td>
+  </tr>
+</table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (2a)
 ![NP2a_Geekbench6_組圖](https://hackmd.io/_uploads/rkbHR0JNgg.png)
-| ![Screenshot_20250618-131047](https://hackmd.io/_uploads/rJSB0Ck4xl.png) | ![Screenshot_20250618-133114](https://hackmd.io/_uploads/B1jHRA1Vlg.png) |
-| ------------------------------------ | ------------------------------------ |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/rJSB0Ck4xl.png" alt="Screenshot_20250618-131047"></td>
+    <td><img src="https://hackmd.io/_uploads/B1jHRA1Vlg.png" alt="Screenshot_20250618-133114"></td>
+  </tr>
+</table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (2)
 ![NP2_Geekbench6_組圖](https://hackmd.io/_uploads/SkGICA1Nxg.png)
-| ![Screenshot_20250618-130940](https://hackmd.io/_uploads/rJPIAAJEgg.png) | ![Screenshot_20250618-133017](https://hackmd.io/_uploads/H1xPCCk4xl.png) |
-| ------------------------------------ | ------------------------------------ |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/rJPIAAJEgg.png" alt="Screenshot_20250618-130940"></td>
+    <td><img src="https://hackmd.io/_uploads/H1xPCCk4xl.png" alt="Screenshot_20250618-133017"></td>
+  </tr>
+</table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (1)
 ![NP1_Geekbench6_組圖](https://hackmd.io/_uploads/rJ2wC01Vxl.png)
-| ![Screenshot_20250618-131149](https://hackmd.io/_uploads/r1y_00JEge.png) | ![Screenshot_20250618-133224](https://hackmd.io/_uploads/rJcOA0y4xg.png) |
-| ------------------------------------ | ------------------------------------ |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/r1y_00JEge.png" alt="Screenshot_20250618-131149"></td>
+    <td><img src="https://hackmd.io/_uploads/rJcOA0y4xg.png" alt="Screenshot_20250618-133224"></td>
+  </tr>
+</table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 而我這邊也幫各位做成圖表，可以更能判斷出效能高低。
@@ -152,9 +181,12 @@ CMF by Nothing Phone 2 Pro 配件開箱
 ![IMG_20250618_150816312](https://hackmd.io/_uploads/Sy4JNraExg.jpg)
 ▲ 安裝 CMF Phone 2 Pro 的卡包
 
-| ![IMG_20250618_151528065](https://hackmd.io/_uploads/HkMf4HpExx.jpg) | ![IMG_20250618_151543743](https://hackmd.io/_uploads/Hy2zVr6Elx.jpg) |
-| ------------------------------------ | ------------------------------------ |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/HkMf4HpExx.jpg" alt="IMG_20250618_151528065"></td>
+    <td><img src="https://hackmd.io/_uploads/Hy2zVr6Elx.jpg" alt="IMG_20250618_151543743"></td>
+  </tr>
+</table>
 ▲ 分別安裝了魚眼以及微距外接鏡頭
 
 巧合的是，我手邊也有 CMF Phone 1 的配件，經過仔細檢查之後。

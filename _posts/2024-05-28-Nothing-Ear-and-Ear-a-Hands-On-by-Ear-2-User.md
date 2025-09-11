@@ -39,12 +39,19 @@ Nothing Phone (2a) 評測文章
 
 所以，當我看到 Nothing Ear (2) 的價格定位，以及幾乎滿足我上述的所有要求之後，我便果斷入手。用了一年下來， Nothing Ear (2) 的表現還是挺出乎我預期的，遠遠超出這個價格應有的表現，交出的成績非常漂亮。這也是為什麼能讓我對 Nothing Tech 所推出的產品，可以有相當高的評價跟期望。
 
-| ![P_20240519_010238](https://hackmd.io/_uploads/ByuYU6x4C.jpg)          |     ![P_20240519_010807](https://hackmd.io/_uploads/BkxaLTx4C.jpg)      |
-| ----------------------------------------------------------------------- |:-------------------------------------------------|
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/ByuYU6x4C.jpg" alt="P_20240519_010238"></td>
+    <td><img src="https://hackmd.io/_uploads/BkxaLTx4C.jpg" alt="P_20240519_010807"></td>
+  </tr>
+</table>
 
-| ![Screenshot_20240526-222942](https://hackmd.io/_uploads/ByQ4_ag4C.png) | ![Screenshot_20240526-200247](https://hackmd.io/_uploads/rydXPTxVC.png) |
-| ----------------------------------------------------------------------- |:-------------------------------------------------|
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/ByQ4_ag4C.png" alt="Screenshot_20240526-222942"></td>
+    <td><img src="https://hackmd.io/_uploads/rydXPTxVC.png" alt="Screenshot_20240526-200247"></td>
+  </tr>
+</table>
 
 
 規格比較
@@ -78,30 +85,51 @@ Nothing Phone (2a) 評測文章
 
 Nothing Ear (a)
 ---
-| ![P_20240519_005822](https://hackmd.io/_uploads/BklA7jx40.jpg) | ![P_20240519_010658](https://hackmd.io/_uploads/H1wRXjgEA.jpg) |
-| ------------------------------------ | ------------------------------------ |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/BklA7jx40.jpg" alt="P_20240519_005822"></td>
+    <td><img src="https://hackmd.io/_uploads/H1wRXjgEA.jpg" alt="P_20240519_010658"></td>
+  </tr>
+</table>
 Nothing Ear (a) 我所挑選的顏色為白色，並非這次推出的新色。
 這次推出的 Nothing Ear (a) 加入了 LDAC 音訊編碼的支援。這對於非 Nothing Phone 的使用者來說，提供了更多的支援，像我經常在多品牌的裝置進行切換，也可以擁有高品質的聆聽感受。
 
-| ![Screenshot_20240519-011023](https://hackmd.io/_uploads/SJ21pieN0.jpg) | ![Screenshot_20240519-011327](https://hackmd.io/_uploads/HyFe6ixE0.jpg) | ![Screenshot_20240519-011333](https://hackmd.io/_uploads/HkReTjgVR.jpg) |
-| ------------------------------------ | ------------------------------------ | ------------------------------------ |
-| ![Screenshot_20240519-011337](https://hackmd.io/_uploads/S1eMTjxVC.jpg) | ![Screenshot_20240519-011339](https://hackmd.io/_uploads/rJSz6oxEA.jpg) | ![Screenshot_20240519-011344](https://hackmd.io/_uploads/Hk5zTsgE0.jpg) |
-
-
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/SJ21pieN0.jpg" alt="Screenshot_20240519-011023"></td>
+    <td><img src="https://hackmd.io/_uploads/HyFe6ixE0.jpg" alt="Screenshot_20240519-011327"></td>
+    <td><img src="https://hackmd.io/_uploads/HkReTjgVR.jpg" alt="Screenshot_20240519-011333"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/S1eMTjxVC.jpg" alt="Screenshot_20240519-011337"></td>
+    <td><img src="https://hackmd.io/_uploads/rJSz6oxEA.jpg" alt="Screenshot_20240519-011339"></td>
+    <td><img src="https://hackmd.io/_uploads/Hk5zTsgE0.jpg" alt="Screenshot_20240519-011344"></td>
+  </tr>
+</table>
 Nothing Ear
 ---
-| ![P_20240519_005836](https://hackmd.io/_uploads/r1kG4jlVA.jpg) | ![P_20240519_010152](https://hackmd.io/_uploads/BJOGVieN0.jpg) |
-| ------------------------------------ | ------------------------------------ |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/r1kG4jlVA.jpg" alt="P_20240519_005836"></td>
+    <td><img src="https://hackmd.io/_uploads/BJOGVieN0.jpg" alt="P_20240519_010152"></td>
+  </tr>
+</table>
 相較於 Nothing Ear (a)，這次在 Nothing Ear，Nothing 也有加入 LDAC，當然也一如既往的保留 LHDC 5.0。也讓 Nothing Ear 高音質編碼的相容性支援生態相當豐富。
 並且在這個價位，我想應該沒有其他對手可以與其競爭了。
 不論是外型，亦或是支援的功能上，Nothing Ear 都頗具競爭力。
 
-| ![Screenshot_20240519-011621](https://hackmd.io/_uploads/BJFEaolNA.jpg) | ![Screenshot_20240519-011921](https://hackmd.io/_uploads/rJxlHpsl4R.jpg) | ![Screenshot_20240519-011927](https://hackmd.io/_uploads/r1AB6ieVR.jpg) |
-| ------------------------------------ | ------------------------------------ | ------------------------------------ |
-![Screenshot_20240519-011929](https://hackmd.io/_uploads/rJCLasxN0.jpg) | ![Screenshot_20240519-011933](https://hackmd.io/_uploads/H1EwaieV0.jpg) | ![Screenshot_20240519-011936](https://hackmd.io/_uploads/HyKPTjxEA.jpg) |
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/BJFEaolNA.jpg" alt="Screenshot_20240519-011621"></td>
+    <td><img src="https://hackmd.io/_uploads/rJxlHpsl4R.jpg" alt="Screenshot_20240519-011921"></td>
+    <td><img src="https://hackmd.io/_uploads/r1AB6ieVR.jpg" alt="Screenshot_20240519-011927"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/rJCLasxN0.jpg" alt="Screenshot_20240519-011929"></td>
+    <td><img src="https://hackmd.io/_uploads/H1EwaieV0.jpg" alt="Screenshot_20240519-011933"></td>
+    <td><img src="https://hackmd.io/_uploads/HyKPTjxEA.jpg" alt="Screenshot_20240519-011936"></td>
+  </tr>
+</table>
 
 在這一陣子體驗下來，雖然優點多到我感覺這是個物超所值的產品，但缺點也不是沒有。只不過我想這應該在未來的某天可以以 OTA 的形式進行修復。
 Nothing Ear 使用 LDAC 編碼在音量較小的時候感覺有些悶悶的
@@ -115,10 +143,13 @@ ChatGPT for Nothing Ear Products
 在這次兩款 Nothing Ear 的推出之後，Nothing Tech 也針對目前有在販售的耳機款式（包含）CMF Buds 等產品，推出 OTA 整合於 Nothing X APP 內，進一步支援了 ChatGPT 作為耳機預設的語音助理。
 其中，也可以使用最新的語音模型 ChatGPT-4o 來搭配使用。
 首先需要使用 Nothing Phone 搭配這些支援的耳機，於 Nothing X APP 內部進行設定。
-| ![Screenshot_20240519-012439](https://hackmd.io/_uploads/r1lwghg4R.png) | ![Screenshot_20240526-204938](https://hackmd.io/_uploads/HkrPe2lNR.png) | ![Screenshot_20240526-204946](https://hackmd.io/_uploads/HyYvl2eNA.png) |
-| ------------------------------------ | ------------------------------------ | ------------------------------------ |
-
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/r1lwghg4R.png" alt="Screenshot_20240519-012439"></td>
+    <td><img src="https://hackmd.io/_uploads/HkrPe2lNR.png" alt="Screenshot_20240526-204938"></td>
+    <td><img src="https://hackmd.io/_uploads/HyYvl2eNA.png" alt="Screenshot_20240526-204946"></td>
+  </tr>
+</table>
 總結
 ---
 

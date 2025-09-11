@@ -72,10 +72,16 @@ CMF By Nothing 一向不是主打硬體規格，更多著重於色彩、材質�
 ### 手錶外觀
 這次我上手體驗的版本是深藍色皮革錶帶的版本，CMF By Nothing Watch Pro 2 推出了 4 個顏色可供挑選，分別是深灰、灰白、藍色、橘色。
 
-| ![IMG_20240906_162242546](https://hackmd.io/_uploads/rkh2rT5hA.jpg) | ![IMG_20240906_162411711](https://hackmd.io/_uploads/rkqABTchR.jpg) |
-| ------------------------------------ | ------------------------------------ |
-| ![IMG_20240906_163021024](https://hackmd.io/_uploads/rkFkUa93C.jpg) | ![IMG_20240906_164820021](https://hackmd.io/_uploads/BkCEIac2C.jpg) |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/rkh2rT5hA.jpg" alt="IMG_20240906_162242546"></td>
+    <td><img src="https://hackmd.io/_uploads/rkqABTchR.jpg" alt="IMG_20240906_162411711"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/rkFkUa93C.jpg" alt="IMG_20240906_163021024"></td>
+    <td><img src="https://hackmd.io/_uploads/BkCEIac2C.jpg" alt="IMG_20240906_164820021"></td>
+  </tr>
+</table>
 ▲ Take By Nothing Phone (2)
 
 實際上手使用之後，與我先前所使用的小米 Watch S1 Active 相比，該有的功能都有，同時也選擇不加入對使用者來說相對不必要的功能。
@@ -83,10 +89,18 @@ CMF By Nothing 一向不是主打硬體規格，更多著重於色彩、材質�
 CMF Watch Pro 2，很明確的知道使用非 Wear OS 智慧手錶使用者的需求以及用途，這也大大提升使用者購買的意願以及使用頻率。
 
 ### CMF Watch APP
-| ![Screenshot_20240906-163146_CMF_Watch](https://hackmd.io/_uploads/ryJnKpc2A.jpg) |![Screenshot_20240906-163238_CMF_Watch](https://hackmd.io/_uploads/ByjaFa530.jpg) | ![Screenshot_20240906-163350_CMF_Watch](https://hackmd.io/_uploads/SyA0Y6c30.jpg) |
-| ------------------------------------ | ------------------------------------ | ------------------------------------ |
-| ![Screenshot_20240906-163437_CMF_Watch](https://hackmd.io/_uploads/rkkfqp93R.jpg) | ![Screenshot_20240906-163618_CMF_Watch](https://hackmd.io/_uploads/B1cf5pq3C.jpg) |![Screenshot_20240906-163719_CMF_Watch](https://hackmd.io/_uploads/SkS7caqhR.jpg)  |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/ryJnKpc2A.jpg" alt="Screenshot_20240906-163146_CMF_Watch"></td>
+    <td><img src="https://hackmd.io/_uploads/ByjaFa530.jpg" alt="Screenshot_20240906-163238_CMF_Watch"></td>
+    <td><img src="https://hackmd.io/_uploads/SyA0Y6c30.jpg" alt="Screenshot_20240906-163350_CMF_Watch"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/rkkfqp93R.jpg" alt="Screenshot_20240906-163437_CMF_Watch"></td>
+    <td><img src="https://hackmd.io/_uploads/B1cf5pq3C.jpg" alt="Screenshot_20240906-163618_CMF_Watch"></td>
+    <td><img src="https://hackmd.io/_uploads/SkS7caqhR.jpg" alt="Screenshot_20240906-163719_CMF_Watch"></td>
+  </tr>
+</table>
 ▲ 一些 CMF Watch APP 的截圖
 
 CMF Watch 所提供的功能，包含運動項目的監測，健康狀態的監測，可說是一項不少，至於自訂風格的功能，也與之前我所佩戴的小米 Watch S1 Active 十分接近，對使用者來說則是大幅降低更換品牌所帶來的學習成本。

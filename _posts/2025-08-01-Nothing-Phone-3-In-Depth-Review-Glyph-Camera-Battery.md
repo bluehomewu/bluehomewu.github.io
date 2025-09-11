@@ -86,10 +86,16 @@ Nothing OS
 Nothing Phone (3) 出廠即搭載目前最新的 Nothing OS 3.5 Android 15 版本，而我也在收到手機之後，再度接收到兩個版本的更新
 分別是 Nothing OS 3.5(Metroid-V3.5-250626-1934) 以及 Nothing OS 3.5(Metroid-V3.5-250711-2047)
 
-| ![Screenshot_20250710-021837](https://hackmd.io/_uploads/rkiZykULee.png) | ![Screenshot_20250715-182704](https://hackmd.io/_uploads/H1wz1kLIxl.png) |
-| ------------------------------------ | ------------------------------------ |
-| ![Screenshot_20250717-103151](https://hackmd.io/_uploads/S1EAxkLIxg.png) | ![Screenshot_20250717-103158](https://hackmd.io/_uploads/Ske2CeJULxl.png) |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/rkiZykULee.png" alt="Screenshot_20250710-021837"></td>
+    <td><img src="https://hackmd.io/_uploads/H1wz1kLIxl.png" alt="Screenshot_20250715-182704"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/S1EAxkLIxg.png" alt="Screenshot_20250717-103151"></td>
+    <td><img src="https://hackmd.io/_uploads/Ske2CeJULxl.png" alt="Screenshot_20250717-103158"></td>
+  </tr>
+</table>
 而我收到的第一版更新 ChangeLog 不是 ChangeLog，居然是 Nothing Phone (3) 的 Product Manager 寫給首發評測者的一段話，蠻特別的，在過往甚至是其他品牌當中，不曾看見過的，這對於 Nothing Tech 的這類型新創公司，產現出了相當開放的態度，也再次證明 Nothing Tech 不是一間傳統的手機品牌公司。
 第二版更新推出之後，也解決不少問題以及最佳化許多功能，由此可見，Nothing 的系統開發，是真的有一定的功力。畢竟軟體開發團隊可是都在台灣，甚至是原本從一加 OnePlus 一路到現在 Nothing 的人馬。
 
@@ -100,59 +106,82 @@ Nothing Phone (3) 出廠即搭載目前最新的 Nothing OS 3.5 Android 15 版�
 
 #### Nothing Phone (3)
 ![NP3_Geekbench6_組圖](https://hackmd.io/_uploads/SJsaRgULgl.png)
-| ![Screenshot_20250717-113856](https://hackmd.io/_uploads/r1d0ClLLge.png) | ![Screenshot_20250717-123949](https://hackmd.io/_uploads/Sy0CAlLUll.png) |
-| ------------------------------------ | ------------------------------------ |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/r1d0ClLLge.png" alt="Screenshot_20250717-113856"></td>
+    <td><img src="https://hackmd.io/_uploads/Sy0CAlLUll.png" alt="Screenshot_20250717-123949"></td>
+  </tr>
+</table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### CMF by Nothing Phone 2 Pro
 ![CMF_Phone_2Pro_Geekbench6_組圖](https://hackmd.io/_uploads/SywemgLIxl.png)
-| ![Screenshot_20250712-025959](https://hackmd.io/_uploads/BJSZ7xLLlg.png) | ![Screenshot_20250712-032744](https://hackmd.io/_uploads/rJnZQl88ee.png) |
-| ------------------------------------ | ------------------------------------ |
-
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/BJSZ7xLLlg.png" alt="Screenshot_20250712-025959"></td>
+    <td><img src="https://hackmd.io/_uploads/rJnZQl88ee.png" alt="Screenshot_20250712-032744"></td>
+  </tr>
+</table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (3a) Pro
 ![NP3aPro_Geekbench6_組圖](https://hackmd.io/_uploads/H17NmeUIgl.png)
-| ![Screenshot_20250712-025847](https://hackmd.io/_uploads/HkcEme8Uxx.png) | ![Screenshot_20250712-032256](https://hackmd.io/_uploads/SJkBXg8Uxe.png) |
-| ------------------------------------ | ------------------------------------ |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/HkcEme8Uxx.png" alt="Screenshot_20250712-025847"></td>
+    <td><img src="https://hackmd.io/_uploads/SJkBXg8Uxe.png" alt="Screenshot_20250712-032256"></td>
+  </tr>
+</table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (3a)
 ![NP3a_Geekbench6_組圖](https://hackmd.io/_uploads/Sy_BXgL8eg.png)
-| ![Screenshot_20250712-025851](https://hackmd.io/_uploads/Hysr7lUIlg.png) | ![Screenshot_20250712-032524](https://hackmd.io/_uploads/B1LU7xLIgl.png) |
-| ------------------------------------ | ------------------------------------ |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/Hysr7lUIlg.png" alt="Screenshot_20250712-025851"></td>
+    <td><img src="https://hackmd.io/_uploads/B1LU7xLIgl.png" alt="Screenshot_20250712-032524"></td>
+  </tr>
+</table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### CMF by Nothing Phone 1
 ![CMF_Phone_1_Geekbench6_組圖](https://hackmd.io/_uploads/rkDPXxILee.png)
-| ![Screenshot_20250712-025934](https://hackmd.io/_uploads/B19PQl8Ull.png) | ![Screenshot_20250712-032743](https://hackmd.io/_uploads/HyWu7eUIee.png) |
-| ------------------------------------ | ------------------------------------ |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/B19PQl8Ull.png" alt="Screenshot_20250712-025934"></td>
+    <td><img src="https://hackmd.io/_uploads/HyWu7eUIee.png" alt="Screenshot_20250712-032743"></td>
+  </tr>
+</table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (2a)
 ![NP2a_Geekbench6_組圖](https://hackmd.io/_uploads/rJcuXl8Ixg.png)
-| ![Screenshot_20250712-025901](https://hackmd.io/_uploads/r1WYmeI8eg.png) | ![Screenshot_20250712-032415](https://hackmd.io/_uploads/H1vKQxLLgl.png) |
-| ------------------------------------ | ------------------------------------ |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/r1WYmeI8eg.png" alt="Screenshot_20250712-025901"></td>
+    <td><img src="https://hackmd.io/_uploads/H1vKQxLLgl.png" alt="Screenshot_20250712-032415"></td>
+  </tr>
+</table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (2)
 ![NP2_Geekbench6_組圖](https://hackmd.io/_uploads/Bk7TVeUIgl.png)
-| ![Screenshot_20250717-111436](https://hackmd.io/_uploads/SyoA4gUIge.png) | ![Screenshot_20250717-113508](https://hackmd.io/_uploads/BJbJHe8Ule.png) |
-| ------------------------------------ | ------------------------------------ |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/SyoA4gUIge.png" alt="Screenshot_20250717-111436"></td>
+    <td><img src="https://hackmd.io/_uploads/BJbJHe8Ule.png" alt="Screenshot_20250717-113508"></td>
+  </tr>
+</table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (1)
 ![NP1_Geekbench6_組圖](https://hackmd.io/_uploads/SkB9QlUIle.png)
-| ![Screenshot_20250712-030001](https://hackmd.io/_uploads/BkjcXeIIxe.png) | ![Screenshot_20250712-032455](https://hackmd.io/_uploads/S1gsmlLUge.png) |
-| ------------------------------------ | ------------------------------------ |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/BkjcXeIIxe.png" alt="Screenshot_20250712-030001"></td>
+    <td><img src="https://hackmd.io/_uploads/S1gsmlLUge.png" alt="Screenshot_20250712-032455"></td>
+  </tr>
+</table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 而我這邊也幫各位做成圖表，可以更好的判斷出效能高低。
@@ -163,9 +192,12 @@ Nothing Phone (3) 出廠即搭載目前最新的 Nothing OS 3.5 Android 15 版�
 #### 同場加映（QRD8735）：
 QRD8735 - Snapdragon 8s Gen4 高通參考設計
 ![QRD8735_Geekbench6_組圖](https://hackmd.io/_uploads/SyffwlILgl.png)
-| ![Screenshot_20250714-070301](https://hackmd.io/_uploads/B19zwgIIgl.png) | ![Screenshot_20250714-072414](https://hackmd.io/_uploads/SJHXDeL8ll.png) |
-| ------------------------------------ | ------------------------------------ |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/B19zwgIIgl.png" alt="Screenshot_20250714-070301"></td>
+    <td><img src="https://hackmd.io/_uploads/SJHXDeL8ll.png" alt="Screenshot_20250714-072414"></td>
+  </tr>
+</table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 另外，網路上目前對於 Snapdragon 8s Gen4 的評價，絕大多數都認為這顆 SOC 蠻熱的，我必須誠實地說，這顆 SOC 確實是會有發熱的情形。但**僅限於在高負載的條件之下**，一般日常使用，其實一點也不燙，甚至連溫都說不上，不過 QRD8735 一旦開始跑效能測試，那可說是相當燙手，燙到我一度無法從桌上拿起來。
@@ -184,36 +216,61 @@ QRD8735 - Snapdragon 8s Gen4 高通參考設計
 Nothing Tech 台北南港辦公室參訪
 ---
 有幸在 7/14 前往 Nothing Tech 在台北南港的辦公室參觀，其實主要是去與 Nothing Tech 的工程師見面，順便交流一下，以及進行一些測試。
-| ![IMG_20250714_142819543](https://hackmd.io/_uploads/B1sABgIIll.jpg) | ![IMG_20250714_143016027](https://hackmd.io/_uploads/SkEyLlI8lg.jpg) |
-| ------------------------------------ | ------------------------------------ |
-| ![IMG_20250714_161024763](https://hackmd.io/_uploads/ryRy8xIIxg.jpg) | ![IMG_20250714_162147494](https://hackmd.io/_uploads/S1te8xULge.jpg) |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/B1sABgIIll.jpg" alt="IMG_20250714_142819543"></td>
+    <td><img src="https://hackmd.io/_uploads/SkEyLlI8lg.jpg" alt="IMG_20250714_143016027"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/ryRy8xIIxg.jpg" alt="IMG_20250714_161024763"></td>
+    <td><img src="https://hackmd.io/_uploads/S1te8xULge.jpg" alt="IMG_20250714_162147494"></td>
+  </tr>
+</table>
 特別感謝 Nothing Tech Taiwan 的夥伴接待，也有幸收到一些紀念品，分別是兩雙 Nothing 的襪子，一個手機掛繩，一頂 Nothing 的帽子。
-| ![IMG_20250714_182245420](https://hackmd.io/_uploads/BJX8Ug8Lll.jpg) | ![IMG_20250714_182456235](https://hackmd.io/_uploads/HJuU8lLLxx.jpg) |
-| ------------------------------------ | ------------------------------------ |
-| ![IMG_20250714_182535381](https://hackmd.io/_uploads/rkaILeU8xx.jpg) | ![IMG_20250714_182615259](https://hackmd.io/_uploads/S1gmw8lL8lx.jpg) |
-
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/BJX8Ug8Lll.jpg" alt="IMG_20250714_182245420"></td>
+    <td><img src="https://hackmd.io/_uploads/HJuU8lLLxx.jpg" alt="IMG_20250714_182456235"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/rkaILeU8xx.jpg" alt="IMG_20250714_182535381"></td>
+    <td><img src="https://hackmd.io/_uploads/S1gmw8lL8lx.jpg" alt="IMG_20250714_182615259"></td>
+  </tr>
+</table>
 智慧 Essential
 ---
 從 Nothing Phone (3a) 系列開始，就加入的 Essential Space 在 Nothing Phone (3) 上面正式升級成為完全體 - 「智慧 Essential」
 這次的智慧 Essential，可說是整合了許多東西。其中最吸引我的其實是「Essential 錄音機」，因為在這個功能之下，可以在翻轉螢幕的情況下悄悄的開始錄音，最終還可以用 AI 進行會議摘要，相當實用。
 以及整合 ChatGPT 的功能，可以更快速的把截圖跟文字交給 ChatGPT 做分析或是討論，這個對於有購買 ChatGPT Plus / Pro 的人，那就是一大福音。
-| ![Screenshot_20250712-014353](https://hackmd.io/_uploads/SyovorLIlg.png) | ![Screenshot_20250712-014355](https://hackmd.io/_uploads/SkfdirLLgg.png) | ![Screenshot_20250712-014753](https://hackmd.io/_uploads/S11FoBIIll.png) |
-| ------------------------------------ | ------------------------------------ | ------------------------------------ |
-| ![Screenshot_20250712-014809](https://hackmd.io/_uploads/BkcFoBULex.png) | ![Screenshot_20250712-014811](https://hackmd.io/_uploads/BJr9orLIll.png) | ![Screenshot_20250712-014814](https://hackmd.io/_uploads/BkaqoSULex.png) |
-| ![Screenshot_20250712-014818](https://hackmd.io/_uploads/HyYssHLUxl.png) | ![Screenshot_20250712-014831](https://hackmd.io/_uploads/Bys6jHLUxx.png) | ![Screenshot_20250712-014837](https://hackmd.io/_uploads/r1CY2SI8gx.png) |
-
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/SyovorLIlg.png" alt="Screenshot_20250712-014353"></td>
+    <td><img src="https://hackmd.io/_uploads/SkfdirLLgg.png" alt="Screenshot_20250712-014355"></td>
+    <td><img src="https://hackmd.io/_uploads/S11FoBIIll.png" alt="Screenshot_20250712-014753"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/BkcFoBULex.png" alt="Screenshot_20250712-014809"></td>
+    <td><img src="https://hackmd.io/_uploads/BJr9orLIll.png" alt="Screenshot_20250712-014811"></td>
+    <td><img src="https://hackmd.io/_uploads/BkaqoSULex.png" alt="Screenshot_20250712-014814"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/HyYssHLUxl.png" alt="Screenshot_20250712-014818"></td>
+    <td><img src="https://hackmd.io/_uploads/Bys6jHLUxx.png" alt="Screenshot_20250712-014831"></td>
+    <td><img src="https://hackmd.io/_uploads/r1CY2SI8gx.png" alt="Screenshot_20250712-014837"></td>
+  </tr>
+</table>
 Glyph Matrix
 ---
 這次 Nothing Phone (3) 最大的亮點就是 Glyph Matrix 動態燈陣，雖然在 Nothing 官方社群以及部分新聞稿甚至 YouTuber 評測當中，更多的都是吐槽，但我覺得看久就突然習慣了？！
 不過鏡頭排列還是讓我覺得有點不太能接受XD
 其中，Glyph 可以設定成類似 AOD 的方式，使得使用者可以將螢幕朝下放置時，也可以預覽電量，這是我先前使用 Nothing Phone 最讓我頭疼的地方，在先前的 Glyph Light 確實無法做到查看具體電量的這個功能（只能看個大概電量）
 
-| ![Screenshot_20250712-014308](https://hackmd.io/_uploads/B1H1-SULlg.png) | ![Screenshot_20250712-014346](https://hackmd.io/_uploads/HyblfS88xe.png) |
-| ------------------------------------ | ------------------------------------ |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/B1H1-SULlg.png" alt="Screenshot_20250712-014308"></td>
+    <td><img src="https://hackmd.io/_uploads/HyblfS88xe.png" alt="Screenshot_20250712-014346"></td>
+  </tr>
+</table>
 預先支援的小玩具就已經不少了，甚至 Nothing Tech 也有把 API 開源，可以讓玩家自己開發 Glyph Matrix 動態燈陣的小玩具
 1. [Glyph Matrix Developer Kit 開發套件](https://github.com/Nothing-Developer-Programme/GlyphMatrix-Developer-Kit)
 2. [GlyphMatrix-Example-Project 範例](https://github.com/Nothing-Developer-Programme/GlyphMatrix-Example-Project)
@@ -221,12 +278,23 @@ Glyph Matrix
 我想我之後，有時間可能會自己根據官方的說明文件，開發一個小玩具，具體實現一下我腦中的想法。
 
 內建就已經有了以下 9 個小玩具可以選
-| ![Screenshot_20250712-014313](https://hackmd.io/_uploads/rykGbrIIxx.png) | ![Screenshot_20250712-014316](https://hackmd.io/_uploads/rkNzZHUUlg.png) | ![Screenshot_20250712-014317](https://hackmd.io/_uploads/ryjzWBIUle.png) |
-| ------------------------------------ | ------------------------------------ | ------------------------------------ |
-| ![Screenshot_20250712-014319](https://hackmd.io/_uploads/HkmNWBI8eg.png) | ![Screenshot_20250712-014321](https://hackmd.io/_uploads/HyFNbSUUgl.png) | ![Screenshot_20250712-014325](https://hackmd.io/_uploads/HkNYbSI8xl.png) |
-| ![Screenshot_20250712-014327](https://hackmd.io/_uploads/SJNc-rIIee.png) | ![Screenshot_20250712-014330](https://hackmd.io/_uploads/BJtqZBLIex.png) | ![Screenshot_20250712-014332](https://hackmd.io/_uploads/S1xiZSULge.png) |
-
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/rykGbrIIxx.png" alt="Screenshot_20250712-014313"></td>
+    <td><img src="https://hackmd.io/_uploads/rkNzZHUUlg.png" alt="Screenshot_20250712-014316"></td>
+    <td><img src="https://hackmd.io/_uploads/ryjzWBIUle.png" alt="Screenshot_20250712-014317"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/HkmNWBI8eg.png" alt="Screenshot_20250712-014319"></td>
+    <td><img src="https://hackmd.io/_uploads/HyFNbSUUgl.png" alt="Screenshot_20250712-014321"></td>
+    <td><img src="https://hackmd.io/_uploads/HkNYbSI8xl.png" alt="Screenshot_20250712-014325"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/SJNc-rIIee.png" alt="Screenshot_20250712-014327"></td>
+    <td><img src="https://hackmd.io/_uploads/BJtqZBLIex.png" alt="Screenshot_20250712-014330"></td>
+    <td><img src="https://hackmd.io/_uploads/S1xiZSULge.png" alt="Screenshot_20250712-014332"></td>
+  </tr>
+</table>
 Nothing Camera 相機
 ---
 Nothing Phone (3) 所搭載的相機鏡頭可說是大規模的升級，前攝以及後攝，全部都是 5000 萬畫素。

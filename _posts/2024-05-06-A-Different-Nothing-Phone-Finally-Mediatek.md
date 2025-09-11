@@ -63,9 +63,13 @@ Nothing Phone (2a)
 
 在我拿到手機之後，經歷了一次大版本更新（2.5.1A -> 2.5.5a）
 
-| ![Screenshot_20240503-182403](https://hackmd.io/_uploads/SJpnLK4GC.png) | ![Screenshot_20240503-182821~2](https://hackmd.io/_uploads/SkeOvFVzC.png) | ![Screenshot_20240503-184648](https://hackmd.io/_uploads/rJGAUFVGA.png) |
-| ------------------------------------ | ------------------------------------ | ------------------------------------ |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/SJpnLK4GC.png" alt="Screenshot_20240503-182403"></td>
+    <td><img src="https://hackmd.io/_uploads/SkeOvFVzC.png" alt="Screenshot_20240503-182821~2"></td>
+    <td><img src="https://hackmd.io/_uploads/rJGAUFVGA.png" alt="Screenshot_20240503-184648"></td>
+  </tr>
+</table>
 這次的 Nothing Phone (2a) 使用了聯發科天璣 7200 Pro 中階 SOC，性能上雖不及前一代旗艦產品定位的 Nothing Phone (2)。儘管性能上有所不足，但實際使用後，感受意外地流暢，超出預期。
 這部分應該歸功於 Nothing OS 的最佳化調教，使得聯發科天璣 7200 Pro 的表現得以發揮。雖然對於中階 SOC 來說，部分重度應用場景和相機 HDR 處理較為吃力，但整體成果還是出人意料。在台灣市場，除了基本的 8G+128GB 版本，還有提供 12G+256GB 的版本，而我使用的正是 12G+256GB 版本。
 
@@ -74,9 +78,12 @@ Nothing OS
 ---
 有了原生輕量化的 Nothing OS 加持，也讓原本中階定位的 SOC 能夠擁有更流暢的使用體驗。
 而我也隨手測試了 Nothing Phone (2a) 於 Nothing OS 2.5.5a 上的效能。
-| ![Nothing Phone (2a) NothingOS 2.5.5a](https://hackmd.io/_uploads/rJPhWjEGR.png) | ![Nothing Phone (2a) 3DMark](https://hackmd.io/_uploads/Hy86-sVGR.png) |
-| ------------------------------------ | ------------------------------------ |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/rJPhWjEGR.png" alt="Nothing Phone (2a) NothingOS 2.5.5a"></td>
+    <td><img src="https://hackmd.io/_uploads/Hy86-sVGR.png" alt="Nothing Phone (2a) 3DMark"></td>
+  </tr>
+</table>
 ▲ GeekBench 6 連續 4 次的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 以下是對照組，有 Nothing Phone (1) 以及 Nothing Phone (2)
@@ -93,18 +100,33 @@ Nothing OS
 
 
 搭載了原生 Android 14 的 Nothing OS，也不只有原生 Android 的一些基本功能，Nothing Tech 也針對玩家的使用者加入 Glpyh Light 燈效的進度列功能、甚至是支援 AirPods、增強遊戲場景的觸控回應，亦或是遊戲模式的實驗性功能。也期許未來 Nothing 可以提供更多更好玩的功能給極客的玩家使用體驗。（如下圖所示）
-| ![Screenshot_20240505-141455](https://hackmd.io/_uploads/BJDjpRVzC.png) | ![Screenshot_20240505-141457](https://hackmd.io/_uploads/HJ0opAEf0.png) | ![Screenshot_20240505-141501](https://hackmd.io/_uploads/ryI2TCVzR.png) |
-| ------------------------------------ | ------------------------------------ | ------------------------------------ |
-| ![Screenshot_20240505-141505](https://hackmd.io/_uploads/HyHap04fR.png) | ![Screenshot_20240504-004456](https://hackmd.io/_uploads/SJMATCEfC.png) | ![Screenshot_20240504-004327](https://hackmd.io/_uploads/r1-gCA4fR.png) |
-
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/BJDjpRVzC.png" alt="Screenshot_20240505-141455"></td>
+    <td><img src="https://hackmd.io/_uploads/HJ0opAEf0.png" alt="Screenshot_20240505-141457"></td>
+    <td><img src="https://hackmd.io/_uploads/ryI2TCVzR.png" alt="Screenshot_20240505-141501"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/HyHap04fR.png" alt="Screenshot_20240505-141505"></td>
+    <td><img src="https://hackmd.io/_uploads/SJMATCEfC.png" alt="Screenshot_20240504-004456"></td>
+    <td><img src="https://hackmd.io/_uploads/r1-gCA4fR.png" alt="Screenshot_20240504-004327"></td>
+  </tr>
+</table>
 Nothing OS 也引入了最新的 AI 桌布功能，供使用者可以自行生成出符合風格的獨一無二的桌布。
 也持續保留了原本就有加入帶有 Nothing 風格的鎖定螢幕小工具。（如下圖所示）
 
-| ![Screenshot_20240504-004429](https://hackmd.io/_uploads/HkEWRRVGC.png) | ![Screenshot_20240504-004355](https://hackmd.io/_uploads/BJTZR0VzR.png) | ![Screenshot_20240504-004424](https://hackmd.io/_uploads/SyofCCEz0.png) |
-| ------------------------------------ | ------------------------------------ | ------------------------------------ |
-| ![Screenshot_20240504-004421](https://hackmd.io/_uploads/SkH7ACNM0.png) | ![Screenshot_20240504-004432](https://hackmd.io/_uploads/Bk0X00NzA.png) | ![Screenshot_20240504-004438](https://hackmd.io/_uploads/H1IV0REGA.png) |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/HkEWRRVGC.png" alt="Screenshot_20240504-004429"></td>
+    <td><img src="https://hackmd.io/_uploads/BJTZR0VzR.png" alt="Screenshot_20240504-004355"></td>
+    <td><img src="https://hackmd.io/_uploads/SyofCCEz0.png" alt="Screenshot_20240504-004424"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/SkH7ACNM0.png" alt="Screenshot_20240504-004421"></td>
+    <td><img src="https://hackmd.io/_uploads/Bk0X00NzA.png" alt="Screenshot_20240504-004432"></td>
+    <td><img src="https://hackmd.io/_uploads/H1IV0REGA.png" alt="Screenshot_20240504-004438"></td>
+  </tr>
+</table>
 Nothing Phone (2a) 是我在 6 年之後再度使用聯發科 SOC 的手機產品，成功揮別我對聯發科 SOC 就是「卡頓」、「發熱」、「手機廠商提供更新頻率不高」...等既有的負面印象。
 
 
@@ -116,17 +138,41 @@ Nothing Camera 相機
 ###### 本次拍攝的條件都是原圖直出，僅有開啟手機內建的 HDR (Auto)，其餘都是在一般拍攝模式下直接拍攝。
 
 ▼ 由 Nothing Phone (2a) 拍攝
-| ![IMG_20240504_190945174](https://hackmd.io/_uploads/HydZ7eSMC.jpg) | ![IMG_20240504_191004010](https://hackmd.io/_uploads/rkyMQeHG0.jpg) | ![IMG_20240504_191505444](https://hackmd.io/_uploads/Hk7zmgrGR.jpg) |
-| ------------------------------------ | ------------------------------------ | ------------------------------------ |
-| ![IMG_20240504_195000280](https://hackmd.io/_uploads/B1NmQeSM0.jpg) | ![IMG_20240504_195048853](https://hackmd.io/_uploads/S1oXmgHfC.jpg) | ![IMG_20240504_195606445](https://hackmd.io/_uploads/rkgEQlBzA.jpg) |
-| ![IMG_20240504_200520912](https://hackmd.io/_uploads/HJI47xrGR.jpg) | ![IMG_20240504_200725266](https://hackmd.io/_uploads/rJRL7grfC.jpg) | ![IMG_20240504_201228800](https://hackmd.io/_uploads/Bymv7gHMR.jpg) |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/HydZ7eSMC.jpg" alt="IMG_20240504_190945174"></td>
+    <td><img src="https://hackmd.io/_uploads/rkyMQeHG0.jpg" alt="IMG_20240504_191004010"></td>
+    <td><img src="https://hackmd.io/_uploads/Hk7zmgrGR.jpg" alt="IMG_20240504_191505444"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/B1NmQeSM0.jpg" alt="IMG_20240504_195000280"></td>
+    <td><img src="https://hackmd.io/_uploads/S1oXmgHfC.jpg" alt="IMG_20240504_195048853"></td>
+    <td><img src="https://hackmd.io/_uploads/rkgEQlBzA.jpg" alt="IMG_20240504_195606445"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/HJI47xrGR.jpg" alt="IMG_20240504_200520912"></td>
+    <td><img src="https://hackmd.io/_uploads/rJRL7grfC.jpg" alt="IMG_20240504_200725266"></td>
+    <td><img src="https://hackmd.io/_uploads/Bymv7gHMR.jpg" alt="IMG_20240504_201228800"></td>
+  </tr>
+</table>
 ▼ 由 Nothing Phone (2) 拍攝
-| ![IMG_20240504_191045790](https://hackmd.io/_uploads/SkGKfzSzR.jpg) | ![IMG_20240504_191025345](https://hackmd.io/_uploads/HJ2_MfSz0.jpg) | ![IMG_20240504_191440479](https://hackmd.io/_uploads/r1wFffSMR.jpg) |
-| ------------------------------------ | ------------------------------------ | ------------------------------------ |
-| ![IMG_20240504_194949929](https://hackmd.io/_uploads/rJHcfzSzC.jpg) | ![IMG_20240504_195055484](https://hackmd.io/_uploads/B1RqffHGC.jpg) | ![IMG_20240504_195904322](https://hackmd.io/_uploads/H1QiGfHGA.jpg) |
-| ![IMG_20240504_200531595](https://hackmd.io/_uploads/HkCiMGBMA.jpg) | ![IMG_20240504_200738055](https://hackmd.io/_uploads/SJX2GGBzR.jpg) | ![IMG_20240504_201243479](https://hackmd.io/_uploads/r1dhMMrM0.jpg) |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/SkGKfzSzR.jpg" alt="IMG_20240504_191045790"></td>
+    <td><img src="https://hackmd.io/_uploads/HJ2_MfSz0.jpg" alt="IMG_20240504_191025345"></td>
+    <td><img src="https://hackmd.io/_uploads/r1wFffSMR.jpg" alt="IMG_20240504_191440479"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/rJHcfzSzC.jpg" alt="IMG_20240504_194949929"></td>
+    <td><img src="https://hackmd.io/_uploads/B1RqffHGC.jpg" alt="IMG_20240504_195055484"></td>
+    <td><img src="https://hackmd.io/_uploads/H1QiGfHGA.jpg" alt="IMG_20240504_195904322"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/HkCiMGBMA.jpg" alt="IMG_20240504_200531595"></td>
+    <td><img src="https://hackmd.io/_uploads/SJX2GGBzR.jpg" alt="IMG_20240504_200738055"></td>
+    <td><img src="https://hackmd.io/_uploads/r1dhMMrM0.jpg" alt="IMG_20240504_201243479"></td>
+  </tr>
+</table>
 這次 Nothing Phone (2a) 所搭載的後鏡頭分別為兩顆支援 5000 萬畫素，一顆為超廣角，且主鏡頭也支援廣角。
 照片的調色上屬於更加鮮豔，討眼球的風格，拍攝出的美食，也令人感到更有食慾。
 不過，個人認為在遇到燈光較強烈的場景，目前的算法，針對高光抑制的狀況仍有待加強，這可以期許在未來的 OTA 當中修復。

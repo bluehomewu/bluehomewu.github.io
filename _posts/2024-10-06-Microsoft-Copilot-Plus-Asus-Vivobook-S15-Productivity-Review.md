@@ -21,17 +21,26 @@ tags: [ASUS, Qualcomm, Laptop]
 第一場活動，主軸為攝影以及與 Snapdragon 團隊交流。
 第二場活動，則是著重於 #BuildForAI 2023 Snapdragon 高峰會技術解密，也正是在這場活動中將 Qualcomm Clamshell Reference Design(CRD) 亮相，讓 Insiders 首次體驗到 Snapdragon X Elite 的實力。
 
-| ![P_20231215_205539](https://hackmd.io/_uploads/ryGbl7mAA.jpg) | ![P_20231215_211047](https://hackmd.io/_uploads/r1jWl7XCC.jpg) |
-| ------------------------------------ | ------------------------------------ |
-| ![P_20231215_211058](https://hackmd.io/_uploads/BkFMeXXRC.jpg) | ![P_20231215_212328](https://hackmd.io/_uploads/H1dIxmQ00.jpg) |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/ryGbl7mAA.jpg" alt="P_20231215_205539"></td>
+    <td><img src="https://hackmd.io/_uploads/r1jWl7XCC.jpg" alt="P_20231215_211047"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/BkFMeXXRC.jpg" alt="P_20231215_211058"></td>
+    <td><img src="https://hackmd.io/_uploads/H1dIxmQ00.jpg" alt="P_20231215_212328"></td>
+  </tr>
+</table>
 第三場活動，正式介紹了 Snapdragon X 系列平台的 Copilot+ PC 以及透過創作者宇恩 yu_n [@peichen0422](https://www.instagram.com/peichen0422/) 分享如何使用 Copilot+ PC 以提升生產力。
 當天宇恩於現場 Demo Copilot+ 應用程式時，就是使用 ASUS Vivobook S15 (S5507)，也正是本次我要上手體驗的主角。
 
-| ![IMG_20240809_193814438](https://hackmd.io/_uploads/HysY_TG00.jpg) | ![IMG_20240809_193826870](https://hackmd.io/_uploads/r1-qdpz0C.jpg) |
-| ------------------------------------ | ------------------------------------ |
-
-> 還沒看過 Nothing Phone (1) 的上手體驗文章看這邊
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/HysY_TG00.jpg" alt="IMG_20240809_193814438"></td>
+    <td><img src="https://hackmd.io/_uploads/r1-qdpz0C.jpg" alt="IMG_20240809_193826870"></td>
+  </tr>
+</table
+>> 還沒看過 Nothing Phone (1) 的上手體驗文章看這邊
 > -> [從 Android 系統開發者的角度評價 Nothing Phone(1)](https://hackmd.io/@EdwardWu/Spacewar_review)
 > 
 > 還沒看過 Nothing Phone (2a) 的上手體驗文章看這邊
@@ -84,11 +93,20 @@ ASUS Vivobook S15 (S5507)
 ### 外觀
 讓我們先來快速看一下這次的 ASUS Vivobook S15 OLED (S5507) 的外型，畢竟購買輕薄筆電的主要客群，應該也相當注重外型是否可以入的了自己的眼。
 
-| ![P_20240908_175006](https://hackmd.io/_uploads/HJoLLls2A.jpg) | ![P_20240908_175013](https://hackmd.io/_uploads/r1GD8lin0.jpg) |
-| ------------------------------------ | ------------------------------------ |
-| ![P_20240908_175035](https://hackmd.io/_uploads/ByAd8xo30.jpg) | ![P_20240908_175104](https://hackmd.io/_uploads/HJdKUlinC.jpg) |
-| ![P_20240908_175118](https://hackmd.io/_uploads/SkJRveinR.jpg) | ![P_20240908_175138](https://hackmd.io/_uploads/rJE0wlsh0.jpg) |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/HJoLLls2A.jpg" alt="P_20240908_175006"></td>
+    <td><img src="https://hackmd.io/_uploads/r1GD8lin0.jpg" alt="P_20240908_175013"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/ByAd8xo30.jpg" alt="P_20240908_175035"></td>
+    <td><img src="https://hackmd.io/_uploads/HJdKUlinC.jpg" alt="P_20240908_175104"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/SkJRveinR.jpg" alt="P_20240908_175118"></td>
+    <td><img src="https://hackmd.io/_uploads/rJE0wlsh0.jpg" alt="P_20240908_175138"></td>
+  </tr>
+</table>
 ▲ Take By ASUS ZenFone 11 Ultra
 
 右側提供了兩個 USB Type-A 皆為 5Gbps 的傳輸速率，左側則提供了一個全尺寸的 HDMI、2 個 USB 4.0 Gen 3 Type-C、3.5mm 音訊插孔以及 Micro SD 讀卡機，該有的接口都有提供，這對於經常性攜帶輕薄筆電到處移動的人群來說，非常實用，這也相當適合創作者外出拍攝之後快速過檔用的機器，又或者是文字工作者等消費者群體。
@@ -96,27 +114,59 @@ ASUS Vivobook S15 (S5507)
 
 ASUS 目前已有許多 Laptop 產品，都是採用 OLED 的螢幕，發色相當鮮豔，且自帶色彩校色文件，對於調色、影音編輯等，對於螢幕色彩表現有要求的人來說，相當友好。
 
-| ![ASUS Vivibook S S5507QA PR Kit_20230412中文_頁面_06](https://hackmd.io/_uploads/HknFfNFCR.png) | ![ASUS Vivibook S S5507QA PR Kit_20230412中文_頁面_08](https://hackmd.io/_uploads/rk0sfEFC0.png) |
-| ------------------------------------ | ------------------------------------ |
-| ![ASUS Vivibook S S5507QA PR Kit_20230412中文_頁面_14](https://hackmd.io/_uploads/B1DJmVK0C.png) | ![ASUS Vivibook S S5507QA PR Kit_20230412中文_頁面_37](https://hackmd.io/_uploads/B1FxXEFRA.png) |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/HknFfNFCR.png" alt="ASUS Vivibook S S5507QA PR Kit_20230412中文_頁面_06"></td>
+    <td><img src="https://hackmd.io/_uploads/rk0sfEFC0.png" alt="ASUS Vivibook S S5507QA PR Kit_20230412中文_頁面_08"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/B1DJmVK0C.png" alt="ASUS Vivibook S S5507QA PR Kit_20230412中文_頁面_14"></td>
+    <td><img src="https://hackmd.io/_uploads/B1FxXEFRA.png" alt="ASUS Vivibook S S5507QA PR Kit_20230412中文_頁面_37"></td>
+  </tr>
+</table>
 ### 硬體效能
 > ###### 在這個環節，我預計採用 Arm64 版本的效能測試工具以及 x86_64 版本的工具進行對比<br>藉此測試 Windows On Arm 24H2 提供的新版模擬引擎 "Prism 轉譯器"<br>但有些軟體不能讓 Arm64 的 Windows 執行，就只列出 Arm64 版本的測試結果
+
 以下列舉幾個常見的效能測試軟體：
-- CPU-Z Arm64
-![CPU-Z_Arm64](https://hackmd.io/_uploads/BJfRS4fCR.png)
-- CPU-Z x86_64
-![CPU-Z_x86-64](https://hackmd.io/_uploads/Sk7NIVfRR.png)
-- Cinebench Arm64
-![Cinebench_Arm64](https://hackmd.io/_uploads/rJvaINfAC.png)
-- Geekbench6 Arm64
-![Geekbench6_Arm64](https://hackmd.io/_uploads/BJfA8EfC0.png)
-- Geekbench6 OpenCL
-![Geekbench6_OpenCL](https://hackmd.io/_uploads/HkPRUVMRA.png)
-- Geekbench6 Vulkan
-![Geekbench6_Vulkan](https://hackmd.io/_uploads/Hkp0L4M00.png)
-- 7-Zip Arm64
-![7-Zip_Arm64](https://hackmd.io/_uploads/rkiUvVzCA.png)
+
+<table style="width:100%; border: none;">
+  <tr style="background-color: transparent;">
+    <td style="text-align: center; border: none; padding: 10px;">
+      <p><strong>CPU-Z Arm64</strong></p>
+      <img src="https://hackmd.io/_uploads/BJfRS4fCR.png" alt="CPU-Z Arm64" style="max-width:100%; display: block; margin: auto;">
+    </td>
+    <td style="text-align: center; border: none; padding: 10px;">
+      <p><strong>CPU-Z x86_64</strong></p>
+      <img src="https://hackmd.io/_uploads/Sk7NIVfRR.png" alt="CPU-Z x86-64" style="max-width:100%; display: block; margin: auto;">
+    </td>
+  </tr>
+  <tr style="background-color: transparent;">
+    <td style="text-align: center; border: none; padding: 10px;">
+      <p><strong>Cinebench Arm64</strong></p>
+      <img src="https://hackmd.io/_uploads/rJvaINfAC.png" alt="Cinebench Arm64" style="max-width:100%; display: block; margin: auto;">
+    </td>
+    <td style="text-align: center; border: none; padding: 10px;">
+      <p><strong>Geekbench6 Arm64</strong></p>
+      <img src="https://hackmd.io/_uploads/BJfA8EfC0.png" alt="Geekbench6 Arm64" style="max-width:100%; display: block; margin: auto;">
+    </td>
+  </tr>
+  <tr style="background-color: transparent;">
+    <td style="text-align: center; border: none; padding: 10px;">
+      <p><strong>Geekbench6 OpenCL</strong></p>
+      <img src="https://hackmd.io/_uploads/HkPRUVMRA.png" alt="Geekbench6 OpenCL" style="max-width:100%; display: block; margin: auto;">
+    </td>
+    <td style="text-align: center; border: none; padding: 10px;">
+      <p><strong>Geekbench6 Vulkan</strong></p>
+      <img src="https://hackmd.io/_uploads/Hkp0L4M00.png" alt="Geekbench6 Vulkan" style="max-width:100%; display: block; margin: auto;">
+    </td>
+  </tr>
+  <tr style="background-color: transparent;">
+    <td colspan="2" style="text-align: center; border: none; padding: 10px;">
+      <p><strong>7-Zip Arm64</strong></p>
+      <img src="https://hackmd.io/_uploads/rkiUvVzCA.png" alt="7-Zip Arm64" style="max-width:50%; display: block; margin: auto;">
+    </td>
+  </tr>
+</table>
 
 - 在 Windows On Arm 產品當中，對比 x86_64 平台有著最明顯的優勢則是在電源管理的環節。
 ![Battery](https://hackmd.io/_uploads/HJMkpQtR0.png)
@@ -154,11 +204,20 @@ StoryCube 還提供了智慧標籤功能，讓你可以輕鬆地為照片增加�
 應用程式還會根據你的使用習慣和偏好，提供個性化的相簿推薦。無論是回顧過去的美好時光，還是建立新的相簿，StoryCube 都能為你提供最佳的建議。
 
 
-| ![StoryCube_1](https://hackmd.io/_uploads/SkG9YNfRA.png) | ![StoryCube_2](https://hackmd.io/_uploads/H1q_FVM0C.png) |
-| ------------------------------------ | ------------------------------------ |
-| ![StoryCube_3](https://hackmd.io/_uploads/S1HtFNzRA.png) | ![StoryCube_4](https://hackmd.io/_uploads/H1uqKEf00.png) |
-| ![StoryCube_5](https://hackmd.io/_uploads/H16iK4G0A.png) | ![StoryCube_6](https://hackmd.io/_uploads/rJm2tVfAC.png) |
-
+<table>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/SkG9YNfRA.png" alt="StoryCube_1"></td>
+    <td><img src="https://hackmd.io/_uploads/H1q_FVM0C.png" alt="StoryCube_2"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/S1HtFNzRA.png" alt="StoryCube_3"></td>
+    <td><img src="https://hackmd.io/_uploads/H1uqKEf00.png" alt="StoryCube_4"></td>
+  </tr>
+  <tr>
+    <td><img src="https://hackmd.io/_uploads/H16iK4G0A.png" alt="StoryCube_5"></td>
+    <td><img src="https://hackmd.io/_uploads/rJm2tVfAC.png" alt="StoryCube_6"></td>
+  </tr>
+</table>
 Vivobook S15 不止提供 Microsoft 於 Windows On Arm 24H2 版本中提供的系統級 AI 智慧應用程式，華碩也針對使用者的角度出發，開發了這套 StoryCube，幫助使用者管理照片。
 
 ### Copilot+
