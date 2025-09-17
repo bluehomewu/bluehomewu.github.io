@@ -75,9 +75,9 @@ Nothing Phone (3) 這次相對於上一代的 Nothing Phone (2) 在外觀方面�
 當然這塊螢幕也不是完全的一無是處，在亮度方面比起上一代的提升不少，這代總算在大夏天的戶外看的清楚了。
 
 從 Nothing Phone (2) 升級上來的使用者，會在網路方面很有感，首先，Nothing Phone (3) 支援了中華 4CA（或許有 5CA 也說不定，但我的生活圈要遇到 5CA 要點運氣以及找角度，大多數時候還是 4CA）
-![Screenshot_20250710-104920](/assets/img/posts/BkMk6tEIlx.png =500x)
+<img src="/assets/img/posts/BkMk6tEIlx.png" alt="Screenshot_20250710-104920" style="width: 500px;">
 原本在 Nothing Phone (2) 只有中華 3CA，遇到一些極限場景會有些不夠力。再者就是，終於升級上 WiFi 7 了，雖然這個其實是得益於 SOC 的升級，且在熱點分享的部分，也有提供 6Ghz 的選項可以供使用者選擇。
-![Screenshot_20250711-143514](/assets/img/posts/BkRiTKNUxg.png =500x)
+<img src="/assets/img/posts/BkRiTKNUxg.png" alt="Screenshot_20250711-143514" style="width: 500px;">
 
 
 
@@ -210,7 +210,7 @@ QRD8735 - Snapdragon 8s Gen4 高通參考設計
 4. 後台沒有開啟任何程式，但軟體背景服務、通知全程開啟，模擬正常使用下的情況
 5. 手機已經先轉移所有應用程式資料
 
-![Screenshot_20250721-092152](/assets/img/posts/Syp_t5oUle.png =500x)
+<img src="/assets/img/posts/Syp_t5oUle.png" alt="Screenshot_20250721-092152" style="width: 500px;">
 
 
 Nothing Tech 台北南港辦公室參訪

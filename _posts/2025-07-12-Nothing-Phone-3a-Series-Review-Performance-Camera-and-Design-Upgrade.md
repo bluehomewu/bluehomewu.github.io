@@ -190,7 +190,7 @@ Nothing Camera 相機
 </table>
 ▼ 以下是對照組 30x 以及原始 1x 的距離差異。
 - 即使原本就有支援 OIS，但由於傳感器的特性，放大倍率越大，輕微的抖動就越明顯，因此還是不建議放到這麼大來做拍攝，除非有額外使用三軸穩定器。
-![Screenshot_20250309-162127](/assets/img/posts/SJJBOJ731x.png =50%x)
+<img src="/assets/img/posts/SJJBOJ731x.png" alt="Screenshot_20250309-162127" style="width: 50%;">
 
 ▼ 由 Nothing Phone (3a) Pro 拍攝
 <table>
@@ -240,7 +240,7 @@ Nothing Camera 相機
 總結
 ---
 給個沒用的小知識， Nothing Phone (3a) 以及 (3a) Pro 的 SIM 卡卡托，是相同尺寸的可以相互交換。
-![IMG_20250307_004736309](/assets/img/posts/HJnuMlX3ye.jpg =50%x)
+<img src="/assets/img/posts/HJnuMlX3ye.jpg" alt="IMG_20250307_004736309" style="width: 50%;">
 
 總結來說，這次 Nothing Tech 在策略布局上，應該算是絞盡腦汁，繳出一張相當不錯的成績單，在規格方面除了 SOC 我認為可以再稍微換上更高一點效能的 SOC，其餘表現我都認為相當不錯。
 只可惜據我所知的消息，Nothing Phone (3a) Pro 暫時沒有引進台灣市場販售的計畫，雖然現階段 NCC 是有通過驗證了，可以期待未來有沒有機會再引進販售。
