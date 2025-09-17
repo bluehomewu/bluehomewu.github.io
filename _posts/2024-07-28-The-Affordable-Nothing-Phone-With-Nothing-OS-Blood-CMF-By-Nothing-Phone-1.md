@@ -8,7 +8,7 @@ tags: [Nothing Tech, Android, Nothing, ROM, CMF]
 
 # 流著 Nothing OS 血液的平價版 Nothing Phone：CMF By Nothing Phone 1
 
-![IMG_20240719_211923700](https://hackmd.io/_uploads/S1dr3q9u0.jpg)
+![IMG_20240719_211923700](/assets/img/posts/S1dr3q9u0.jpg)
 
 前言
 ---
@@ -69,8 +69,8 @@ CMF By Nothing Phone 1
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/Hyw0jIRdC.jpg" alt="IMG_20240719_212047970"></td>
-    <td><img src="https://hackmd.io/_uploads/HySGa8RdR.jpg" alt="IMG_20240721_001354256"></td>
+    <td><img src="/assets/img/posts/Hyw0jIRdC.jpg" alt="IMG_20240719_212047970"></td>
+    <td><img src="/assets/img/posts/HySGa8RdR.jpg" alt="IMG_20240721_001354256"></td>
   </tr>
 </table>
 ▲ Take By Nothing Phone (2)
@@ -78,7 +78,7 @@ CMF By Nothing Phone 1
 我這次取得的 CMF By Nothing Phone 1 為 8+256 的淺綠色 (Light Green)。
 官方總共推出 3 款顏色，分別為黑、綠、橘；背蓋則額外提供了深藍色的選擇。
 
-![Cover](https://hackmd.io/_uploads/r1EZzPAO0.jpg)
+![Cover](/assets/img/posts/r1EZzPAO0.jpg)
 
 我個人認為這次的 4 個顏色中，淺綠色是最好看的，次者是橘色，黑色則是蠻普通且標準，我自己覺得深藍色沒有打中我的心。
 
@@ -86,9 +86,9 @@ CMF By Nothing Phone 1
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/BJ0fZkMF0.png" alt="Screenshot_20240719-214346"></td>
-    <td><img src="https://hackmd.io/_uploads/rkL7WkMtR.png" alt="Screenshot_20240721-000131"></td>
-    <td><img src="https://hackmd.io/_uploads/HypmWyGYC.png" alt="Screenshot_20240721-004701"></td>
+    <td><img src="/assets/img/posts/BJ0fZkMF0.png" alt="Screenshot_20240719-214346"></td>
+    <td><img src="/assets/img/posts/rkL7WkMtR.png" alt="Screenshot_20240721-000131"></td>
+    <td><img src="/assets/img/posts/HypmWyGYC.png" alt="Screenshot_20240721-004701"></td>
   </tr>
 </table>
 這次 CMF By Nothing Phone 1 的推出，產品定位偏向中階入門，也因此在 SOC 的配置上，採用的是聯發科天璣 7300。在性能上，當然無法與旗艦 SOC 進行對比，但就以天璣 7300 對比 Nothing Phone (2a) 所搭載的天璣 7200 Pro，可說是旗鼓相當。使用上甚至還有機會超越 Nothing Phone (2a) 的表現。
@@ -103,8 +103,8 @@ Nothing OS
 更新前：
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/SybiDkzKA.png" alt="CMF By Nothing Phone 1 NothingOS 2.6.0.Initial"></td>
-    <td><img src="https://hackmd.io/_uploads/SJAsPyMYR.png" alt="CMF Phone 1 NothingOS 2.6.0.Initial_3DMark"></td>
+    <td><img src="/assets/img/posts/SybiDkzKA.png" alt="CMF By Nothing Phone 1 NothingOS 2.6.0.Initial"></td>
+    <td><img src="/assets/img/posts/SJAsPyMYR.png" alt="CMF Phone 1 NothingOS 2.6.0.Initial_3DMark"></td>
   </tr>
 </table>
 ▲ NothingOS 2.6.0 GeekBench 6 連續 3 次的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
@@ -112,8 +112,8 @@ Nothing OS
 更新後：
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/SJuov1MKC.png" alt="CMF By Nothing Phone 1 NothingOS 2.6"></td>
-    <td><img src="https://hackmd.io/_uploads/H153w1fKR.png" alt="CMF Phone 1 NothingOS 2.6_3DMark"></td>
+    <td><img src="/assets/img/posts/SJuov1MKC.png" alt="CMF By Nothing Phone 1 NothingOS 2.6"></td>
+    <td><img src="/assets/img/posts/H153w1fKR.png" alt="CMF Phone 1 NothingOS 2.6_3DMark"></td>
   </tr>
 </table>
 ▲ NothingOS 2.6 GeekBench 6 連續 3 次的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
@@ -122,8 +122,8 @@ Nothing OS
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/SyLp_kfY0.png" alt="Nothing Phone (2a) NothingOS 2.6_CompareCMFPhone1#1"></td>
-    <td><img src="https://hackmd.io/_uploads/Bk4qoyMYA.png" alt="Screenshot_20240727-113315"></td>
+    <td><img src="/assets/img/posts/SyLp_kfY0.png" alt="Nothing Phone (2a) NothingOS 2.6_CompareCMFPhone1#1"></td>
+    <td><img src="/assets/img/posts/Bk4qoyMYA.png" alt="Screenshot_20240727-113315"></td>
   </tr>
 </table>
 ▲ NothingOS 2.6 GeekBench 6 連續 3 次的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
@@ -134,28 +134,28 @@ Nothing Tech 並沒有因為 CMF By Nothing Phone 1 的產品定位，而對其�
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/ByHN1lMYR.png" alt="Screenshot_20240727-113907"></td>
-    <td><img src="https://hackmd.io/_uploads/BJpH1gztR.png" alt="Screenshot_20240727-113911"></td>
-    <td><img src="https://hackmd.io/_uploads/rkVUJlGtA.png" alt="Screenshot_20240727-113914"></td>
+    <td><img src="/assets/img/posts/ByHN1lMYR.png" alt="Screenshot_20240727-113907"></td>
+    <td><img src="/assets/img/posts/BJpH1gztR.png" alt="Screenshot_20240727-113911"></td>
+    <td><img src="/assets/img/posts/rkVUJlGtA.png" alt="Screenshot_20240727-113914"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/HkQ4MeMYA.png" alt="Screenshot_20240727-113919"></td>
-    <td><img src="https://hackmd.io/_uploads/SywHGgzYC.png" alt="Screenshot_20240727-113933"></td>
-    <td><img src="https://hackmd.io/_uploads/SyhczgzYC.png" alt="Screenshot_20240727-113847"></td>
+    <td><img src="/assets/img/posts/HkQ4MeMYA.png" alt="Screenshot_20240727-113919"></td>
+    <td><img src="/assets/img/posts/SywHGgzYC.png" alt="Screenshot_20240727-113933"></td>
+    <td><img src="/assets/img/posts/SyhczgzYC.png" alt="Screenshot_20240727-113847"></td>
   </tr>
 </table>
 「鎖定畫面小工具」、「鎖定畫面捷徑」、「提示和回饋」、「充電助理」。（如下圖所示）
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/rJXpGlzKA.png" alt="Screenshot_20240727-113939"></td>
-    <td><img src="https://hackmd.io/_uploads/HkLTzxzY0.png" alt="Screenshot_20240727-113947"></td>
-    <td><img src="https://hackmd.io/_uploads/HyupfeGKC.png" alt="Screenshot_20240727-113957"></td>
+    <td><img src="/assets/img/posts/rJXpGlzKA.png" alt="Screenshot_20240727-113939"></td>
+    <td><img src="/assets/img/posts/HkLTzxzY0.png" alt="Screenshot_20240727-113947"></td>
+    <td><img src="/assets/img/posts/HyupfeGKC.png" alt="Screenshot_20240727-113957"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/By26MeftC.png" alt="Screenshot_20240727-114005"></td>
-    <td><img src="https://hackmd.io/_uploads/BySCfgftC.png" alt="Screenshot_20240727-113855"></td>
-    <td><img src="https://hackmd.io/_uploads/BknCMlMKC.png" alt="Screenshot_20240727-114014"></td>
+    <td><img src="/assets/img/posts/By26MeftC.png" alt="Screenshot_20240727-114005"></td>
+    <td><img src="/assets/img/posts/BySCfgftC.png" alt="Screenshot_20240727-113855"></td>
+    <td><img src="/assets/img/posts/BknCMlMKC.png" alt="Screenshot_20240727-114014"></td>
   </tr>
 </table>
 從我上次使用過 Nothing Phone (2a) 之後，Nothing 成功揮別聯發科 SOC 在過去讓我留下的壞印象，也因此這次體驗 CMF By Nothing Phone 1 剛上手時，並沒有太意外。但整體使用下來確實讓我感受到 Nothing 即便是在中低階手機的開發，也是相當用心在進行設計，真的一點也不馬虎。
@@ -180,12 +180,12 @@ Nothing Phone (2a) 相機規格：
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/H1wUOWfKA.png" alt="Screenshot_20240727-114041"></td>
-    <td><img src="https://hackmd.io/_uploads/r1JwdbfK0.png" alt="Screenshot_20240727-114101"></td>
+    <td><img src="/assets/img/posts/H1wUOWfKA.png" alt="Screenshot_20240727-114041"></td>
+    <td><img src="/assets/img/posts/r1JwdbfK0.png" alt="Screenshot_20240727-114101"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/SJfDdZzFR.png" alt="Screenshot_20240727-114133"></td>
-    <td><img src="https://hackmd.io/_uploads/SkrDuWGFR.png" alt="Screenshot_20240727-114243"></td>
+    <td><img src="/assets/img/posts/SJfDdZzFR.png" alt="Screenshot_20240727-114133"></td>
+    <td><img src="/assets/img/posts/SkrDuWGFR.png" alt="Screenshot_20240727-114243"></td>
   </tr>
 </table>
 ## 同場加映：CMF Buds Pro 2
@@ -194,14 +194,14 @@ Nothing Phone (2a) 相機規格：
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/S1C-Kbft0.jpg" alt="IMG_20240721_014844859"></td>
-    <td><img src="https://hackmd.io/_uploads/S1GGtbGKR.jpg" alt="IMG_20240721_014922975"></td>
-    <td><img src="https://hackmd.io/_uploads/rJaGYbzY0.jpg" alt="IMG_20240721_014956088"></td>
+    <td><img src="/assets/img/posts/S1C-Kbft0.jpg" alt="IMG_20240721_014844859"></td>
+    <td><img src="/assets/img/posts/S1GGtbGKR.jpg" alt="IMG_20240721_014922975"></td>
+    <td><img src="/assets/img/posts/rJaGYbzY0.jpg" alt="IMG_20240721_014956088"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/BJVQt-ft0.jpg" alt="IMG_20240721_015146530"></td>
-    <td><img src="https://hackmd.io/_uploads/ryTXYZftC.jpg" alt="IMG_20240721_015209666"></td>
-    <td><img src="https://hackmd.io/_uploads/SJZEYbztA.jpg" alt="IMG_20240721_020109877"></td>
+    <td><img src="/assets/img/posts/BJVQt-ft0.jpg" alt="IMG_20240721_015146530"></td>
+    <td><img src="/assets/img/posts/ryTXYZftC.jpg" alt="IMG_20240721_015209666"></td>
+    <td><img src="/assets/img/posts/SJZEYbztA.jpg" alt="IMG_20240721_020109877"></td>
   </tr>
 </table>
 我在上次體驗 Nothing Ear / Ear (a) 的文章中有提到，我是重度的 Android 使用者，也因此外出時經常攜帶 2 台以上的 Android 設備，在多設備之間切換是我最需要解決的痛點。
@@ -241,9 +241,9 @@ CMF Buds Pro 2，也保留了 Google FastPair 的功能，以及支援相當優�
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/r1QglMGKR.jpg" alt="Screenshot_20240721-015337"></td>
-    <td><img src="https://hackmd.io/_uploads/r1HegfGF0.jpg" alt="Screenshot_20240721-015343"></td>
-    <td><img src="https://hackmd.io/_uploads/H1delzfK0.jpg" alt="Screenshot_20240721-015630"></td>
+    <td><img src="/assets/img/posts/r1QglMGKR.jpg" alt="Screenshot_20240721-015337"></td>
+    <td><img src="/assets/img/posts/r1HegfGF0.jpg" alt="Screenshot_20240721-015343"></td>
+    <td><img src="/assets/img/posts/H1delzfK0.jpg" alt="Screenshot_20240721-015630"></td>
   </tr>
 </table>
 這次的 CMF Buds Pro 2，我自己使用下來對比 Nothing Ear / Ear (a)，最有感的部分是重低音有明顯提升。撥放音樂時，更有身歷其境的感受，在等化器的部分也首次加入 Dirac Opteo™ 的調教選項可以直接設定。
@@ -251,18 +251,18 @@ CMF Buds Pro 2，也保留了 Google FastPair 的功能，以及支援相當優�
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/rJB-xGGYA.jpg" alt="Screenshot_20240721-015643"></td>
-    <td><img src="https://hackmd.io/_uploads/rJuZezGKA.jpg" alt="Screenshot_20240721-015648"></td>
-    <td><img src="https://hackmd.io/_uploads/BkoxeMGFA.jpg" alt="Screenshot_20240721-015633"></td>
+    <td><img src="/assets/img/posts/rJB-xGGYA.jpg" alt="Screenshot_20240721-015643"></td>
+    <td><img src="/assets/img/posts/rJuZezGKA.jpg" alt="Screenshot_20240721-015648"></td>
+    <td><img src="/assets/img/posts/BkoxeMGFA.jpg" alt="Screenshot_20240721-015633"></td>
   </tr>
 </table>
 雜訊抑制的部分，也最高支援到了 50 db，比目前其他的 Nothing Ear 系列產品都還高。
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/r1AZgfztR.jpg" alt="Screenshot_20240721-015803"></td>
-    <td><img src="https://hackmd.io/_uploads/Syx-ezMF0.jpg" alt="Screenshot_20240721-015637"></td>
-    <td><img src="https://hackmd.io/_uploads/BJ7bxMfY0.jpg" alt="Screenshot_20240721-015639"></td>
+    <td><img src="/assets/img/posts/r1AZgfztR.jpg" alt="Screenshot_20240721-015803"></td>
+    <td><img src="/assets/img/posts/Syx-ezMF0.jpg" alt="Screenshot_20240721-015637"></td>
+    <td><img src="/assets/img/posts/BJ7bxMfY0.jpg" alt="Screenshot_20240721-015639"></td>
   </tr>
 </table>
 目前我自己都經常輪著這幾款 Nothing Ear 以及本次的 CMF Buds Pro 2 來做使用。
@@ -280,7 +280,7 @@ CMF Buds Pro 2 與我過去使用的 Nothing Ear 系列產品最大的區隔，�
 以上便是此次 CMF 系列產品的開箱體驗。期許未來 Nothing Tech 可以提供更多不一樣的設計給粉絲及玩家。
 
 > 再來張大合照吧！
-> ![P_20240724_171008](https://hackmd.io/_uploads/SkwaszfY0.jpg)
+> ![P_20240724_171008](/assets/img/posts/SkwaszfY0.jpg)
 
 About Me
 ---
@@ -291,7 +291,7 @@ About Me
 
 <a href="mailto:bluehome.wu@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 
-![image](https://hackmd.io/_uploads/Bk1EYGfYA.png)
+![image](/assets/img/posts/Bk1EYGfYA.png)
 
 
 ###### tags: `Android` `Nothing` `CMF By Nothing Phone 1` `ROM` `Nothing Tech` `CMF`

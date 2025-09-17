@@ -25,7 +25,7 @@ fastboot oem auth-hash
 fastboot oem factory-reset
 ```
 
-![image](https://hackmd.io/_uploads/HJ0pJjLige.png)
+![image](/assets/img/posts/HJ0pJjLige.png)
 
 ```
 C:\Users\EdwardWu>fastboot flash asuskey2 %unlock_file%

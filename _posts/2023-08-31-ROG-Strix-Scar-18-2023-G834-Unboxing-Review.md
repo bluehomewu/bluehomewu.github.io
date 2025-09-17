@@ -38,7 +38,7 @@ Hi 各位好～
 
 以下簡單用表格列出此次 ROG Strix SCAR 18 (2023) G834JY 的一些規格參數
 
-![](https://hackmd.io/_uploads/BkLWWIWhn.png)
+![](/assets/img/posts/BkLWWIWhn.png)
 
 
 ROG Strix SCAR 18 (2023)
@@ -55,19 +55,19 @@ Nvidia GeForce RTX 4090 Laptop 也同時是 Nvidia 在 Laptop 產品線當中提
 
 
 ###### ROG Strix SCAR 18(2023) 工作管理員截圖
-![](https://hackmd.io/_uploads/H1mMvfenn.png)
+![](/assets/img/posts/H1mMvfenn.png)
 
 ###### ROG Strix SCAR 18 的外觀具有酷炫燈飾造型以及代表 ROG 品牌的「敗家之眼」LOGO 
-![P_20230809_230749](https://hackmd.io/_uploads/SyXIERHG0.jpg)
+![P_20230809_230749](/assets/img/posts/SyXIERHG0.jpg)
 
 ###### WSL2 環境截圖
-![](https://hackmd.io/_uploads/HySWDzl22.png)
+![](/assets/img/posts/HySWDzl22.png)
 
 ###### 系統資訊頁面截圖
-![](https://hackmd.io/_uploads/H1RGPfgnn.png)
+![](/assets/img/posts/H1RGPfgnn.png)
 
 ###### ArrowOS 13.1 小米平板 5Pro 於 WSL2 環境下的完成編譯所花費的時間
-![](https://hackmd.io/_uploads/HJDnVag23.png)
+![](/assets/img/posts/HJDnVag23.png)
 
 ###### 使用 ROG Strix SCAR 18 i9-13980HX 編譯 Xiaomi Pad 5 Pro(elish) ArrowOS 13.1 (Clean Build)
 <iframe width="560" height="315"
@@ -86,17 +86,17 @@ allowfullscreen></iframe>
 
 對於行動工作站來說，高速的連接埠也是相當重要的，可以讓創作者或是像我一樣有傳輸需求的開發者，可以透過 Thunderbolt™ 4 將資料拷貝到外接式儲存裝置上，或是透過 HDMI 2.1 連接到外接式螢幕上，進行雙螢幕的工作。
 ###### ROG Strix SCAR 18 的連接埠
-![P_20230809_231007](https://hackmd.io/_uploads/Hyhd40Hf0.jpg)
+![P_20230809_231007](/assets/img/posts/Hyhd40Hf0.jpg)
 
-![P_20230809_230942](https://hackmd.io/_uploads/B1yYVCSMA.jpg)
+![P_20230809_230942](/assets/img/posts/B1yYVCSMA.jpg)
 
 
 ROG Strix SCAR 18 的螢幕採用了 Nebula 霓真技術，這是一種專利技術，可以讓螢幕的亮度達到 500 或以上的尼特峰值亮度，並且擁有 100% DCI-P3 色域，以及 240Hz 的更新率，3ms 的反應時間，這樣的螢幕規格，不僅可以讓遊戲玩家在遊戲畫面上擁有更好的視覺體驗，也可以讓創作者在創作時，擁有更好的色彩表現，以及更接近真實的色彩呈現。
 螢幕長寬比更來到了 16:10 的比例，這樣的比例可以讓創作者在創作時，擁有更多的畫面空間，更加專注於創作，而不是被螢幕的長寬比所限制。
 ###### ROG Strix SCAR 18 的螢幕
-![P_20230809_230936](https://hackmd.io/_uploads/rJNoN0HGC.jpg)
+![P_20230809_230936](/assets/img/posts/rJNoN0HGC.jpg)
 ###### ROG Strix SCAR 18 的鍵盤
-![P_20230809_230841](https://hackmd.io/_uploads/rk8h40HM0.jpg)
+![P_20230809_230841](/assets/img/posts/rk8h40HM0.jpg)
 
 
 總結
@@ -118,6 +118,6 @@ About Me
 
 <a href="mailto:bluehome.wu@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 
-![](https://hackmd.io/_uploads/rJJiX-pT2.png)
+![](/assets/img/posts/rJJiX-pT2.png)
 
 ###### tags: `ROG` `Android` `Laptop` `ROM` `Intel 2th 校園大使`

@@ -8,7 +8,7 @@ tags: [Nothing Tech, Nothing, Android, CMF]
 
 # CMF 家族再添一員：CMF By Nothing Watch Pro 2 臺灣搶先上手體驗
 
-![IMG_20240906_162201497](https://hackmd.io/_uploads/BkRRiVqnA.jpg)
+![IMG_20240906_162201497](/assets/img/posts/BkRRiVqnA.jpg)
 
 前言
 ---
@@ -74,12 +74,12 @@ CMF By Nothing 一向不是主打硬體規格，更多著重於色彩、材質�
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/rkh2rT5hA.jpg" alt="IMG_20240906_162242546"></td>
-    <td><img src="https://hackmd.io/_uploads/rkqABTchR.jpg" alt="IMG_20240906_162411711"></td>
+    <td><img src="/assets/img/posts/rkh2rT5hA.jpg" alt="IMG_20240906_162242546"></td>
+    <td><img src="/assets/img/posts/rkqABTchR.jpg" alt="IMG_20240906_162411711"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/rkFkUa93C.jpg" alt="IMG_20240906_163021024"></td>
-    <td><img src="https://hackmd.io/_uploads/BkCEIac2C.jpg" alt="IMG_20240906_164820021"></td>
+    <td><img src="/assets/img/posts/rkFkUa93C.jpg" alt="IMG_20240906_163021024"></td>
+    <td><img src="/assets/img/posts/BkCEIac2C.jpg" alt="IMG_20240906_164820021"></td>
   </tr>
 </table>
 ▲ Take By Nothing Phone (2)
@@ -91,14 +91,14 @@ CMF Watch Pro 2，很明確的知道使用非 Wear OS 智慧手錶使用者的�
 ### CMF Watch APP
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/ryJnKpc2A.jpg" alt="Screenshot_20240906-163146_CMF_Watch"></td>
-    <td><img src="https://hackmd.io/_uploads/ByjaFa530.jpg" alt="Screenshot_20240906-163238_CMF_Watch"></td>
-    <td><img src="https://hackmd.io/_uploads/SyA0Y6c30.jpg" alt="Screenshot_20240906-163350_CMF_Watch"></td>
+    <td><img src="/assets/img/posts/ryJnKpc2A.jpg" alt="Screenshot_20240906-163146_CMF_Watch"></td>
+    <td><img src="/assets/img/posts/ByjaFa530.jpg" alt="Screenshot_20240906-163238_CMF_Watch"></td>
+    <td><img src="/assets/img/posts/SyA0Y6c30.jpg" alt="Screenshot_20240906-163350_CMF_Watch"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/rkkfqp93R.jpg" alt="Screenshot_20240906-163437_CMF_Watch"></td>
-    <td><img src="https://hackmd.io/_uploads/B1cf5pq3C.jpg" alt="Screenshot_20240906-163618_CMF_Watch"></td>
-    <td><img src="https://hackmd.io/_uploads/SkS7caqhR.jpg" alt="Screenshot_20240906-163719_CMF_Watch"></td>
+    <td><img src="/assets/img/posts/rkkfqp93R.jpg" alt="Screenshot_20240906-163437_CMF_Watch"></td>
+    <td><img src="/assets/img/posts/B1cf5pq3C.jpg" alt="Screenshot_20240906-163618_CMF_Watch"></td>
+    <td><img src="/assets/img/posts/SkS7caqhR.jpg" alt="Screenshot_20240906-163719_CMF_Watch"></td>
   </tr>
 </table>
 ▲ 一些 CMF Watch APP 的截圖
@@ -128,7 +128,7 @@ About Me
 
 <a href="mailto:bluehome.wu@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 
-![image](https://hackmd.io/_uploads/Bk1EYGfYA.png)
+![image](/assets/img/posts/Bk1EYGfYA.png)
 
 
 ###### tags: `Android` `Nothing` `CMF By Nothing Watch Pro 2` `ROM` `Nothing Tech` `CMF`

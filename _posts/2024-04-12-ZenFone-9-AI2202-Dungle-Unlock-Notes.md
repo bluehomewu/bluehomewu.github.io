@@ -43,8 +43,8 @@ Finished. Total time: 0.023s
 ```
 
 
-![](https://hackmd.io/_uploads/SJ-haZPAn.png)
-![](https://hackmd.io/_uploads/rkF_C88gA.png)
+![](/assets/img/posts/SJ-haZPAn.png)
+![](/assets/img/posts/rkF_C88gA.png)
 
 
 

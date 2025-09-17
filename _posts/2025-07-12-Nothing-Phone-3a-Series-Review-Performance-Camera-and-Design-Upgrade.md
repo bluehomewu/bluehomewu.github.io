@@ -8,7 +8,7 @@ tags: [Nothing Tech, Qualcomm, Android, CMF, Nothing Phone 3a, Nothing]
 
 # Nothing Phone 3a 系列評測：性能、攝影與設計的全面升級？
 
-![IMG_20250306_221033878](https://hackmd.io/_uploads/Sy72Hsf3kl.jpg)
+![IMG_20250306_221033878](/assets/img/posts/Sy72Hsf3kl.jpg)
 
 
 前言
@@ -62,7 +62,7 @@ Nothing Phone (3a) 是這次台灣市場唯一有上市的機型，Pro 版雖然
 這次 Nothing Phone 3a 總共推出 3 個顏色，分別是白色、黑色、藍色，不過藍色暫時沒有在台灣販售的計畫。
 而我這次取得的 Nothing Phone 3a 為白色版本，3a Pro 是灰色的版本。3a 鏡頭擺放方式為橫式置中排列，3a Pro 則是採用 L 字形不對稱式排列，周邊以 Glyph Light 點綴。
 
-![IMG_20250306_225243783](https://hackmd.io/_uploads/r1BbC8di1x.jpg)
+![IMG_20250306_225243783](/assets/img/posts/r1BbC8di1x.jpg)
 ▲ Take By Nothing Phone (2)
 
 
@@ -72,9 +72,9 @@ Nothing OS
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/B1NCdsGhyx.png" alt="Screenshot_20250309-170952"></td>
-    <td><img src="https://hackmd.io/_uploads/BkA0dsMh1x.png" alt="Screenshot_20250306-231410"></td>
-    <td><img src="https://hackmd.io/_uploads/BkO1tsGnyl.png" alt="Screenshot_20250309-170812"></td>
+    <td><img src="/assets/img/posts/B1NCdsGhyx.png" alt="Screenshot_20250309-170952"></td>
+    <td><img src="/assets/img/posts/BkA0dsMh1x.png" alt="Screenshot_20250306-231410"></td>
+    <td><img src="/assets/img/posts/BkO1tsGnyl.png" alt="Screenshot_20250309-170812"></td>
   </tr>
 </table>
 這次 Nothing Phone (3a) & (3a) Pro 採用的是比目前在售的機型還要更新的 Nothing OS 3.1。而我也發現，兩台機型所使用的系統韌體是同樣的，也就是說兩台機型代號其實是相同的，因此在許多地方會有非常接近的表現，不論是相機的 HDR 演算法或是遊戲效能體驗，可說是雙生機種。
@@ -97,8 +97,8 @@ Nothing OS
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/rJVrvpM31x.png" alt="A059_Asteroids-V3.1-250302-1856_Geekbench6"></td>
-    <td><img src="https://hackmd.io/_uploads/BkEww6Mh1g.png" alt="Screenshot_20250309-232220"></td>
+    <td><img src="/assets/img/posts/rJVrvpM31x.png" alt="A059_Asteroids-V3.1-250302-1856_Geekbench6"></td>
+    <td><img src="/assets/img/posts/BkEww6Mh1g.png" alt="Screenshot_20250309-232220"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 4 次的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
@@ -107,8 +107,8 @@ Nothing OS
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/BJoOuafnJl.png" alt="A059P_Asteroids-V3.1-250302-1856_Geekbench6"></td>
-    <td><img src="https://hackmd.io/_uploads/H1eK_pM3kg.png" alt="Screenshot_20250309-232219"></td>
+    <td><img src="/assets/img/posts/BJoOuafnJl.png" alt="A059P_Asteroids-V3.1-250302-1856_Geekbench6"></td>
+    <td><img src="/assets/img/posts/H1eK_pM3kg.png" alt="Screenshot_20250309-232219"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 4 次的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
@@ -119,8 +119,8 @@ Nothing OS
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/SkLVFaMhyg.png" alt="A142_Pacman-V3.0-250114-1909_Geekbench6"></td>
-    <td><img src="https://hackmd.io/_uploads/rylsVt6G2kl.png" alt="Screenshot_20250309-232220"></td>
+    <td><img src="/assets/img/posts/SkLVFaMhyg.png" alt="A142_Pacman-V3.0-250114-1909_Geekbench6"></td>
+    <td><img src="/assets/img/posts/rylsVt6G2kl.png" alt="Screenshot_20250309-232220"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 4 次的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
@@ -129,8 +129,8 @@ Nothing OS
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/S1QLFafh1g.png" alt="A065_Pong-V3.0-250113-1723_Geekbench6"></td>
-    <td><img src="https://hackmd.io/_uploads/H12UYafhye.png" alt="Screenshot_20250309-232217"></td>
+    <td><img src="/assets/img/posts/S1QLFafh1g.png" alt="A065_Pong-V3.0-250113-1723_Geekbench6"></td>
+    <td><img src="/assets/img/posts/H12UYafhye.png" alt="Screenshot_20250309-232217"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 4 次的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
@@ -139,8 +139,8 @@ Nothing OS
 可以從跑分結果得知，3a 與 3a Pro 畢竟是雙生機種，跑分只有些微差距。
 也可以明顯看出 3a 整體比 2a 的效能跑分贏出不少。
 
-![Geekbench6_多核心](https://hackmd.io/_uploads/BJ-SoTGn1g.png)
-![Geekbench6_單核心](https://hackmd.io/_uploads/rybrsaGhyx.png)
+![Geekbench6_多核心](/assets/img/posts/BJ-SoTGn1g.png)
+![Geekbench6_單核心](/assets/img/posts/rybrsaGhyx.png)
 
 
 Essential Space
@@ -150,12 +150,12 @@ Essential Space 是這次 Nothing Phone (3a) 主打的新功能，Carl Pei 曾�
 以下使用幾張截圖，展示 Essential Space 的功能。
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/Bkg3uCMnyg.png" alt="Screenshot_20250315-175107"></td>
-    <td><img src="https://hackmd.io/_uploads/HkchuAznJl.png" alt="Screenshot_20250315-175135"></td>
+    <td><img src="/assets/img/posts/Bkg3uCMnyg.png" alt="Screenshot_20250315-175107"></td>
+    <td><img src="/assets/img/posts/HkchuAznJl.png" alt="Screenshot_20250315-175135"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/H1rTdAMnJl.png" alt="Screenshot_20250315-175138"></td>
-    <td><img src="https://hackmd.io/_uploads/BktTO0znyg.png" alt="Screenshot_20250315-175825"></td>
+    <td><img src="/assets/img/posts/H1rTdAMnJl.png" alt="Screenshot_20250315-175138"></td>
+    <td><img src="/assets/img/posts/BktTO0znyg.png" alt="Screenshot_20250315-175825"></td>
   </tr>
 </table>
 不過，根據外媒的深入體驗，現在 Essential Space 對於混和語言輸入，還是有些困難，如果一下混和中文加上英文，亦或者是具有特殊口音的英文，經常會有辨識錯誤的問題。
@@ -173,41 +173,41 @@ Nothing Camera 相機
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/HkfjDyQ2Jg.jpg" alt="IMG_20250309_160321575"></td>
-    <td><img src="https://hackmd.io/_uploads/Hkqsw1X3kx.jpg" alt="IMG_20250309_160611942"></td>
-    <td><img src="https://hackmd.io/_uploads/rk13D17hJg.jpg" alt="IMG_20250309_160756569"></td>
+    <td><img src="/assets/img/posts/HkfjDyQ2Jg.jpg" alt="IMG_20250309_160321575"></td>
+    <td><img src="/assets/img/posts/Hkqsw1X3kx.jpg" alt="IMG_20250309_160611942"></td>
+    <td><img src="/assets/img/posts/rk13D17hJg.jpg" alt="IMG_20250309_160756569"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/Bk-TvkQ2kl.jpg" alt="IMG_20250309_161116564"></td>
-    <td><img src="https://hackmd.io/_uploads/SyQRDJQ2yx.jpg" alt="IMG_20250309_161844280"></td>
-    <td><img src="https://hackmd.io/_uploads/HJopP17nye.jpg" alt="IMG_20250309_161609194"></td>
+    <td><img src="/assets/img/posts/Bk-TvkQ2kl.jpg" alt="IMG_20250309_161116564"></td>
+    <td><img src="/assets/img/posts/SyQRDJQ2yx.jpg" alt="IMG_20250309_161844280"></td>
+    <td><img src="/assets/img/posts/HJopP17nye.jpg" alt="IMG_20250309_161609194"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/HyUpw1m2kl.jpg" alt="IMG_20250309_161443298"></td>
-    <td><img src="https://hackmd.io/_uploads/SyuCPkX3ye.jpg" alt="IMG_20250309_162117359"></td>
-    <td><img src="https://hackmd.io/_uploads/H1l1O172kx.jpg" alt="IMG_20250309_162129675"></td>
+    <td><img src="/assets/img/posts/HyUpw1m2kl.jpg" alt="IMG_20250309_161443298"></td>
+    <td><img src="/assets/img/posts/SyuCPkX3ye.jpg" alt="IMG_20250309_162117359"></td>
+    <td><img src="/assets/img/posts/H1l1O172kx.jpg" alt="IMG_20250309_162129675"></td>
   </tr>
 </table>
 ▼ 以下是對照組 30x 以及原始 1x 的距離差異。
 - 即使原本就有支援 OIS，但由於傳感器的特性，放大倍率越大，輕微的抖動就越明顯，因此還是不建議放到這麼大來做拍攝，除非有額外使用三軸穩定器。
-![Screenshot_20250309-162127](https://hackmd.io/_uploads/SJJBOJ731x.png =50%x)
+![Screenshot_20250309-162127](/assets/img/posts/SJJBOJ731x.png =50%x)
 
 ▼ 由 Nothing Phone (3a) Pro 拍攝
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/HJmcc1Xn1g.jpg" alt="IMG_20250309_160340976"></td>
-    <td><img src="https://hackmd.io/_uploads/rkdc5Jm2kg.jpg" alt="IMG_20250309_160639472"></td>
-    <td><img src="https://hackmd.io/_uploads/ByT9c1mnkg.jpg" alt="IMG_20250309_160808261"></td>
+    <td><img src="/assets/img/posts/HJmcc1Xn1g.jpg" alt="IMG_20250309_160340976"></td>
+    <td><img src="/assets/img/posts/rkdc5Jm2kg.jpg" alt="IMG_20250309_160639472"></td>
+    <td><img src="/assets/img/posts/ByT9c1mnkg.jpg" alt="IMG_20250309_160808261"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/r1Dj51m3kg.jpg" alt="IMG_20250309_161129903"></td>
-    <td><img src="https://hackmd.io/_uploads/SkQn9y73yl.jpg" alt="IMG_20250309_161628845"></td>
-    <td><img src="https://hackmd.io/_uploads/rJdnqJXnkg.jpg" alt="IMG_20250309_161905296"></td>
+    <td><img src="/assets/img/posts/r1Dj51m3kg.jpg" alt="IMG_20250309_161129903"></td>
+    <td><img src="/assets/img/posts/SkQn9y73yl.jpg" alt="IMG_20250309_161628845"></td>
+    <td><img src="/assets/img/posts/rJdnqJXnkg.jpg" alt="IMG_20250309_161905296"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/rkVp9Jm2Jx.jpg" alt="IMG_20250309_161504198"></td>
-    <td><img src="https://hackmd.io/_uploads/rJOpcyXnyg.jpg" alt="IMG_20250309_162152477"></td>
-    <td><img src="https://hackmd.io/_uploads/S15FiymnJe.jpg" alt="IMG_20250309_161937569"></td>
+    <td><img src="/assets/img/posts/rkVp9Jm2Jx.jpg" alt="IMG_20250309_161504198"></td>
+    <td><img src="/assets/img/posts/rJOpcyXnyg.jpg" alt="IMG_20250309_162152477"></td>
+    <td><img src="/assets/img/posts/S15FiymnJe.jpg" alt="IMG_20250309_161937569"></td>
   </tr>
 </table>
 ▲ 最後一張是採用微距模式拍攝（微距模式是使用潛望鏡頭 - Sony IMX882）
@@ -215,32 +215,32 @@ Nothing Camera 相機
 ▼ 以下是對照組 60x 以及原始 1x 的距離差異。
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/Skq-i1QhJl.png" alt="Screenshot_20250309-162206"></td>
-    <td><img src="https://hackmd.io/_uploads/B1lmsy7nke.png" alt="Screenshot_20250309-162845"></td>
+    <td><img src="/assets/img/posts/Skq-i1QhJl.png" alt="Screenshot_20250309-162206"></td>
+    <td><img src="/assets/img/posts/B1lmsy7nke.png" alt="Screenshot_20250309-162845"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/Bk6Pi17nJg.jpg" alt="IMG_20250309_162207200"></td>
-    <td><img src="https://hackmd.io/_uploads/Hy7_jJ7h1l.jpg" alt="IMG_20250309_162846461"></td>
+    <td><img src="/assets/img/posts/Bk6Pi17nJg.jpg" alt="IMG_20250309_162207200"></td>
+    <td><img src="/assets/img/posts/Hy7_jJ7h1l.jpg" alt="IMG_20250309_162846461"></td>
   </tr>
 </table>
 - 額外提供一組對照組，來自 Nothing Phone (2a)
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/HySAygQ2kl.jpg" alt="IMG_20250309_160544937"></td>
-    <td><img src="https://hackmd.io/_uploads/HkqRkeX2yg.jpg" alt="IMG_20250309_160739742"></td>
-    <td><img src="https://hackmd.io/_uploads/HJ1klx7n1x.jpg" alt="IMG_20250309_161030820"></td>
+    <td><img src="/assets/img/posts/HySAygQ2kl.jpg" alt="IMG_20250309_160544937"></td>
+    <td><img src="/assets/img/posts/HkqRkeX2yg.jpg" alt="IMG_20250309_160739742"></td>
+    <td><img src="/assets/img/posts/HJ1klx7n1x.jpg" alt="IMG_20250309_161030820"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/B1Uxxl7nkx.jpg" alt="IMG_20250309_161424942"></td>
-    <td><img src="https://hackmd.io/_uploads/HJalllX3kl.jpg" alt="IMG_20250309_161543951"></td>
-    <td><img src="https://hackmd.io/_uploads/rJMbxgQ2yl.jpg" alt="IMG_20250309_161814551"></td>
+    <td><img src="/assets/img/posts/B1Uxxl7nkx.jpg" alt="IMG_20250309_161424942"></td>
+    <td><img src="/assets/img/posts/HJalllX3kl.jpg" alt="IMG_20250309_161543951"></td>
+    <td><img src="/assets/img/posts/rJMbxgQ2yl.jpg" alt="IMG_20250309_161814551"></td>
   </tr>
 </table>
 總結
 ---
 給個沒用的小知識， Nothing Phone (3a) 以及 (3a) Pro 的 SIM 卡卡托，是相同尺寸的可以相互交換。
-![IMG_20250307_004736309](https://hackmd.io/_uploads/HJnuMlX3ye.jpg =50%x)
+![IMG_20250307_004736309](/assets/img/posts/HJnuMlX3ye.jpg =50%x)
 
 總結來說，這次 Nothing Tech 在策略布局上，應該算是絞盡腦汁，繳出一張相當不錯的成績單，在規格方面除了 SOC 我認為可以再稍微換上更高一點效能的 SOC，其餘表現我都認為相當不錯。
 只可惜據我所知的消息，Nothing Phone (3a) Pro 暫時沒有引進台灣市場販售的計畫，雖然現階段 NCC 是有通過驗證了，可以期待未來有沒有機會再引進販售。
@@ -254,7 +254,7 @@ Nothing Camera 相機
 不免俗的，還是要來一張台灣版 Nothing 產品家族大合照的吧XD
 現在就缺 Nothing Phone (1) 以及 Nothing Ear (1) 了。
 Nothing Phone (2) 推出之後，我就將 Nothing Phone (1) 轉手給認識的朋友了，也因此手邊暫無該機台，現在想想是有些可惜，有機會一定要在收購一台回來收藏。
-![P_20250316_002944_1](https://hackmd.io/_uploads/B19wpQmnke.jpg)
+![P_20250316_002944_1](/assets/img/posts/B19wpQmnke.jpg)
 
 
 About Me
@@ -266,7 +266,7 @@ About Me
 
 <a href="mailto:bluehome.wu@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 
-![image](https://hackmd.io/_uploads/Bk1EYGfYA.png)
+![image](/assets/img/posts/Bk1EYGfYA.png)
 
 
 ###### tags: `Android` `Nothing` `Nothing Phone (3a)` `Nothing Phone (3a) Pro` `ROM` `Nothing Tech` `CMF`

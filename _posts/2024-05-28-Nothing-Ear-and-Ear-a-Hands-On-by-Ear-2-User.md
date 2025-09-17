@@ -8,7 +8,7 @@ tags: [Nothing Tech, Android, Nothing]
 
 # Nothing Ear / Ear (a) 實際體驗：Nothing Ear (2) 使用者親自分享
 
-![IMG_20240519_013221890](https://hackmd.io/_uploads/rJ8P7igVC.jpg)
+![IMG_20240519_013221890](/assets/img/posts/rJ8P7igVC.jpg)
 
 前言
 ---
@@ -41,15 +41,15 @@ Nothing Phone (2a) 評測文章
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/ByuYU6x4C.jpg" alt="P_20240519_010238"></td>
-    <td><img src="https://hackmd.io/_uploads/BkxaLTx4C.jpg" alt="P_20240519_010807"></td>
+    <td><img src="/assets/img/posts/ByuYU6x4C.jpg" alt="P_20240519_010238"></td>
+    <td><img src="/assets/img/posts/BkxaLTx4C.jpg" alt="P_20240519_010807"></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/ByQ4_ag4C.png" alt="Screenshot_20240526-222942"></td>
-    <td><img src="https://hackmd.io/_uploads/rydXPTxVC.png" alt="Screenshot_20240526-200247"></td>
+    <td><img src="/assets/img/posts/ByQ4_ag4C.png" alt="Screenshot_20240526-222942"></td>
+    <td><img src="/assets/img/posts/rydXPTxVC.png" alt="Screenshot_20240526-200247"></td>
   </tr>
 </table>
 
@@ -87,8 +87,8 @@ Nothing Ear (a)
 ---
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/BklA7jx40.jpg" alt="P_20240519_005822"></td>
-    <td><img src="https://hackmd.io/_uploads/H1wRXjgEA.jpg" alt="P_20240519_010658"></td>
+    <td><img src="/assets/img/posts/BklA7jx40.jpg" alt="P_20240519_005822"></td>
+    <td><img src="/assets/img/posts/H1wRXjgEA.jpg" alt="P_20240519_010658"></td>
   </tr>
 </table>
 Nothing Ear (a) 我所挑選的顏色為白色，並非這次推出的新色。
@@ -96,22 +96,22 @@ Nothing Ear (a) 我所挑選的顏色為白色，並非這次推出的新色。
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/SJ21pieN0.jpg" alt="Screenshot_20240519-011023"></td>
-    <td><img src="https://hackmd.io/_uploads/HyFe6ixE0.jpg" alt="Screenshot_20240519-011327"></td>
-    <td><img src="https://hackmd.io/_uploads/HkReTjgVR.jpg" alt="Screenshot_20240519-011333"></td>
+    <td><img src="/assets/img/posts/SJ21pieN0.jpg" alt="Screenshot_20240519-011023"></td>
+    <td><img src="/assets/img/posts/HyFe6ixE0.jpg" alt="Screenshot_20240519-011327"></td>
+    <td><img src="/assets/img/posts/HkReTjgVR.jpg" alt="Screenshot_20240519-011333"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/S1eMTjxVC.jpg" alt="Screenshot_20240519-011337"></td>
-    <td><img src="https://hackmd.io/_uploads/rJSz6oxEA.jpg" alt="Screenshot_20240519-011339"></td>
-    <td><img src="https://hackmd.io/_uploads/Hk5zTsgE0.jpg" alt="Screenshot_20240519-011344"></td>
+    <td><img src="/assets/img/posts/S1eMTjxVC.jpg" alt="Screenshot_20240519-011337"></td>
+    <td><img src="/assets/img/posts/rJSz6oxEA.jpg" alt="Screenshot_20240519-011339"></td>
+    <td><img src="/assets/img/posts/Hk5zTsgE0.jpg" alt="Screenshot_20240519-011344"></td>
   </tr>
 </table>
 Nothing Ear
 ---
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/r1kG4jlVA.jpg" alt="P_20240519_005836"></td>
-    <td><img src="https://hackmd.io/_uploads/BJOGVieN0.jpg" alt="P_20240519_010152"></td>
+    <td><img src="/assets/img/posts/r1kG4jlVA.jpg" alt="P_20240519_005836"></td>
+    <td><img src="/assets/img/posts/BJOGVieN0.jpg" alt="P_20240519_010152"></td>
   </tr>
 </table>
 相較於 Nothing Ear (a)，這次在 Nothing Ear，Nothing 也有加入 LDAC，當然也一如既往的保留 LHDC 5.0。也讓 Nothing Ear 高音質編碼的相容性支援生態相當豐富。
@@ -120,14 +120,14 @@ Nothing Ear
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/BJFEaolNA.jpg" alt="Screenshot_20240519-011621"></td>
-    <td><img src="https://hackmd.io/_uploads/rJxlHpsl4R.jpg" alt="Screenshot_20240519-011921"></td>
-    <td><img src="https://hackmd.io/_uploads/r1AB6ieVR.jpg" alt="Screenshot_20240519-011927"></td>
+    <td><img src="/assets/img/posts/BJFEaolNA.jpg" alt="Screenshot_20240519-011621"></td>
+    <td><img src="/assets/img/posts/rJxlHpsl4R.jpg" alt="Screenshot_20240519-011921"></td>
+    <td><img src="/assets/img/posts/r1AB6ieVR.jpg" alt="Screenshot_20240519-011927"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/rJCLasxN0.jpg" alt="Screenshot_20240519-011929"></td>
-    <td><img src="https://hackmd.io/_uploads/H1EwaieV0.jpg" alt="Screenshot_20240519-011933"></td>
-    <td><img src="https://hackmd.io/_uploads/HyKPTjxEA.jpg" alt="Screenshot_20240519-011936"></td>
+    <td><img src="/assets/img/posts/rJCLasxN0.jpg" alt="Screenshot_20240519-011929"></td>
+    <td><img src="/assets/img/posts/H1EwaieV0.jpg" alt="Screenshot_20240519-011933"></td>
+    <td><img src="/assets/img/posts/HyKPTjxEA.jpg" alt="Screenshot_20240519-011936"></td>
   </tr>
 </table>
 
@@ -145,9 +145,9 @@ ChatGPT for Nothing Ear Products
 首先需要使用 Nothing Phone 搭配這些支援的耳機，於 Nothing X APP 內部進行設定。
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/r1lwghg4R.png" alt="Screenshot_20240519-012439"></td>
-    <td><img src="https://hackmd.io/_uploads/HkrPe2lNR.png" alt="Screenshot_20240526-204938"></td>
-    <td><img src="https://hackmd.io/_uploads/HyYvl2eNA.png" alt="Screenshot_20240526-204946"></td>
+    <td><img src="/assets/img/posts/r1lwghg4R.png" alt="Screenshot_20240519-012439"></td>
+    <td><img src="/assets/img/posts/HkrPe2lNR.png" alt="Screenshot_20240526-204938"></td>
+    <td><img src="/assets/img/posts/HyYvl2eNA.png" alt="Screenshot_20240526-204946"></td>
   </tr>
 </table>
 總結
@@ -162,7 +162,7 @@ ChatGPT for Nothing Ear Products
 如果有任何使用方面的疑問，都可以留言跟我說，我會盡快解答疑問的。
 
 
-![IMG_20240519_013139419](https://hackmd.io/_uploads/BJqEE2l4R.jpg)
+![IMG_20240519_013139419](/assets/img/posts/BJqEE2l4R.jpg)
 
 
 About Me
@@ -174,7 +174,7 @@ About Me
 
 <a href="mailto:bluehome.wu@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 
-![image](https://hackmd.io/_uploads/BkxA3yHz0.png)
+![image](/assets/img/posts/BkxA3yHz0.png)
 
 
 

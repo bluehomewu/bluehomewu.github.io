@@ -8,7 +8,7 @@ tags: [Nothing Tech, Android, Nothing, Qualcomm]
 
 # Glyph、鏡頭、續航一次看懂：Nothing Phone (3) 深度開箱
 
-![IMG_20250709_232017627](https://hackmd.io/_uploads/Byd9HwZIll.jpg)
+![IMG_20250709_232017627](/assets/img/posts/Byd9HwZIll.jpg)
 
 前言
 ---
@@ -67,7 +67,7 @@ Nothing Phone (3)
 
 Nothing Phone (3) 這次相對於上一代的 Nothing Phone (2) 在外觀方面，最大的改變莫過於是把 Glyph Light 取消，改以 Glyph Matrix 動態燈陣，使用了 25 * 25 的矩陣且最終並組成圓形以 489 個 LED 所組成。
 
-![pixel_coordinate](https://hackmd.io/_uploads/SkCX5nNvge.png)
+![pixel_coordinate](/assets/img/posts/SkCX5nNvge.png)
 
 
 這次雖然說除了印度版本的電池規格是 5500 mAh，但根據我夢到的消息，其實全球都是 5500 mAh，因為一些因素，透過軟體鎖成 5150 mAh，但其實相差不大就是了。
@@ -75,9 +75,9 @@ Nothing Phone (3) 這次相對於上一代的 Nothing Phone (2) 在外觀方面�
 當然這塊螢幕也不是完全的一無是處，在亮度方面比起上一代的提升不少，這代總算在大夏天的戶外看的清楚了。
 
 從 Nothing Phone (2) 升級上來的使用者，會在網路方面很有感，首先，Nothing Phone (3) 支援了中華 4CA（或許有 5CA 也說不定，但我的生活圈要遇到 5CA 要點運氣以及找角度，大多數時候還是 4CA）
-![Screenshot_20250710-104920](https://hackmd.io/_uploads/BkMk6tEIlx.png =500x)
+![Screenshot_20250710-104920](/assets/img/posts/BkMk6tEIlx.png =500x)
 原本在 Nothing Phone (2) 只有中華 3CA，遇到一些極限場景會有些不夠力。再者就是，終於升級上 WiFi 7 了，雖然這個其實是得益於 SOC 的升級，且在熱點分享的部分，也有提供 6Ghz 的選項可以供使用者選擇。
-![Screenshot_20250711-143514](https://hackmd.io/_uploads/BkRiTKNUxg.png =500x)
+![Screenshot_20250711-143514](/assets/img/posts/BkRiTKNUxg.png =500x)
 
 
 
@@ -88,12 +88,12 @@ Nothing Phone (3) 出廠即搭載目前最新的 Nothing OS 3.5 Android 15 版�
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/rkiZykULee.png" alt="Screenshot_20250710-021837"></td>
-    <td><img src="https://hackmd.io/_uploads/H1wz1kLIxl.png" alt="Screenshot_20250715-182704"></td>
+    <td><img src="/assets/img/posts/rkiZykULee.png" alt="Screenshot_20250710-021837"></td>
+    <td><img src="/assets/img/posts/H1wz1kLIxl.png" alt="Screenshot_20250715-182704"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/S1EAxkLIxg.png" alt="Screenshot_20250717-103151"></td>
-    <td><img src="https://hackmd.io/_uploads/Ske2CeJULxl.png" alt="Screenshot_20250717-103158"></td>
+    <td><img src="/assets/img/posts/S1EAxkLIxg.png" alt="Screenshot_20250717-103151"></td>
+    <td><img src="/assets/img/posts/Ske2CeJULxl.png" alt="Screenshot_20250717-103158"></td>
   </tr>
 </table>
 而我收到的第一版更新 ChangeLog 不是 ChangeLog，居然是 Nothing Phone (3) 的 Product Manager 寫給首發評測者的一段話，蠻特別的，在過往甚至是其他品牌當中，不曾看見過的，這對於 Nothing Tech 的這類型新創公司，產現出了相當開放的態度，也再次證明 Nothing Tech 不是一間傳統的手機品牌公司。
@@ -105,97 +105,97 @@ Nothing Phone (3) 出廠即搭載目前最新的 Nothing OS 3.5 Android 15 版�
 - 以下跑分全部都是在室溫 25 ℃ 下，所有設定都是系統預設值
 
 #### Nothing Phone (3)
-![NP3_Geekbench6_組圖](https://hackmd.io/_uploads/SJsaRgULgl.png)
+![NP3_Geekbench6_組圖](/assets/img/posts/SJsaRgULgl.png)
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/r1d0ClLLge.png" alt="Screenshot_20250717-113856"></td>
-    <td><img src="https://hackmd.io/_uploads/Sy0CAlLUll.png" alt="Screenshot_20250717-123949"></td>
+    <td><img src="/assets/img/posts/r1d0ClLLge.png" alt="Screenshot_20250717-113856"></td>
+    <td><img src="/assets/img/posts/Sy0CAlLUll.png" alt="Screenshot_20250717-123949"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### CMF by Nothing Phone 2 Pro
-![CMF_Phone_2Pro_Geekbench6_組圖](https://hackmd.io/_uploads/SywemgLIxl.png)
+![CMF_Phone_2Pro_Geekbench6_組圖](/assets/img/posts/SywemgLIxl.png)
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/BJSZ7xLLlg.png" alt="Screenshot_20250712-025959"></td>
-    <td><img src="https://hackmd.io/_uploads/rJnZQl88ee.png" alt="Screenshot_20250712-032744"></td>
+    <td><img src="/assets/img/posts/BJSZ7xLLlg.png" alt="Screenshot_20250712-025959"></td>
+    <td><img src="/assets/img/posts/rJnZQl88ee.png" alt="Screenshot_20250712-032744"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (3a) Pro
-![NP3aPro_Geekbench6_組圖](https://hackmd.io/_uploads/H17NmeUIgl.png)
+![NP3aPro_Geekbench6_組圖](/assets/img/posts/H17NmeUIgl.png)
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/HkcEme8Uxx.png" alt="Screenshot_20250712-025847"></td>
-    <td><img src="https://hackmd.io/_uploads/SJkBXg8Uxe.png" alt="Screenshot_20250712-032256"></td>
+    <td><img src="/assets/img/posts/HkcEme8Uxx.png" alt="Screenshot_20250712-025847"></td>
+    <td><img src="/assets/img/posts/SJkBXg8Uxe.png" alt="Screenshot_20250712-032256"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (3a)
-![NP3a_Geekbench6_組圖](https://hackmd.io/_uploads/Sy_BXgL8eg.png)
+![NP3a_Geekbench6_組圖](/assets/img/posts/Sy_BXgL8eg.png)
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/Hysr7lUIlg.png" alt="Screenshot_20250712-025851"></td>
-    <td><img src="https://hackmd.io/_uploads/B1LU7xLIgl.png" alt="Screenshot_20250712-032524"></td>
+    <td><img src="/assets/img/posts/Hysr7lUIlg.png" alt="Screenshot_20250712-025851"></td>
+    <td><img src="/assets/img/posts/B1LU7xLIgl.png" alt="Screenshot_20250712-032524"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### CMF by Nothing Phone 1
-![CMF_Phone_1_Geekbench6_組圖](https://hackmd.io/_uploads/rkDPXxILee.png)
+![CMF_Phone_1_Geekbench6_組圖](/assets/img/posts/rkDPXxILee.png)
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/B19PQl8Ull.png" alt="Screenshot_20250712-025934"></td>
-    <td><img src="https://hackmd.io/_uploads/HyWu7eUIee.png" alt="Screenshot_20250712-032743"></td>
+    <td><img src="/assets/img/posts/B19PQl8Ull.png" alt="Screenshot_20250712-025934"></td>
+    <td><img src="/assets/img/posts/HyWu7eUIee.png" alt="Screenshot_20250712-032743"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (2a)
-![NP2a_Geekbench6_組圖](https://hackmd.io/_uploads/rJcuXl8Ixg.png)
+![NP2a_Geekbench6_組圖](/assets/img/posts/rJcuXl8Ixg.png)
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/r1WYmeI8eg.png" alt="Screenshot_20250712-025901"></td>
-    <td><img src="https://hackmd.io/_uploads/H1vKQxLLgl.png" alt="Screenshot_20250712-032415"></td>
+    <td><img src="/assets/img/posts/r1WYmeI8eg.png" alt="Screenshot_20250712-025901"></td>
+    <td><img src="/assets/img/posts/H1vKQxLLgl.png" alt="Screenshot_20250712-032415"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (2)
-![NP2_Geekbench6_組圖](https://hackmd.io/_uploads/Bk7TVeUIgl.png)
+![NP2_Geekbench6_組圖](/assets/img/posts/Bk7TVeUIgl.png)
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/SyoA4gUIge.png" alt="Screenshot_20250717-111436"></td>
-    <td><img src="https://hackmd.io/_uploads/BJbJHe8Ule.png" alt="Screenshot_20250717-113508"></td>
+    <td><img src="/assets/img/posts/SyoA4gUIge.png" alt="Screenshot_20250717-111436"></td>
+    <td><img src="/assets/img/posts/BJbJHe8Ule.png" alt="Screenshot_20250717-113508"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (1)
-![NP1_Geekbench6_組圖](https://hackmd.io/_uploads/SkB9QlUIle.png)
+![NP1_Geekbench6_組圖](/assets/img/posts/SkB9QlUIle.png)
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/BkjcXeIIxe.png" alt="Screenshot_20250712-030001"></td>
-    <td><img src="https://hackmd.io/_uploads/S1gsmlLUge.png" alt="Screenshot_20250712-032455"></td>
+    <td><img src="/assets/img/posts/BkjcXeIIxe.png" alt="Screenshot_20250712-030001"></td>
+    <td><img src="/assets/img/posts/S1gsmlLUge.png" alt="Screenshot_20250712-032455"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 而我這邊也幫各位做成圖表，可以更好的判斷出效能高低。
-![Geekbench6_多核心](https://hackmd.io/_uploads/r1CLkrUIxx.png)
-![Geekbench6_單核心](https://hackmd.io/_uploads/BJAUJB8Llx.png)
+![Geekbench6_多核心](/assets/img/posts/r1CLkrUIxx.png)
+![Geekbench6_單核心](/assets/img/posts/BJAUJB8Llx.png)
 
 
 #### 同場加映（QRD8735）：
 QRD8735 - Snapdragon 8s Gen4 高通參考設計
-![QRD8735_Geekbench6_組圖](https://hackmd.io/_uploads/SyffwlILgl.png)
+![QRD8735_Geekbench6_組圖](/assets/img/posts/SyffwlILgl.png)
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/B19zwgIIgl.png" alt="Screenshot_20250714-070301"></td>
-    <td><img src="https://hackmd.io/_uploads/SJHXDeL8ll.png" alt="Screenshot_20250714-072414"></td>
+    <td><img src="/assets/img/posts/B19zwgIIgl.png" alt="Screenshot_20250714-070301"></td>
+    <td><img src="/assets/img/posts/SJHXDeL8ll.png" alt="Screenshot_20250714-072414"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
@@ -210,7 +210,7 @@ QRD8735 - Snapdragon 8s Gen4 高通參考設計
 4. 後台沒有開啟任何程式，但軟體背景服務、通知全程開啟，模擬正常使用下的情況
 5. 手機已經先轉移所有應用程式資料
 
-![Screenshot_20250721-092152](https://hackmd.io/_uploads/Syp_t5oUle.png =500x)
+![Screenshot_20250721-092152](/assets/img/posts/Syp_t5oUle.png =500x)
 
 
 Nothing Tech 台北南港辦公室參訪
@@ -218,23 +218,23 @@ Nothing Tech 台北南港辦公室參訪
 有幸在 7/14 前往 Nothing Tech 在台北南港的辦公室參觀，其實主要是去與 Nothing Tech 的工程師見面，順便交流一下，以及進行一些測試。
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/B1sABgIIll.jpg" alt="IMG_20250714_142819543"></td>
-    <td><img src="https://hackmd.io/_uploads/SkEyLlI8lg.jpg" alt="IMG_20250714_143016027"></td>
+    <td><img src="/assets/img/posts/B1sABgIIll.jpg" alt="IMG_20250714_142819543"></td>
+    <td><img src="/assets/img/posts/SkEyLlI8lg.jpg" alt="IMG_20250714_143016027"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/ryRy8xIIxg.jpg" alt="IMG_20250714_161024763"></td>
-    <td><img src="https://hackmd.io/_uploads/S1te8xULge.jpg" alt="IMG_20250714_162147494"></td>
+    <td><img src="/assets/img/posts/ryRy8xIIxg.jpg" alt="IMG_20250714_161024763"></td>
+    <td><img src="/assets/img/posts/S1te8xULge.jpg" alt="IMG_20250714_162147494"></td>
   </tr>
 </table>
 特別感謝 Nothing Tech Taiwan 的夥伴接待，也有幸收到一些紀念品，分別是兩雙 Nothing 的襪子，一個手機掛繩，一頂 Nothing 的帽子。
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/BJX8Ug8Lll.jpg" alt="IMG_20250714_182245420"></td>
-    <td><img src="https://hackmd.io/_uploads/HJuU8lLLxx.jpg" alt="IMG_20250714_182456235"></td>
+    <td><img src="/assets/img/posts/BJX8Ug8Lll.jpg" alt="IMG_20250714_182245420"></td>
+    <td><img src="/assets/img/posts/HJuU8lLLxx.jpg" alt="IMG_20250714_182456235"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/rkaILeU8xx.jpg" alt="IMG_20250714_182535381"></td>
-    <td><img src="https://hackmd.io/_uploads/S1gmw8lL8lx.jpg" alt="IMG_20250714_182615259"></td>
+    <td><img src="/assets/img/posts/rkaILeU8xx.jpg" alt="IMG_20250714_182535381"></td>
+    <td><img src="/assets/img/posts/S1gmw8lL8lx.jpg" alt="IMG_20250714_182615259"></td>
   </tr>
 </table>
 智慧 Essential
@@ -244,19 +244,19 @@ Nothing Tech 台北南港辦公室參訪
 以及整合 ChatGPT 的功能，可以更快速的把截圖跟文字交給 ChatGPT 做分析或是討論，這個對於有購買 ChatGPT Plus / Pro 的人，那就是一大福音。
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/SyovorLIlg.png" alt="Screenshot_20250712-014353"></td>
-    <td><img src="https://hackmd.io/_uploads/SkfdirLLgg.png" alt="Screenshot_20250712-014355"></td>
-    <td><img src="https://hackmd.io/_uploads/S11FoBIIll.png" alt="Screenshot_20250712-014753"></td>
+    <td><img src="/assets/img/posts/SyovorLIlg.png" alt="Screenshot_20250712-014353"></td>
+    <td><img src="/assets/img/posts/SkfdirLLgg.png" alt="Screenshot_20250712-014355"></td>
+    <td><img src="/assets/img/posts/S11FoBIIll.png" alt="Screenshot_20250712-014753"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/BkcFoBULex.png" alt="Screenshot_20250712-014809"></td>
-    <td><img src="https://hackmd.io/_uploads/BJr9orLIll.png" alt="Screenshot_20250712-014811"></td>
-    <td><img src="https://hackmd.io/_uploads/BkaqoSULex.png" alt="Screenshot_20250712-014814"></td>
+    <td><img src="/assets/img/posts/BkcFoBULex.png" alt="Screenshot_20250712-014809"></td>
+    <td><img src="/assets/img/posts/BJr9orLIll.png" alt="Screenshot_20250712-014811"></td>
+    <td><img src="/assets/img/posts/BkaqoSULex.png" alt="Screenshot_20250712-014814"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/HyYssHLUxl.png" alt="Screenshot_20250712-014818"></td>
-    <td><img src="https://hackmd.io/_uploads/Bys6jHLUxx.png" alt="Screenshot_20250712-014831"></td>
-    <td><img src="https://hackmd.io/_uploads/r1CY2SI8gx.png" alt="Screenshot_20250712-014837"></td>
+    <td><img src="/assets/img/posts/HyYssHLUxl.png" alt="Screenshot_20250712-014818"></td>
+    <td><img src="/assets/img/posts/Bys6jHLUxx.png" alt="Screenshot_20250712-014831"></td>
+    <td><img src="/assets/img/posts/r1CY2SI8gx.png" alt="Screenshot_20250712-014837"></td>
   </tr>
 </table>
 Glyph Matrix
@@ -267,8 +267,8 @@ Glyph Matrix
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/B1H1-SULlg.png" alt="Screenshot_20250712-014308"></td>
-    <td><img src="https://hackmd.io/_uploads/HyblfS88xe.png" alt="Screenshot_20250712-014346"></td>
+    <td><img src="/assets/img/posts/B1H1-SULlg.png" alt="Screenshot_20250712-014308"></td>
+    <td><img src="/assets/img/posts/HyblfS88xe.png" alt="Screenshot_20250712-014346"></td>
   </tr>
 </table>
 預先支援的小玩具就已經不少了，甚至 Nothing Tech 也有把 API 開源，可以讓玩家自己開發 Glyph Matrix 動態燈陣的小玩具
@@ -280,19 +280,19 @@ Glyph Matrix
 內建就已經有了以下 9 個小玩具可以選
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/rykGbrIIxx.png" alt="Screenshot_20250712-014313"></td>
-    <td><img src="https://hackmd.io/_uploads/rkNzZHUUlg.png" alt="Screenshot_20250712-014316"></td>
-    <td><img src="https://hackmd.io/_uploads/ryjzWBIUle.png" alt="Screenshot_20250712-014317"></td>
+    <td><img src="/assets/img/posts/rykGbrIIxx.png" alt="Screenshot_20250712-014313"></td>
+    <td><img src="/assets/img/posts/rkNzZHUUlg.png" alt="Screenshot_20250712-014316"></td>
+    <td><img src="/assets/img/posts/ryjzWBIUle.png" alt="Screenshot_20250712-014317"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/HkmNWBI8eg.png" alt="Screenshot_20250712-014319"></td>
-    <td><img src="https://hackmd.io/_uploads/HyFNbSUUgl.png" alt="Screenshot_20250712-014321"></td>
-    <td><img src="https://hackmd.io/_uploads/HkNYbSI8xl.png" alt="Screenshot_20250712-014325"></td>
+    <td><img src="/assets/img/posts/HkmNWBI8eg.png" alt="Screenshot_20250712-014319"></td>
+    <td><img src="/assets/img/posts/HyFNbSUUgl.png" alt="Screenshot_20250712-014321"></td>
+    <td><img src="/assets/img/posts/HkNYbSI8xl.png" alt="Screenshot_20250712-014325"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/SJNc-rIIee.png" alt="Screenshot_20250712-014327"></td>
-    <td><img src="https://hackmd.io/_uploads/BJtqZBLIex.png" alt="Screenshot_20250712-014330"></td>
-    <td><img src="https://hackmd.io/_uploads/S1xiZSULge.png" alt="Screenshot_20250712-014332"></td>
+    <td><img src="/assets/img/posts/SJNc-rIIee.png" alt="Screenshot_20250712-014327"></td>
+    <td><img src="/assets/img/posts/BJtqZBLIex.png" alt="Screenshot_20250712-014330"></td>
+    <td><img src="/assets/img/posts/S1xiZSULge.png" alt="Screenshot_20250712-014332"></td>
   </tr>
 </table>
 Nothing Camera 相機
@@ -301,7 +301,7 @@ Nothing Phone (3) 所搭載的相機鏡頭可說是大規模的升級，前攝�
 分別搭載的是 Samsung JN5 作為潛望式鏡頭、OmniVision OV50H 作為主鏡頭、Samsung JN1 作為廣角以及前置鏡頭。Nothing 也將 TrueLens Engine 計算攝影演算法升級到第 4 代了，
 
 因緣際會，我有機會可以取得 OmniVision OV50H 的工程實片。
-![IMG_20250702_142303077](https://hackmd.io/_uploads/ByTiqosLgl.jpg)
+![IMG_20250702_142303077](/assets/img/posts/ByTiqosLgl.jpg)
 
 外圍一圈橘色的部分是工程需求，所額外加上的，主要還是在中間的區域。
 OV50H 這個 CMOS 也廣泛用在許多手機上面，包含了小米 14 的光影獵人 900（OV50H 換皮）、華為 Pura 70 系列的多款機型上面。
@@ -339,7 +339,7 @@ OV50H 這個 CMOS 也廣泛用在許多手機上面，包含了小米 14 的光�
 
 ### 產品家族大合照
 按照傳統慣例，我再度請出我的所有收藏，拍一張 Nothing Phone & CMF by Nothing Phone 的全家福
-> ![大合照](https://hackmd.io/_uploads/rywMazKwee.jpg)
+> ![大合照](/assets/img/posts/rywMazKwee.jpg)
 
 
 
@@ -353,7 +353,7 @@ About Me
 
 <a href="mailto:bluehome.wu@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 
-![image](https://hackmd.io/_uploads/Bk1EYGfYA.png)
+![image](/assets/img/posts/Bk1EYGfYA.png)
 
 
 ###### tags: `Android` `Nothing` `Nothing Phone (3)` `ROM` `Nothing Tech` `Nothing Phone`
