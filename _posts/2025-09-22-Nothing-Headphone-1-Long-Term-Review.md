@@ -132,7 +132,7 @@ Nothing Headphone (1) 承襲了品牌標誌性的透明美學，但同時也玩�
 
 | ![IMG_20250803_013037559](/assets/img/posts/HJPAHymsle.jpg) | ![IMG_20250803_013155848](/assets/img/posts/SkBe8JXigl.jpg) |
 | ------------------------------------ | ------------------------------------ |
-| ![IMG_20250803_012944600](/assets/img/posts/Hypduk7ilg.jpg) | ![IMG_20250803_013155848](/assets/img/posts/rkVKOyXsee.jpg) |
+| ![IMG_20250803_012944600](/assets/img/posts/Hypduk7ilg.jpg) | ![IMG_20250803_013519394](/assets/img/posts/rJqJ411nxg.jpg) |
 
 ### 聲學表現：兼具清晰度與沉浸感
 在最重要的音質方面，Nothing Headphone (1) 的表現屬實是令人感到驚喜。
