@@ -7,7 +7,7 @@ tags: [Nothing, Nothing Tech]
 
 # 真實長測：Nothing Headphone (1) 降噪、通話、佩戴舒適度全記錄
 
-![IMG_20250801_235606532](https://hackmd.io/_uploads/r1lFC0Zslx.jpg)
+![IMG_20250801_235606532](/assets/img/posts/r1lFC0Zslx.jpg)
 
 
 前言
@@ -130,9 +130,9 @@ Nothing Headphone (1) 承襲了品牌標誌性的透明美學，但同時也玩�
 頭帶與耳罩採用了柔軟的合成皮革，搭配金屬的框架，在質感與耐用性上取得了很好的平衡。
 實際配戴上，它的重量分佈均勻，耳罩的包覆性與密合度都相當出色，即使長時間配戴也不易產生壓迫感。
 
-| ![IMG_20250803_013037559](https://hackmd.io/_uploads/HJPAHymsle.jpg) | ![IMG_20250803_013155848](https://hackmd.io/_uploads/SkBe8JXigl.jpg) |
+| ![IMG_20250803_013037559](/assets/img/posts/HJPAHymsle.jpg) | ![IMG_20250803_013155848](/assets/img/posts/SkBe8JXigl.jpg) |
 | ------------------------------------ | ------------------------------------ |
-| ![IMG_20250803_012944600](https://hackmd.io/_uploads/Hypduk7ilg.jpg) | ![IMG_20250803_013155848](https://hackmd.io/_uploads/rkVKOyXsee.jpg) |
+| ![IMG_20250803_012944600](/assets/img/posts/Hypduk7ilg.jpg) | ![IMG_20250803_013155848](/assets/img/posts/rkVKOyXsee.jpg) |
 
 ### 聲學表現：兼具清晰度與沉浸感
 在最重要的音質方面，Nothing Headphone (1) 的表現屬實是令人感到驚喜。
@@ -149,28 +149,28 @@ Nothing Headphone (1) 承襲了品牌標誌性的透明美學，但同時也玩�
 Nothing X
 ---
 在我收到耳機之後，經歷了三個版本的韌體更新，都是透過 Nothing X 的 APP 來完成的，Nothing 在這點做得相當不錯
-| ![Screenshot_20250803-013837](https://hackmd.io/_uploads/r1xTUYAsel.png) | ![Screenshot_20250803-014422](https://hackmd.io/_uploads/HySKvFAoel.png) |
+| ![Screenshot_20250803-013837](/assets/img/posts/r1xTUYAsel.png) | ![Screenshot_20250803-014422](/assets/img/posts/HySKvFAoel.png) |
 | ------------------------------------ | ------------------------------------ |
-| ![Screenshot_20250805-123426](https://hackmd.io/_uploads/HkKBvYCixl.png) | ![Screenshot_20250820-110325](https://hackmd.io/_uploads/Hyv8DtRsxg.png) | 
+| ![Screenshot_20250805-123426](/assets/img/posts/HkKBvYCixl.png) | ![Screenshot_20250820-110325](/assets/img/posts/Hyv8DtRsxg.png) | 
 
 並且 Nothing X 的 APP 當中也有許多設定可以修改，而我也在網路上找到大陸博主「削腚恶」提供的 Nothing Headphone (1) 特調 EQ 設定檔
 
-| ![image](https://hackmd.io/_uploads/rJHwaY0oxe.png) | ![image](https://hackmd.io/_uploads/rykdpF0olx.png) |
+| ![image](/assets/img/posts/rJHwaY0oxe.png) | ![image](/assets/img/posts/rykdpF0olx.png) |
 | ------------------------------------ | ------------------------------------ |
 
 還有一組 EQ 設定檔是來自加拿大的科技 Youtuber "Linus Gabriel Sebastian"， Youtube 頻道 "Linus Tech Tips" 提供的
 
-![image](https://hackmd.io/_uploads/rJQWAYRogg.png)
+![image](/assets/img/posts/rJQWAYRogg.png)
 [Ref Link](https://youtu.be/gTzzJiM1RZc?si=tXwZuPRK2FD7g44j&t=409)
 
 我自己其實聽不太出來兩者之間的區別，但目前我主要是使用大陸博主「削腚恶」提供的設定檔，作為日常使用。
 
-| ![Screenshot_20250917-204009](https://hackmd.io/_uploads/ryiY0YRoel.png) | ![Screenshot_20250917-204012](https://hackmd.io/_uploads/H1l9CY0ixg.png) |
+| ![Screenshot_20250917-204009](/assets/img/posts/ryiY0YRoel.png) | ![Screenshot_20250917-204012](/assets/img/posts/H1l9CY0ixg.png) |
 | ------------------------------------ | ------------------------------------ |
-| ![Screenshot_20250917-204104](https://hackmd.io/_uploads/B1koAK0ogl.png) | ![Screenshot_20250917-204112](https://hackmd.io/_uploads/HJtoAK0sxx.png) |
+| ![Screenshot_20250917-204104](/assets/img/posts/B1koAK0ogl.png) | ![Screenshot_20250917-204112](/assets/img/posts/HJtoAK0sxx.png) |
 
 同時，Nothing Headphone (1) 也支援空間音訊的音訊模式，更有身臨其境的感覺。
-![Screenshot_20250917-204126](https://hackmd.io/_uploads/Byylk9Aoxl.png)
+![Screenshot_20250917-204126](/assets/img/posts/Byylk9Aoxl.png)
 
 總結
 ---
@@ -199,6 +199,6 @@ About Me
 
 <a href="mailto:bluehome.wu@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
 
-![image](https://hackmd.io/_uploads/Bk1EYGfYA.png)
+![image](/assets/img/posts/Bk1EYGfYA.png)
 
 ###### tags: `Android` `Nothing` `Nothing Headphone (1)` `ROM` `Nothing Tech` `Nothing Headphone`
