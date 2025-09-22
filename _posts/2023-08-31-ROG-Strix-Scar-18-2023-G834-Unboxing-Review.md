@@ -115,8 +115,7 @@ About Me
 - Instagram : [_920223](https://www.instagram.com/_920223/)
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 - HackMD : [@EdwardWu](https://hackmd.io/@EdwardWu)
-
-<a href="mailto:bluehome.wu@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
+- Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
 ![](/assets/img/posts/rJJiX-pT2.png)
 

@@ -274,10 +274,8 @@ brunch arrow_Z01R-userdebug | tee arrow_Z01R_$(date +"%Y%m%d_%H.%M")GMT8.txt
 [Paypal](https://www.paypal.me/edwardwu0223)
 - 同場加映
 [Android 第三方 Recovery 繁體中文編譯教學](https://hackmd.io/@EdwardWu/CompileARecovery)
-<p align="center">
-<a href="https://github.com/bluehomewu"> <img alt="Github" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
-<a href="mailto:bluehome.wu@gmail.com"> <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
-</p>
+- GitHub : [bluehomewu](https://github.com/bluehomewu)
+- Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
 
 ###### tags: `Android` `ROM` `編譯` `第三方` `教學`
