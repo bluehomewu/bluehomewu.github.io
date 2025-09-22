@@ -13,40 +13,64 @@
     {% seo title=false %}
   {%- endcapture -%}
 
-  <!-- Setup Open Graph image -->
+  <!-- =================================================================== -->
+  <!-- MODIFIED: 自訂社群分享圖片 (og:image) 的邏輯 (v4 - CORRECTED)      -->
+  <!-- =================================================================== -->
+  <!-- 優先級順序:                                                        -->
+  <!-- 1. Front Matter 中的 `page.image` (手動指定)                       -->
+  <!-- 2. 文章內容 `content` 中的第一張圖片 (自動抓取)                    -->
+  <!-- 3. _config.yml 中設定的全站預設圖片 `site.social_preview_image`    -->
+  <!-- =================================================================== -->
 
-  {% if page.image %}
-    {% assign src = page.image.path | default: page.image %}
+  {%- assign share_image_path = nil -%}
+  {%- assign share_image_alt = nil -%}
 
-    {% unless src contains '://' %}
-      {%- capture img_url -%}
-        {% include media-url.html src=src subpath=page.media_subpath absolute=true %}
-      {%- endcapture -%}
+  {%- comment -%} --- 1. 檢查手動指定的圖片 --- {%- endcomment -%}
+  {%- if page.image -%}
+    {%- assign share_image_path = page.image.path | default: page.image -%}
+    {%- if page.image.alt -%}
+      {%- assign share_image_alt = page.image.alt -%}
+    {%- endif -%}
 
-      {%- capture old_url -%}{{ src | absolute_url }}{%- endcapture -%}
-      {%- capture new_url -%}{{ img_url }}{%- endcapture -%}
+  {%- comment -%} --- 2. 檢查文章內容的第一張圖片 --- {%- endcomment -%}
+  {%- elsif page.layout == "post" and page.content contains "<img src=" -%}
+    {%- assign content_parts = page.content | split: '<img' -%}
+    {%- if content_parts.size > 1 -%}
+      {%- assign first_img_tag_content = content_parts[1] | split: '>' | first -%}
+      {%- if first_img_tag_content contains 'src="' -%}
+        {%- assign img_src = first_img_tag_content | split: 'src="' | last | split: '"' | first -%}
+        {%- assign share_image_path = img_src -%}
+      {%- endif -%}
+      {%- if first_img_tag_content contains 'alt="' -%}
+        {%- assign img_alt = first_img_tag_content | split: 'alt="' | last | split: '"' | first -%}
+        {%- assign share_image_alt = img_alt -%}
+      {%- endif -%}
+    {%- endif -%}
 
-      {% assign seo_tags = seo_tags | replace: old_url, new_url %}
-    {% endunless %}
+  {%- comment -%} --- 3. 使用全站預設圖片 --- {%- endcomment -%}
+  {%- elsif site.social_preview_image -%}
+    {%- assign share_image_path = site.social_preview_image -%}
+    {%- assign share_image_alt = page.title -%}
+  {%- endif -%}
 
-  {% elsif site.social_preview_image %}
-    {%- capture img_url -%}
-      {% include media-url.html src=site.social_preview_image absolute=true %}
+  {%- comment -%} --- 產生並插入最終的 meta 標籤 --- {%- endcomment -%}
+  {%- if share_image_path -%}
+    {%- capture final_image_url -%}
+      {% include media-url.html src=share_image_path subpath=page.media_subpath absolute=true %}
     {%- endcapture -%}
-
-    {%- capture og_image -%}
-      <meta property="og:image" content="{{ img_url }}" />
-    {%- endcapture -%}
-
-    {%- capture twitter_image -%}
+    
+    {%- capture custom_og_tags -%}
+      <meta property="og:image" content="{{ final_image_url | strip }}" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta property="twitter:image" content="{{ img_url }}" />
+      <meta property="twitter:image" content="{{ final_image_url | strip }}" />
+      {%- if share_image_alt -%}
+        <meta property="og:image:alt" content="{{ share_image_alt | xml_escape }}">
+        <meta name="twitter:image:alt" content="{{ share_image_alt | xml_escape }}">
+      {%- endif -%}
     {%- endcapture -%}
 
-    {% assign old_meta_clip = '<meta name="twitter:card" content="summary" />' %}
-    {% assign new_meta_clip = og_image | append: twitter_image %}
-    {% assign seo_tags = seo_tags | replace: old_meta_clip, new_meta_clip %}
-  {% endif %}
+    {% assign seo_tags = seo_tags | replace: '<meta name="twitter:card" content="summary" />', custom_og_tags %}
+  {%- endif -%}
 
   {{ seo_tags }}
 
