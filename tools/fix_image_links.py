@@ -2,7 +2,7 @@ import os
 import re
 
 # --- 設定 ---
-POSTS_DIRECTORY = '_posts'
+POSTS_DIRECTORY = '../_posts'
 # --- 設定結束 ---
 
 def fix_links_in_file(file_path):

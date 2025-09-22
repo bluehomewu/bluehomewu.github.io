@@ -6,10 +6,10 @@ from urllib.parse import urlparse
 # --- 請在這裡設定 ---
 
 # 1. 你的文章所在的資料夾
-POSTS_DIRECTORY = '_posts'
+POSTS_DIRECTORY = '../_posts'
 
 # 2. 下載的圖片要儲存到哪個資料夾
-IMAGE_DEST_DIR = os.path.join('assets', 'img', 'posts')
+IMAGE_DEST_DIR = os.path.join('../', 'assets', 'img', 'posts')
 
 # 3. 在 Markdown 檔案中，替換後的圖片路徑前綴
 #    (前面的 '/' 非常重要，代表網站根目錄)
