@@ -149,14 +149,26 @@ Nothing Headphone (1) 承襲了品牌標誌性的透明美學，但同時也玩�
 Nothing X
 ---
 在我收到耳機之後，經歷了三個版本的韌體更新，都是透過 Nothing X 的 APP 來完成的，Nothing 在這點做得相當不錯
-| ![Screenshot_20250803-013837](/assets/img/posts/r1xTUYAsel.png) | ![Screenshot_20250803-014422](/assets/img/posts/HySKvFAoel.png) |
-| ------------------------------------ | ------------------------------------ |
-| ![Screenshot_20250805-123426](/assets/img/posts/HkKBvYCixl.png) | ![Screenshot_20250820-110325](/assets/img/posts/Hyv8DtRsxg.png) | 
+
+<table>
+  <tr>
+    <td><img src="/assets/img/posts/r1xTUYAsel.png" alt="Screenshot_20250803-013837"></td>
+    <td><img src="/assets/img/posts/HySKvFAoel.png" alt="Screenshot_20250803-014422"></td>
+  </tr>
+  <tr>
+    <td><img src="/assets/img/posts/HkKBvYCixl.png" alt="Screenshot_20250805-123426"></td>
+    <td><img src="/assets/img/posts/Hyv8DtRsxg.png" alt="Screenshot_20250820-110325"></td>
+  </tr>
+</table>
 
 並且 Nothing X 的 APP 當中也有許多設定可以修改，而我也在網路上找到大陸博主「削腚恶」提供的 Nothing Headphone (1) 特調 EQ 設定檔
 
-| ![image](/assets/img/posts/rJHwaY0oxe.png) | ![image](/assets/img/posts/rykdpF0olx.png) |
-| ------------------------------------ | ------------------------------------ |
+<table>
+  <tr>
+    <td><img src="/assets/img/posts/rJHwaY0oxe.png" alt="image"></td>
+    <td><img src="/assets/img/posts/rykdpF0olx.png" alt="image"></td>
+  </tr>
+</table>
 
 還有一組 EQ 設定檔是來自加拿大的科技 Youtuber "Linus Gabriel Sebastian"， Youtube 頻道 "Linus Tech Tips" 提供的
 
@@ -165,9 +177,16 @@ Nothing X
 
 我自己其實聽不太出來兩者之間的區別，但目前我主要是使用大陸博主「削腚恶」提供的設定檔，作為日常使用。
 
-| ![Screenshot_20250917-204009](/assets/img/posts/ryiY0YRoel.png) | ![Screenshot_20250917-204012](/assets/img/posts/H1l9CY0ixg.png) |
-| ------------------------------------ | ------------------------------------ |
-| ![Screenshot_20250917-204104](/assets/img/posts/B1koAK0ogl.png) | ![Screenshot_20250917-204112](/assets/img/posts/HJtoAK0sxx.png) |
+<table>
+  <tr>
+    <td><img src="/assets/img/posts/ryiY0YRoel.png" alt="Screenshot_20250917-204009"></td>
+    <td><img src="/assets/img/posts/H1l9CY0ixg.png" alt="Screenshot_20250917-204012"></td>
+  </tr>
+  <tr>
+    <td><img src="/assets/img/posts/B1koAK0ogl.png" alt="Screenshot_20250917-204104"></td>
+    <td><img src="/assets/img/posts/HJtoAK0sxx.png" alt="Screenshot_20250917-204112"></td>
+  </tr>
+</table>
 
 同時，Nothing Headphone (1) 也支援空間音訊的音訊模式，更有身臨其境的感覺。
 ![Screenshot_20250917-204126](/assets/img/posts/Byylk9Aoxl.png)
