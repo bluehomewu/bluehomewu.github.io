@@ -12,7 +12,7 @@ tags: [Windows, Microsoft, Office]
 ---
 ###### 本文以 Office 2016 Professional Plus 為例
 - 到 Microsoft Office 產品安裝路徑下
-64 位元 `C:\Program Files\Microsoft Office\Office16`
+64 位元 `C:\Program Files\Microsoft Office\Office16`  
 32 位元 `C:\Program Files(x86)\Microsoft Office\Office16`
 - 以系統管理者身分，在這個資料夾下執行命令提示字元
 輸入 `cscript "C:\Program Files\Microsoft Office\Office16\ospp.vbs" /dstatus`

@@ -26,13 +26,13 @@ https://github.com/SebaUbuntu/TWRP-device-tree-generator
 ---
 - 詳細編譯教學，請參考 [Android 第三方 Recovery 繁體中文編譯教學](https://hackmd.io/@EdwardWu/CompileARecovery)
 - 在這之後進行編譯，第一個版本(27MB)透過光卡的測試
-發現TWRP 檔案太大無法刷入該手機的Recovery分區(原始大小24MB)
+發現TWRP 檔案太大無法刷入該手機的Recovery分區(原始大小24MB)  
 在BoardConfig.mk檔案中加入了LZMA壓縮指令後
 https://git.io/JYHz8
 - 生成第二版本，將體積壓縮到23MB，也終於可以刷入手機
-第二版本測試過程中發現
-"adb shell" not working & 外接式SD Card無法掛載(可支援terminal手動掛載)
-在檢視過log文件後，發現到我壓根沒寫上sdcard的掛載程序
+第二版本測試過程中發現  
+"adb shell" not working & 外接式SD Card無法掛載(可支援terminal手動掛載)  
+在檢視過log文件後，發現到我壓根沒寫上sdcard的掛載程序  
 我是天才吧（？
 https://git.io/JYHzu
 在補上sdcard的掛載程序後 adb shell 就自己好了?神奇!!

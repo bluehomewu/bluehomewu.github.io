@@ -8,17 +8,17 @@ tags: [ASUS, Qualcomm, Laptop]
 
 # 攜手 Microsoft Copilot+：華碩 Vivobook S15 重新定義生產力
 
-**#Snapdragon Insiders**
-**#ASUSTaiwan**
+**#Snapdragon Insiders**  
+**#ASUSTaiwan**  
 **#ASUS Vivobook S15 (S5507)**
 
 ![P_20240908_175006](/assets/img/posts/HyEdHgj3C.jpg)
 
 前言
 ---
-去年，高通在臺灣建立 [@snapdragon_tw](https://www.instagram.com/snapdragon_tw) 的 Instagram 帳號之後，我便開始參加了 Snapdragon Insiders 的一系列活動。
-就在 8 月初，Snapdragon 舉辦了臺灣的第三場紛絲交流會活動，而我則是連續三場都有參加。
-第一場活動，主軸為攝影以及與 Snapdragon 團隊交流。
+去年，高通在臺灣建立 [@snapdragon_tw](https://www.instagram.com/snapdragon_tw) 的 Instagram 帳號之後，我便開始參加了 Snapdragon Insiders 的一系列活動。  
+就在 8 月初，Snapdragon 舉辦了臺灣的第三場紛絲交流會活動，而我則是連續三場都有參加。  
+第一場活動，主軸為攝影以及與 Snapdragon 團隊交流。  
 第二場活動，則是著重於 #BuildForAI 2023 Snapdragon 高峰會技術解密，也正是在這場活動中將 Qualcomm Clamshell Reference Design(CRD) 亮相，讓 Insiders 首次體驗到 Snapdragon X Elite 的實力。
 
 <table>
@@ -31,7 +31,7 @@ tags: [ASUS, Qualcomm, Laptop]
     <td><img src="/assets/img/posts/H1dIxmQ00.jpg" alt="P_20231215_212328"></td>
   </tr>
 </table>
-第三場活動，正式介紹了 Snapdragon X 系列平台的 Copilot+ PC 以及透過創作者宇恩 yu_n [@peichen0422](https://www.instagram.com/peichen0422/) 分享如何使用 Copilot+ PC 以提升生產力。
+第三場活動，正式介紹了 Snapdragon X 系列平台的 Copilot+ PC 以及透過創作者宇恩 yu_n [@peichen0422](https://www.instagram.com/peichen0422/) 分享如何使用 Copilot+ PC 以提升生產力。  
 當天宇恩於現場 Demo Copilot+ 應用程式時，就是使用 ASUS Vivobook S15 (S5507)，也正是本次我要上手體驗的主角。
 
 <table>
@@ -109,7 +109,7 @@ ASUS Vivobook S15 (S5507)
 </table>
 ▲ Take By ASUS ZenFone 11 Ultra
 
-右側提供了兩個 USB Type-A 皆為 5Gbps 的傳輸速率，左側則提供了一個全尺寸的 HDMI、2 個 USB 4.0 Gen 3 Type-C、3.5mm 音訊插孔以及 Micro SD 讀卡機，該有的接口都有提供，這對於經常性攜帶輕薄筆電到處移動的人群來說，非常實用，這也相當適合創作者外出拍攝之後快速過檔用的機器，又或者是文字工作者等消費者群體。
+右側提供了兩個 USB Type-A 皆為 5Gbps 的傳輸速率，左側則提供了一個全尺寸的 HDMI、2 個 USB 4.0 Gen 3 Type-C、3.5mm 音訊插孔以及 Micro SD 讀卡機，該有的接口都有提供，這對於經常性攜帶輕薄筆電到處移動的人群來說，非常實用，這也相當適合創作者外出拍攝之後快速過檔用的機器，又或者是文字工作者等消費者群體。  
 至於重量，1.42 kg 對於一台 15 吋，且具備 70Wh 電池容量的筆電來說，已經算是相當輕巧了。
 
 ASUS 目前已有許多 Laptop 產品，都是採用 OLED 的螢幕，發色相當鮮豔，且自帶色彩校色文件，對於調色、影音編輯等，對於螢幕色彩表現有要求的人來說，相當友好。
@@ -170,7 +170,7 @@ ASUS 目前已有許多 Laptop 產品，都是採用 OLED 的螢幕，發色相�
 
 - 在 Windows On Arm 產品當中，對比 x86_64 平台有著最明顯的優勢則是在電源管理的環節。
 ![Battery](/assets/img/posts/HJMkpQtR0.png)
-    在平衡模式下，剩餘約 82% 的電量時，預估可用時間仍舊長達 7 小時。可見不僅是高通對於 Snapdragon X Elite 產品以及華碩最佳化的效果都是顯而易見的。
+    在平衡模式下，剩餘約 82% 的電量時，預估可用時間仍舊長達 7 小時。可見不僅是高通對於 Snapdragon X Elite 產品以及華碩最佳化的效果都是顯而易見的。  
     在這一個月的使用體驗，我將 ASUS Vivobook S15 攜帶出門到咖啡廳工作，在剛進咖啡廳時，配有插座的座位，都已有人在使用。當下我電池只剩下 80%（前次充電使用了 MyAsus 程式內的「電池保養模式」，也因此沒有充飽就出門了。）歷經接近 8 小時的工作，期間大量使用網路傳輸檔案以及進行許多文書編輯、多開瀏覽器甚至還有花上數小時在進行 coding，透過 Arm 版本的 VScode 連接 WSL2 On Arm64，也算是不小的負載。直到我回到家時，電池還剩下約 20% 左右的電量。
 - 驗明正身 WSL2 On Arm64
 ![image](/assets/img/posts/r1qikNYAA.png)
@@ -178,8 +178,8 @@ ASUS 目前已有許多 Laptop 產品，都是採用 OLED 的螢幕，發色相�
 
 
 ### 新世代網路 - WiFi 7 802.11be
-為了這次的測試體驗，我也大大的下血本，更換了 ASUS 的 WiFi 7 Router RT-BE88U
-高通對於網路通訊相關的技術還是相當優秀的，也因此在 Snapdragon X Elite 產品當中所使用的無線網路卡，也符合 WiFi 7 的要求。
+為了這次的測試體驗，我也大大的下血本，更換了 ASUS 的 WiFi 7 Router RT-BE88U  
+高通對於網路通訊相關的技術還是相當優秀的，也因此在 Snapdragon X Elite 產品當中所使用的無線網路卡，也符合 WiFi 7 的要求。  
 對於我在內網有架設 NAS 並且連接上 2.5Gbps 網路的生產力工作者，可說是一大福音。
 
 ![WiFi7_RT-BE88U-2](/assets/img/posts/BJOthTGCR.png)

@@ -8,15 +8,15 @@ tags: [ASUS, ROG, Android, Laptop, ROM, Intel 2th 校園大使]
 
 # ROG Strix SCAR 18 (2023) G834 開箱評測
 
-**#IntelCampusTaiwan**
-**#ROGTaiwan**
+**#IntelCampusTaiwan**  
+**#ROGTaiwan**  
 **#ROG**
 
 
 前言
 ---
-Hi 各位好～
-我是 Edward，目前是一名業餘的 Android Custom ROM Maintainer
+Hi 各位好～  
+我是 Edward，目前是一名業餘的 Android Custom ROM Maintainer  
 也曾在 SITCON 2021 擔任講者，並分享開放式議程主題 [「從零開始編譯 Android 第三方系統！」](https://sitcon.org/2021/agenda/1c9e74cd-aeeb-4e63-8ec4-af33eff16e7d)
 
 以下是我自己寫過的教學文章
@@ -26,12 +26,12 @@ Hi 各位好～
 轉載文章
 [快速上手 Android Custom ROM 適配 - Prebuilt Vendor](https://hackmd.io/@EdwardWu/Prebuilt-bringup)
 
-很榮幸可以體驗 ROG Strix SCAR 18 (2023) 電競遊戲筆電的極致表現。
-藉此機會也能讓我嘗試透過 Intel 13th CPU 進行編譯 Android Custom ROM 的工作。
+很榮幸可以體驗 ROG Strix SCAR 18 (2023) 電競遊戲筆電的極致表現。  
+藉此機會也能讓我嘗試透過 Intel 13th CPU 進行編譯 Android Custom ROM 的工作。  
 在 Intel 13th CPU 上市之後，遲遲未能親自使用 Intel 13th CPU 進行系統開發工作，以至於我到現在才能見識到混合架構的真正實力。
 
-這次 ROG Taiwan 借給我的機型為 ```ROG Strix SCAR 18 (2023) G834```
-也就是搭載 ```NVIDIA® GeForce RTX™ 4090 Laptop GPU``` 的頂配版本
+這次 ROG Taiwan 借給我的機型為 ```ROG Strix SCAR 18 (2023) G834```  
+也就是搭載 ```NVIDIA® GeForce RTX™ 4090 Laptop GPU``` 的頂配版本  
 而我身為 Intel 第二屆校園大使，Intel 13th CPU 的各項優勢，方方面面皆是相當吸引我。
 
 ### 硬體規格
@@ -71,16 +71,16 @@ Nvidia GeForce RTX 4090 Laptop 也同時是 Nvidia 在 Laptop 產品線當中提
 
 ###### 使用 ROG Strix SCAR 18 i9-13980HX 編譯 Xiaomi Pad 5 Pro(elish) ArrowOS 13.1 (Clean Build)
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/P2C1k4Pmsy8" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+src="https://www.youtube.com/embed/P2C1k4Pmsy8"   
+frameborder="0"   
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"   
 allowfullscreen></iframe>
 
 ###### 使用 ROG Strix SCAR 18 i9-13980HX 編譯 Xiaomi Pad 5 Pro(elish) ArrowOS 13.1 (Dirty Build)
 <iframe width="560" height="315"
-src="https://www.youtube.com/embed/Jy407a5yorI" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+src="https://www.youtube.com/embed/Jy407a5yorI"   
+frameborder="0"   
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"   
 allowfullscreen></iframe>
 
 
@@ -91,7 +91,7 @@ allowfullscreen></iframe>
 ![P_20230809_230942](/assets/img/posts/B1yYVCSMA.jpg)
 
 
-ROG Strix SCAR 18 的螢幕採用了 Nebula 霓真技術，這是一種專利技術，可以讓螢幕的亮度達到 500 或以上的尼特峰值亮度，並且擁有 100% DCI-P3 色域，以及 240Hz 的更新率，3ms 的反應時間，這樣的螢幕規格，不僅可以讓遊戲玩家在遊戲畫面上擁有更好的視覺體驗，也可以讓創作者在創作時，擁有更好的色彩表現，以及更接近真實的色彩呈現。
+ROG Strix SCAR 18 的螢幕採用了 Nebula 霓真技術，這是一種專利技術，可以讓螢幕的亮度達到 500 或以上的尼特峰值亮度，並且擁有 100% DCI-P3 色域，以及 240Hz 的更新率，3ms 的反應時間，這樣的螢幕規格，不僅可以讓遊戲玩家在遊戲畫面上擁有更好的視覺體驗，也可以讓創作者在創作時，擁有更好的色彩表現，以及更接近真實的色彩呈現。  
 螢幕長寬比更來到了 16:10 的比例，這樣的比例可以讓創作者在創作時，擁有更多的畫面空間，更加專注於創作，而不是被螢幕的長寬比所限制。
 ###### ROG Strix SCAR 18 的螢幕
 ![P_20230809_230936](/assets/img/posts/rJNoN0HGC.jpg)
@@ -101,10 +101,10 @@ ROG Strix SCAR 18 的螢幕採用了 Nebula 霓真技術，這是一種專利技
 
 總結
 ---
-透過我這次的體驗下來，我深刻體驗到 ROG Strix SCAR 18 確實是為頂尖遊戲玩家而生的終極電競筆電，且具備極限效能。
-最高搭載第 13 代 Intel® Core™ i9-13980HX 處理器處理器、NVIDIA® GeForce RTX™ 4090 顯示卡，為遊戲玩家追求極速幻競的境界，今年的 ROG Strix SCAR 18 更具備著 Nebula 霓真技術螢幕並搭載 QHD 240Hz/3ms 面板，絕對可以滿足遊戲，串流，創作等高階應用場景的需求！
-很開心能夠體驗到效能這麼強大的電競筆電，並且藉此支持我的 Side Projects 也讓我可以在這台電競筆電上進行 Android Custom ROM 的編譯開發工作，讓我可以藉由 ROG Strix SCAR 18 完成更多的 Side Projects。
-不僅如此，ROG Strix SCAR 18 更帶給我深刻的印象，從外型一路到內部硬體，都是為了極致效能而生的電競筆電，也讓我更加期待 ROG Strix SCAR 18 的後續版本，以及 ROG 所推出的其他電競筆電。
+透過我這次的體驗下來，我深刻體驗到 ROG Strix SCAR 18 確實是為頂尖遊戲玩家而生的終極電競筆電，且具備極限效能。  
+最高搭載第 13 代 Intel® Core™ i9-13980HX 處理器處理器、NVIDIA® GeForce RTX™ 4090 顯示卡，為遊戲玩家追求極速幻競的境界，今年的 ROG Strix SCAR 18 更具備著 Nebula 霓真技術螢幕並搭載 QHD 240Hz/3ms 面板，絕對可以滿足遊戲，串流，創作等高階應用場景的需求！  
+很開心能夠體驗到效能這麼強大的電競筆電，並且藉此支持我的 Side Projects 也讓我可以在這台電競筆電上進行 Android Custom ROM 的編譯開發工作，讓我可以藉由 ROG Strix SCAR 18 完成更多的 Side Projects。  
+不僅如此，ROG Strix SCAR 18 更帶給我深刻的印象，從外型一路到內部硬體，都是為了極致效能而生的電競筆電，也讓我更加期待 ROG Strix SCAR 18 的後續版本，以及 ROG 所推出的其他電競筆電。  
 感謝大家的閱讀，我是 EdwardWu，我們下次見～
 
 

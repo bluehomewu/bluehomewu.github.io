@@ -131,7 +131,7 @@ chmod a+x magiskboot_x86
 
 ##### Android.mk
 
-這是 Android make 編譯系統中的編譯配置文件, Android 編譯系統會 include 原始碼目錄下的所有 Android.mk 文件, 包括設備資料夾中的 Android.mk
+這是 Android make 編譯系統中的編譯配置文件, Android 編譯系統會 include 原始碼目錄下的所有 Android.mk 文件, 包括設備資料夾中的 Android.mk  
 我們需要在這個文件 include 當前資料夾下的所有 makefile 文件, 否則 Android 編譯系統不會去 include 設備資料夾中的其它 makefile 文件。
 
 ```makefile
@@ -144,7 +144,7 @@ endif # 結束 if 語句
 
 ##### Android.bp
 
-這是 Android 引入 soong 編譯系統後的編譯配置文件, Android 編譯系統會 include 原始碼目錄下的所有 Android.bp 文件, 包括設備資料夾中的 Android.bp
+這是 Android 引入 soong 編譯系統後的編譯配置文件, Android 編譯系統會 include 原始碼目錄下的所有 Android.bp 文件, 包括設備資料夾中的 Android.bp  
 目前我們不需要編譯外部的 soong 模組, 因此直接創建一個空的 Android.bp 文件即可
 
 ```
@@ -382,7 +382,7 @@ PRODUCT_TARGET_VNDK_VERSION := 30 # 指定 VNDK 版本為 30, 該值可以在 ve
 
 ##### 導入 recovery 所需基本文件
 
-這是 fstab 文件, 用於指定分區的掛載點, 以及掛載點的屬性, 例如是否可讀寫等。
+這是 fstab 文件, 用於指定分區的掛載點, 以及掛載點的屬性, 例如是否可讀寫等。  
 必須要有這個文件, 否則 Linux Kernel 會無法掛載所需的分區, 導致 Android 或 Recovery 無法啟動
 
 這個文件可以在 vendor 分區中被找到, 具體可以使用此命令尋找
@@ -394,7 +394,7 @@ find | grep fstab.qcom
 
 找到後 copy 到設備資料夾中的 rootdir/etc/ 目錄下
 
-然後我們可以在 device.mk 中使用 PRODUCT_COPY_FILES 複製到 ramdisk 或者 vendor ramdisk 中, [例](https://github.com/Lynnrin-Studio/android_device_xiaomi_thyme-oss/blob/arrow-13.0/rootdir/Android.mk#L12)
+然後我們可以在 device.mk 中使用 PRODUCT_COPY_FILES 複製到 ramdisk 或者 vendor ramdisk 中, [例](https://github.com/Lynnrin-Studio/android_device_xiaomi_thyme-oss/blob/arrow-13.0/rootdir/Android.mk#L12)  
 也可以在 rootdir 目錄中新建 Android.mk 去定義自訂模組然後在 device.mk 中指定編譯, [例](https://github.com/Lynnrin-Studio/android_device_xiaomi_thyme/commit/cce87ffbd1416eaa8cda26a71aeaebc19890c505#diff-247ee86229a709a6e2eedfc1d3c4a557825aee073e20b0112ab76f4ca8e4bc4eR71-R72)
 
 ##### 開始編譯 recovery
@@ -418,20 +418,20 @@ fastboot reboot recovery # 重啟到 recovery
 
 #### 完善 device tree 準備開始編譯 Android
 
-由於這部分內容較多，具體請參考本人 GitHub 倉庫中的[提交歷史](https://github.com/Lynnrin-Studio/android_device_xiaomi_thyme/commits/twelve)
+由於這部分內容較多，具體請參考本人 GitHub 倉庫中的[提交歷史](https://github.com/Lynnrin-Studio/android_device_xiaomi_thyme/commits/twelve)  
 此文章僅挑出其中一些重要的部分進行說明
 
 ##### `proprietary-files.txt`, `extract-files.sh` 和 `setup-makefiles.sh`
 
-這三個文件複製 vendor tree 中的文件建立，改動和提取
-如果要建立或修改 vendor tree 中的文件，請務必使用 extract-files.sh 腳本提取建立或修改。
+這三個文件複製 vendor tree 中的文件建立，改動和提取  
+如果要建立或修改 vendor tree 中的文件，請務必使用 extract-files.sh 腳本提取建立或修改。  
 詳情請參考 LineageOS 官方文件: 
 1. [https://wiki.lineageos.org/extracting_blobs_from_zips](https://wiki.lineageos.org/extracting_blobs_from_zips)
 2. [https://wiki.lineageos.org/proprietary_blobs](https://wiki.lineageos.org/proprietary_blobs)
 
 ###### `proprietary-files.txt`
 
-該文件屬於一個清單，用於列出需要從原廠系統中提取的文件，以及它們的目標位置。
+該文件屬於一個清單，用於列出需要從原廠系統中提取的文件，以及它們的目標位置。  
 `extract-files.sh` 會遍歷這裡面的文件，然後從原廠系統中提取出來，放到 vendor tree 中。
 
 ###### `extract-files.sh`
@@ -444,7 +444,7 @@ fastboot reboot recovery # 重啟到 recovery
 
 ##### `FCM` 或 `manifest.xml` 或 `compatibility_matrix.device.xml`
 
-這是 HAL 的清單文件，用於指定設備支援的 HAL，以及它們的版本。Android 會根據清單中的 HAL 來載入對應的 HAL。
+這是 HAL 的清單文件，用於指定設備支援的 HAL，以及它們的版本。Android 會根據清單中的 HAL 來載入對應的 HAL。  
 詳情請參考 AOSP 官方文件:
 [https://source.android.com/docs/core/architecture/vintf?hl=zh-cn](https://source.android.com/docs/core/architecture/vintf?hl=zh-cn)
 
@@ -498,8 +498,8 @@ Overlay 是個很重要的東西，可以動態的調節一些系統特性，比
 
 ##### SELinux
 
-SELinux 是一個安全機制，可以防止一些惡意的 app 讀取系統檔案，但是這個機制也會導致一些問題，比如錯誤的 Sepolicy rules 可能會導致部分硬體或軟體工作不正常。甚至無法啟動操作系統。
-在適配初期我建議將 SELinux [設為寬容](https://github.com/Lynnrin-Studio/android_device_xiaomi_thyme-oss/commit/b3ea8a9355828776c63bd114bacd62d61206b7a3#diff-151aef4e286613b79b65e512509f8c5b43c20939baff4c9e65e38ab639e0e7a5L64)
+SELinux 是一個安全機制，可以防止一些惡意的 app 讀取系統檔案，但是這個機制也會導致一些問題，比如錯誤的 Sepolicy rules 可能會導致部分硬體或軟體工作不正常。甚至無法啟動操作系統。  
+在適配初期我建議將 SELinux [設為寬容](https://github.com/Lynnrin-Studio/android_device_xiaomi_thyme-oss/commit/b3ea8a9355828776c63bd114bacd62d61206b7a3#diff-151aef4e286613b79b65e512509f8c5b43c20939baff4c9e65e38ab639e0e7a5L64)  
 等到硬體和軟體的適配工作基本完成後再將 SELinux 設定為 Enforcing。
 
 關於 Sepolicy rules 的編寫可以參考這些連結:
@@ -619,7 +619,7 @@ Google 在 Android 13 中模組化了多個組件，其中就包括藍牙，但�
 
 #### 設備卡在開機動畫 (卡二屏)
 
-設備卡二屏代表系統已經啟動，kernel 部分已經正常工作，但是系統服務沒有正常啟動
+設備卡二屏代表系統已經啟動，kernel 部分已經正常工作，但是系統服務沒有正常啟動  
 我們可以通過 logcat 日誌來分析問題，具體參考上一節的獲取 logcat 日誌
 
 #### logcat 日誌中出現 linker 錯誤

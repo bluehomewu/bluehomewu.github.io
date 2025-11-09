@@ -15,7 +15,7 @@ tags: [Android, Pixel]
 
 ![image](/assets/img/posts/H1YYyhGnxl.png)
 
-在我 6 月底飛去上海玩的時候，就讓光卡寄到我的酒店，讓我帶回台灣。
+在我 6 月底飛去上海玩的時候，就讓光卡寄到我的酒店，讓我帶回台灣。  
 感謝光卡寄了兩隻給我，而我在 8 月中去香港玩的時候，就又寄了一隻去給 [@MlgmXyysd](https://GitHub.com/MlgmXyysd)
 
 ![image](/assets/img/posts/HJzVCiG2gl.png)

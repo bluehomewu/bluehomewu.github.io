@@ -55,7 +55,7 @@ CMF By Nothing Phone 1
 | Front Camera            | 16 MP, f/2.0, (wide), 1080p@30fps                                |
 | Sensors                 | Fingerprint (under display, optical), accelerometer, proximity, compass  |
 
-這次 CMF By Nothing Phone 1 主打的亮點並非硬體規格，反倒是打起外觀造型的主意。
+這次 CMF By Nothing Phone 1 主打的亮點並非硬體規格，反倒是打起外觀造型的主意。  
 藉由可拆卸的背板以及 CMF 品牌標誌性的旋鈕式的鎖孔，可以讓使用者自行安裝相對應的配件或是更換背板進行外觀上的客製化。甚至 CMF By Nothing 也有在官方論壇上提供相對應的 3D 列印文件，供使用者自行修改。
 [Nothing 論壇貼文 - CMF Phone 1 - A Platform for Builders](https://nothing.community/d/12318-cmf-phone-1-a-platform-for-builders)
 
@@ -75,7 +75,7 @@ CMF By Nothing Phone 1
 </table>
 ▲ Take By Nothing Phone (2)
 
-我這次取得的 CMF By Nothing Phone 1 為 8+256 的淺綠色 (Light Green)。
+我這次取得的 CMF By Nothing Phone 1 為 8+256 的淺綠色 (Light Green)。  
 官方總共推出 3 款顏色，分別為黑、綠、橘；背蓋則額外提供了深藍色的選擇。
 
 ![Cover](/assets/img/posts/r1EZzPAO0.jpg)
@@ -91,7 +91,7 @@ CMF By Nothing Phone 1
     <td><img src="/assets/img/posts/HypmWyGYC.png" alt="Screenshot_20240721-004701"></td>
   </tr>
 </table>
-這次 CMF By Nothing Phone 1 的推出，產品定位偏向中階入門，也因此在 SOC 的配置上，採用的是聯發科天璣 7300。在性能上，當然無法與旗艦 SOC 進行對比，但就以天璣 7300 對比 Nothing Phone (2a) 所搭載的天璣 7200 Pro，可說是旗鼓相當。使用上甚至還有機會超越 Nothing Phone (2a) 的表現。
+這次 CMF By Nothing Phone 1 的推出，產品定位偏向中階入門，也因此在 SOC 的配置上，採用的是聯發科天璣 7300。在性能上，當然無法與旗艦 SOC 進行對比，但就以天璣 7300 對比 Nothing Phone (2a) 所搭載的天璣 7200 Pro，可說是旗鼓相當。使用上甚至還有機會超越 Nothing Phone (2a) 的表現。  
 這也由於天璣 7200 Pro 的核心配置 2.8GHz 只給了 2 個核心，然而天璣 7300 的大核心頻率雖然沒有 2.8 Ghz 這麼高，但也提供了 4 個 2.5 Ghz 的大核心來補足。
 
 有些可惜的是，這次所推出的 CMF By Nothing Phone 1，並沒有提供 NFC 功能，也因此無法使用 Google Wallet 等 NFC 的服務，我想要是補上 NFC 功能之後，或許就是一台神機了。
@@ -265,12 +265,12 @@ CMF Buds Pro 2，也保留了 Google FastPair 的功能，以及支援相當優�
     <td><img src="/assets/img/posts/BJ7bxMfY0.jpg" alt="Screenshot_20240721-015639"></td>
   </tr>
 </table>
-目前我自己都經常輪著這幾款 Nothing Ear 以及本次的 CMF Buds Pro 2 來做使用。
+目前我自己都經常輪著這幾款 Nothing Ear 以及本次的 CMF Buds Pro 2 來做使用。  
 不過，我自己用了 3 款的 Nothing Ear，耳柄的操作手勢跟 CMF Buds Pro 2 有些許不同，經常會不小心記錯，如果手勢這部分可以統一的話會最好。
 
 總結
 ---
-這次使用 CMF By Nothing Phone 1 以及 CMF Buds Pro 2，我發現 Nothing Tech 其實在很多角度都有根據使用者的需求出發，每次的產品迭代，都有吸取上一代產品的教訓，並且花心力去改進。
+這次使用 CMF By Nothing Phone 1 以及 CMF Buds Pro 2，我發現 Nothing Tech 其實在很多角度都有根據使用者的需求出發，每次的產品迭代，都有吸取上一代產品的教訓，並且花心力去改進。  
 雖然價格還是在許多中國品牌手機的機海戰術之下，顯得有些疲弱，但我相信一點一點的累積肯定會在未來帶給使用者更好的體驗。
 
 CMF By Nothing Phone 1 整體體驗下來，不僅讓我看到聯發科 SOC 仍舊努力深耕中階手機的市場，更多的是 Nothing Tech 願意提供一個好的設計產品填補這區間段的價格帶。讓中階機市場能有更不一樣的產品出現，不再是一成不變的標準設計。

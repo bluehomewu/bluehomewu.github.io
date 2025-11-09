@@ -87,7 +87,7 @@ $ make ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- bcm2712_defconfig
 
 :::success
 ##### Note:
-標準的 bcm2711_defconfig 基於的核心 (kernel8.img) 也可以在 Raspberry Pi 5 上使用。不過為了獲得最佳效能，您應該使用 kernel_2712.img，但對於需要 4KB 頁面大小的情況，則應使用  kernel8.img (kernel=kernel8.img)
+標準的 bcm2711_defconfig 基於的核心 (kernel8.img) 也可以在 Raspberry Pi 5 上使用。不過為了獲得最佳效能，您應該使用 kernel_2712.img，但對於需要 4KB 頁面大小的情況，則應使用  kernel8.img (kernel=kernel8.img)  
 :::
 
 #### Customising the Kernel Version Using `LOCALVERSION`
@@ -209,8 +209,8 @@ sde      8:64   1  59.5G  0 disk
 ```
 
 #### 掛載分割區
-:::warning
-您應該根據您的設定適當調整磁碟代號，例如，如果您的 SD 卡顯示為 而 /dev/sdc 不是 /dev/sdb。
+:::warning  
+您應該根據您的設定適當調整磁碟代號，例如，如果您的 SD 卡顯示為 而 /dev/sdc 不是 /dev/sdb。  
 :::
 ```shell=
 $ sudo mount /dev/sde1 ../mnt/fat32

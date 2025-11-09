@@ -12,17 +12,17 @@ tags: [PVE, UNIKO's]
 網路卡消失術
 ---
 - 前情提要：
-    改完 BIOS RTC 喚醒之後，重開機，就再也連不上 PVE 後台了。
+    改完 BIOS RTC 喚醒之後，重開機，就再也連不上 PVE 後台了。  
     起初還以為是我 BIOS 設定有誤，導致開不起來，這個平台剛好沒裝 speaker，沒辦法聽 debug 聲。（手邊沒有多的了）
     
-    裝上顯卡（[ASUS ENGTS450](https://www.asus.com/tw/supportonly/engts450_series/helpdesk_download/)），發現可以正常進入 PVE 系統
-    嘗試 login root 之後，注意到所有網路卡都是處於 DOWN 狀態
+    裝上顯卡（[ASUS ENGTS450](https://www.asus.com/tw/supportonly/engts450_series/helpdesk_download/)），發現可以正常進入 PVE 系統  
+    嘗試 login root 之後，注意到所有網路卡都是處於 DOWN 狀態  
     透過 `ifup vmbr0` 橋接網路卡之後注意到 error message，`error vmbr0 bridge port enp7s0 doesn't exist`
     
 - 解決辦法：
-    `nano /etc/network/interfaces`
-    修改 /etc/network/interfaces 檔案
-    把原本的 enp7s0 都改為 enp9s0
+    `nano /etc/network/interfaces`  
+    修改 /etc/network/interfaces 檔案  
+    把原本的 enp7s0 都改為 enp9s0  
     修改完如下圖所示
     
     修改後：
