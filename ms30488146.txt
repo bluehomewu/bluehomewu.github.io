@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Microsoft 365 網域擁有權的驗證檔案放置於網站根目錄",
+  "Domain": "bluehomewu.github.io",
+  "Id": "7fa41a67-2a39-4e5c-a647-d6aa2fdbd4bf"
+}
