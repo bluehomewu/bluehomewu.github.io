@@ -3,7 +3,6 @@ title: Nothing Phone 4a 系列評測：金屬機身、潛望長焦，重新定�
 date: 2026-03-15
 categories: [Nothing Tech 產品評測]
 tags: [Nothing Tech, Qualcomm, Android, CMF, Nothing Phone 4a, Nothing]
-published: false
 ---
 
 # Nothing Phone (4a) 系列評測：金屬機身、潛望長焦，重新定義中階旗艦？
