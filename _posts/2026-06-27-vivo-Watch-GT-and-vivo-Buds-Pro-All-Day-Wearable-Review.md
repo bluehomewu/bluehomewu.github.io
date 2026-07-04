@@ -3,7 +3,6 @@ title: 手腕上的精緻，雙耳中的純淨：vivo Watch GT 2 & vivo Buds Pro
 date: 2026-06-27
 categories: [開箱評測]
 tags: [vivo, iQOO, Android, vivo Watch GT 2, vivo Buds Pro, iQOO Z11, 智慧手錶, 真無線耳機]
-hidden: true
 ---
 
 # 手腕上的精緻，雙耳中的純淨：vivo Watch GT 2 & vivo Buds Pro 全天候穿戴體驗
