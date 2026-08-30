@@ -1,5 +1,6 @@
 ---
 title: Nothing Ear (3a) 評測：聲音、降噪、續航與前代差異
+date: 2026-08-30
 categories: [Nothing Tech 產品評測]
 tags: [Nothing, Nothing Tech]
 ---
@@ -16,14 +17,6 @@ tags: [Nothing, Nothing Tech]
 Nothing Ear (3a) 的命名已經把定位說得很直接：它接替的是 Ear (a)，並不是把 Ear (3) 換個外殼重新推出。這次驅動單元從 11 mm 加大到 12 mm，也補上靜態空間音訊、Audio Snapshot 與通話錄音；另一邊仍保留塑膠充電盒、維持沒有無線充電，和旗艦 Ear (3) 拉出明確差異。
 
 我這次拿到的是白色版本。這篇以 Ear (a) 與 Ear (3) 為對照，從外觀、配戴、聲音、降噪、通話、續航與 Nothing X 逐項比較。
-
-{% comment %}
-發布前待補：
-- 產品來源：自費購入，或 Nothing Tech Taiwan 提供測試。
-- 實際測試天數、主要手機與播放平台。
-- 完成聲音、配戴、ANC、通透、通話、連線、延遲及續航實測。
-- 最終購買建議與評分。
-{% endcomment %}
 
 > 還沒看過我過去的 Nothing／CMF 文章，可以按照發布時間從這裡開始（越上面越舊）：
 >
@@ -76,11 +69,6 @@ Nothing Taiwan 已在產品指南列出 Ear (3a)，但尚未公布台灣建議�
 
 > 資料來源：[Nothing Ear (3a) 官方產品頁](https://nothing.tech/products/ear-3a)、[Ear (3a) 官方發表資訊](https://nothing.community/d/59486/1)、[Nothing Ear (a) 官方發表資訊](https://nothing.community/d/9003-a-new-nothing-audio-line-up)、[Nothing Ear (3) 官方發表資訊](https://nothing.community/d/42317-ear-3-cut-through-the-noise)、[Ear (3) 官方防護說明](https://support.nothing.tech/hc/en-us/articles/38937876205969-Is-Ear-3-resistant-to-water-dust)、[Nothing Taiwan 產品指南](https://tw.nothing.tech/pages/support-product-help)、[台灣通路售價](https://24h.pchome.com.tw/prod/DYAQF4-A900KBQ5B)
 
-{% comment %}
-給作者的資料註記：
-Nothing 的 Ear (3) 發表文寫耳機與充電盒皆為 IP54，但目前官方支援頁寫充電盒不防水。正文規格表採用較新的支援頁說法。
-{% endcomment %}
-
 開箱與外觀
 ---
 
@@ -90,10 +78,6 @@ Nothing 的 Ear (3) 發表文寫耳機與充電盒皆為 IP54，但目前官方�
 
 盒裝內容包括左右耳機、充電盒、XS／S／M／L 四組液態矽膠耳塞，以及安全、保固與使用指南，沒有另外附 USB-C 充電線。這比 Ear (a) 與 Ear (3) 的三組耳塞多一種尺寸，對耳道較小的人會比較友善。
 
-{% comment %}
-待補照片：耳機與充電盒各角度、四組耳塞、USB-C 孔、實際盒裝內容。
-{% endcomment %}
-
 配戴與操作
 ---
 
@@ -102,10 +86,6 @@ Nothing 的 Ear (3) 發表文寫耳機與充電盒皆為 IP54，但目前官方�
 Ear (3a) 每耳 4.53 g，比 Ear (a) 的 4.8 g 和 Ear (3) 的 5.2 g 都輕。Nothing 這次除了多附 XS 耳塞，也重新調整耳機結構來改善被動隔音。對我來說，耳塞密合度、耳道壓迫感與長時間配戴的悶熱感，會比帳面上零點幾公克的差距更有參考價值。
 
 操作方式延續 Nothing 近年的捏合設計：捏一下播放／暫停、捏兩下切歌、長捏切換降噪，支援自訂的單耳手勢可以在 Nothing X 重新指定成音量或語音助理等功能。Audio Snapshot 與通話錄音則固定用左右耳同時捏一下啟動。比起一般觸控，捏合比較不容易被頭髮或調整耳機的動作誤觸。
-
-{% comment %}
-待補實測：使用的耳塞尺寸、單次最長佩戴時間、走路與運動穩定度、耳壓與操作手感。
-{% endcomment %}
 
 聲音硬體與調音
 ---
@@ -118,20 +98,12 @@ Nothing X 提供 Balanced、More Bass、More Treble 與 Voice 四種簡易預設
 
 我過去測 Ear (a) 時，LDAC 對跨品牌 Android 手機很實用；Ear (3) 則是低頻下潛更深、收得快，高頻相對溫和。
 
-{% comment %}
-待補實測：固定同一支手機、音源、codec、EQ 與音量，記錄累積時數，以及低頻、人聲、高頻、音場和三款耳機的直接比較。
-{% endcomment %}
-
 降噪與通透
 ---
 
 Ear (3a) 的 Wideband Adaptive ANC 標示最高 45 dB、涵蓋 40～5000 Hz，可以選擇高、中、低或自適應模式。數字和 Ear (a)、Ear (3) 同樣是 45 dB，但 Ear (3a) 特別強調人聲頻段最多可再降低 6 dB。
 
 Ear (3a) 也保留通透模式，可以用耳機手勢或 Nothing X 切換。最大降噪數字只能用來確認規格，實際差異還是會落在人聲、突發聲音、風切與耳壓感的處理方式。
-
-{% comment %}
-待補實測：在捷運／公車、辦公室、咖啡廳與戶外比較低頻、人聲、突發聲音、風切、耳壓，以及通透模式自然度。
-{% endcomment %}
 
 通話與抗風噪
 ---
@@ -140,20 +112,12 @@ Ear (3a) 每側有三顆 MEMS 麥克風，搭配 Clear Voice Technology 處理�
 
 它和 Ear (3) 最大的硬體差異，是充電盒沒有 Super Mic，官方規格也沒有列出 Ear (3) 使用的骨傳導 VPU。Ear (3a) 改以每側三顆 MEMS 麥克風搭配 Clear Voice 與 ENC 處理通話，走的是不同硬體路線。
 
-{% comment %}
-待補實測：在安靜室內、一般街道與強風／車流環境通話，以另一端的人聲、背景聲和風切回饋為主。
-{% endcomment %}
-
 連線與延遲
 ---
 
 Ear (3a) 升級到 Bluetooth 6.0，官方連線距離為 15 公尺，可以記住最多八台裝置。它支援雙重連線，可同時連接兩台裝置；另外也支援 Android 的 Google Fast Pair 與 Windows 的 Microsoft Swift Pair。對我這種常在多支手機和電腦之間切換的人來說，這比藍牙版本數字本身更有意義。
 
 低延遲模式可以從 Nothing X 開啟；搭配支援的 Nothing Phone Game Mode 時，官方標示延遲可低於 120 ms。我這組第一次連線時，低延遲和雙重連線都是關閉狀態，要依自己的需求手動打開。
-
-{% comment %}
-待補實測：首次配對、跨品牌 Android 相容性、雙重連線切換、回連、影音與遊戲延遲，以及斷線紀錄。
-{% endcomment %}
 
 續航與充電
 ---
@@ -170,10 +134,6 @@ Ear (3a) 升級到 Bluetooth 6.0，官方連線距離為 15 公尺，可以記�
 有線完整充電約 70 分鐘。在 AAC、50% 音量與關閉 ANC 的測試條件下，耳機放進盒內充 5 分鐘，可以再播放約 1 小時；耳機與充電盒一起充 10 分鐘，則可提供最多 10 小時播放。Ear (3a) 不支援無線充電，這點和 Ear (a) 相同，也是它和 Ear (3) 很明確的取捨。
 
 42 小時是 AAC、50% 音量與關閉 ANC 的實驗室數字；改用 LDAC 並開啟 ANC 後，官方標示的含盒續航只剩 20 小時。選購時不能只看表格裡最高的那個數字。
-
-{% comment %}
-待補實測：主要 codec、ANC、音量、單次播放、充電盒補電週期與快充結果。
-{% endcomment %}
 
 Nothing X 與韌體
 ---
@@ -211,10 +171,6 @@ Nothing X 與韌體
 </table>
 
 Nothing X 內可以調整 ANC、EQ、捏合手勢、入耳偵測、雙重連線和低延遲，也有尋找耳機、ChatGPT 與 Essential News 等功能。ChatGPT 語音整合需要搭配相容的 Nothing Phone、最新版 Nothing OS／Nothing X，以及已安裝並登入的 ChatGPT App。進階 8 段 EQ 可以建立自己的曲線，再用 QR Code 分享；如果不想慢慢調，四種簡易 EQ 也足夠快速切換。
-
-{% comment %}
-待補實測：日常使用的 EQ、空間音訊與控制設定，以及評測結束時的最新韌體版本。
-{% endcomment %}
 
 Audio Snapshot 與通話錄音
 ---
@@ -267,12 +223,6 @@ Ear (3a) 最特別的新功能不是降噪，而是直接在耳機內建合計 3
 從產品定位來看，Nothing Ear (3a) 是 Ear (a) 相當完整的一次更新。它保留 US$99 的發表價，補上 12 mm 單元、靜態空間音訊、錄音、Bluetooth 6.0、四尺寸耳塞，以及耳機和充電盒都有的 IP54。
 
 它的取捨也很清楚：沒有無線充電、沒有 Ear (3) 的鋁合金盒身與 Super Mic，而且 Audio Snapshot 和 LDAC 不能同時使用。對第一次買 Nothing 耳機、想控制預算又需要完整 App 和多裝置功能的人，Ear (3a) 的定位相當合理；Ear (a) 使用者則要先確認自己是否需要錄音與空間音訊，Ear (3) 使用者單看現有功能沒有更換的必要。
-
-{% comment %}
-待補定稿：依完整實測改寫總結，加入適合／不適合族群、優缺點和最終評分。
-
-若補拍 Nothing 耳機全家福，再於總結後新增「產品家族大合照」段落。
-{% endcomment %}
 
 About Me
 ---
