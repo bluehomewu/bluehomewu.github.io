@@ -66,7 +66,7 @@ Evo 4 Pro 的外盒延續飛牛一貫的黑色基調，正面只有金色的飛�
 
 ▲ 外盒正面、背面規格標籤（上排）／兩側的標語與 fnOS 功能圖示（下排）
 
-打開外盒，最上層是 Evo 4 系列的使用指南，主機則被兩側的緩衝材固定在中間，配件另外收納在一旁的配件盒中。配件裡比較特別的是 Wi-Fi 天線，這也代表 Evo 4 Pro 內建了無線網路。
+打開外盒，最上層是 Evo 4 系列的使用指南，主機則被兩側的緩衝材固定在中間，配件另外收納在一旁的配件盒中。
 
 <table>
   <tr>
@@ -75,30 +75,21 @@ Evo 4 Pro 的外盒延續飛牛一貫的黑色基調，正面只有金色的飛�
   </tr>
 </table>
 
-▲ 開箱後的使用指南與配件盒（左）／隨附的 Wi-Fi 天線（右）
+▲ 開箱後的使用指南與配件盒（左）／隨附印有飛牛 logo 的螺絲起子（右）
 
-### 正面：飾板之下的硬碟槽與 I/O
-機身採用金屬外殼，正面覆蓋著一片印有點陣 EVO logo 的遮罩飾板，平常看起來就是一個簡潔的金屬方塊，放在辦公桌上也不會顯得突兀。
+### 正面：只留下最常用的按鍵
+機身採用金屬外殼，正面設計得相當簡潔，除了飛牛 logo 之外，只有 Reset 孔、一個 USB-A 與電源按鈕，也就是封面照片中間那台的樣子。和 Evo 2 一樣，Evo 4 Pro 的 Wi-Fi 也採用隱藏式天線，機身外看不到任何天線；面對正面時的右側側板，則印有點陣式的 EVO 字樣，整體就是一個俐落的金屬方塊。
 
 ![IMG_20260915_154824101](https://hackmd.io/_uploads/BJ4BP6wsGe.jpg)
 
-▲ 進駐辦公座位後的 Evo 4 Pro
+▲ 進駐辦公座位後的 Evo 4 Pro，右側側板印有點陣 EVO 字樣
 
-拿掉飾板之後，正面才露出真正的樣子：左側是四個編號 01～04 的硬碟槽，硬碟托盤直接從正面抽換，每個托盤都有拉帶方便抽出；右側則是一整排 I/O，由上而下依序為 3.5mm 音源孔、USB-C、兩個 USB-A、HDMI、10GbE 與 2.5GbE 網路孔，以及 DC 電源輸入。網路孔與電源都設計在正面，對於擺在桌上、需要經常插拔線材的使用情境來說相當方便。
+### 背面：防塵飾板之下的硬碟槽與 I/O
+硬碟槽與主要的 I/O 都集中在背面，平常由一片防塵飾板覆蓋。拿掉飾板之後，背面才露出真正的樣子：左側是四個編號 01～04 的硬碟槽，硬碟托盤直接從背面抽換，每個托盤都有拉帶方便抽出；右側則是一整排 I/O，由上而下依序為 3.5mm 音源孔、USB-C、兩個 USB-A、HDMI、10GbE 與 2.5GbE 網路孔，以及 DC 電源輸入。把硬碟槽與線材都收在背面，正面只保留日常會用到的按鍵與 USB，讓它擺在辦公桌上時看起來更加整潔。
 
 ![IMG_20260914_214335329](https://hackmd.io/_uploads/rJzrPaPjfg.jpg)
 
-▲ 拿掉遮罩飾板後的正面：四個硬碟槽與 I/O
-
-### 背面
-
-![背面 I/O](待補)
-
-▲ Evo 4 Pro 的背面
-
-{% comment %}
-待補：背面照片的 HackMD 網址與說明文字。
-{% endcomment %}
+▲ 拿掉防塵飾板後的背面：四個硬碟槽與 I/O
 
 內部結構
 ---
@@ -366,12 +357,12 @@ Evo 4 Pro 最明顯的優勢，是硬體規格帶來的餘裕。i5-13500H 與 16
 
 About Me
 ---
-我是 EdwardWu
-- Telegram：[EdwardWu](https://t.me/edwardwu0223)
-- Instagram : [_920223](https://www.instagram.com/_920223/)
-- GitHub : [bluehomewu](https://github.com/bluehomewu)
-- Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
-![image](/assets/img/posts/Bk1EYGfYA.png)
+我是 EdwardWu
+
+- Telegram：[EdwardWu](https://t.me/edwardwu0223)
+- Instagram：[_920223](https://www.instagram.com/_920223/)
+- GitHub：[bluehomewu](https://github.com/bluehomewu)
+- Email：[bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
 ###### tags: `FnNAS` `FnOS` `飛牛` `Fn Evo 4 Pro` `Fn Evo 2` `NAS`
