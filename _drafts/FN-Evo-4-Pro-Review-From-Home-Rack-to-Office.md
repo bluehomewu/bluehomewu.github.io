@@ -6,7 +6,7 @@ tags: [FnNAS, FnOS, NAS]
 
 # 從家庭機架到辦公環境：飛牛 Evo 4 Pro 開箱與使用評測
 
-![飛牛 Evo 4 Pro 主機外觀](https://hackmd.io/_uploads/Bkj3lmKKGl.jpg)
+![飛牛 Evo 4 Pro 主機外觀](/assets/img/posts/Bkj3lmKKGl.jpg)
 
 ▲ 這次的主角是飛牛 Evo 4 Pro。
 
@@ -55,12 +55,12 @@ Evo 4 Pro 的外盒延續飛牛一貫的黑色基調，正面只有金色的飛�
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/B1zSw6Psfx.jpg" alt="IMG_20260914_213238826"></td>
-    <td><img src="https://hackmd.io/_uploads/HkMSDaviMl.jpg" alt="IMG_20260914_213245690"></td>
+    <td><img src="/assets/img/posts/B1zSw6Psfx.jpg" alt="IMG_20260914_213238826"></td>
+    <td><img src="/assets/img/posts/HkMSDaviMl.jpg" alt="IMG_20260914_213245690"></td>
   </tr>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/SJMBPavifg.jpg" alt="IMG_20260914_213249818"></td>
-    <td><img src="https://hackmd.io/_uploads/HJMBvpwszl.jpg" alt="IMG_20260914_213254991"></td>
+    <td><img src="/assets/img/posts/SJMBPavifg.jpg" alt="IMG_20260914_213249818"></td>
+    <td><img src="/assets/img/posts/HJMBvpwszl.jpg" alt="IMG_20260914_213254991"></td>
   </tr>
 </table>
 
@@ -70,8 +70,8 @@ Evo 4 Pro 的外盒延續飛牛一貫的黑色基調，正面只有金色的飛�
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/BJMBDaPszx.jpg" alt="IMG_20260914_213454629"></td>
-    <td><img src="https://hackmd.io/_uploads/SkfrDTPizx.jpg" alt="IMG_20260914_214839306"></td>
+    <td><img src="/assets/img/posts/BJMBDaPszx.jpg" alt="IMG_20260914_213454629"></td>
+    <td><img src="/assets/img/posts/SkfrDTPizx.jpg" alt="IMG_20260914_214839306"></td>
   </tr>
 </table>
 
@@ -80,14 +80,14 @@ Evo 4 Pro 的外盒延續飛牛一貫的黑色基調，正面只有金色的飛�
 ### 正面：只留下最常用的按鍵
 機身採用金屬外殼，正面設計得相當簡潔，除了飛牛 logo 之外，只有 Reset 孔、一個 USB-A 與電源按鈕，也就是封面照片中間那台的樣子。和 Evo 2 一樣，Evo 4 Pro 的 Wi-Fi 也採用隱藏式天線，機身外看不到任何天線；面對正面時的右側側板，則印有點陣式的 EVO 字樣，整體就是一個俐落的金屬方塊。
 
-![IMG_20260915_154824101](https://hackmd.io/_uploads/BJ4BP6wsGe.jpg)
+![IMG_20260915_154824101](/assets/img/posts/BJ4BP6wsGe.jpg)
 
 ▲ 進駐辦公座位後的 Evo 4 Pro，右側側板印有點陣 EVO 字樣
 
 ### 背面：防塵飾板之下的硬碟槽與 I/O
 硬碟槽與主要的 I/O 都集中在背面，平常由一片防塵飾板覆蓋。拿掉飾板之後，背面才露出真正的樣子：左側是四個編號 01～04 的硬碟槽，硬碟托盤直接從背面抽換，每個托盤都有拉帶方便抽出；右側則是一整排 I/O，由上而下依序為 3.5mm 音源孔、USB-C、兩個 USB-A、HDMI、10GbE 與 2.5GbE 網路孔，以及 DC 電源輸入。把硬碟槽與線材都收在背面，正面只保留日常會用到的按鍵與 USB，讓它擺在辦公桌上時看起來更加整潔。
 
-![IMG_20260914_214335329](https://hackmd.io/_uploads/rJzrPaPjfg.jpg)
+![IMG_20260914_214335329](/assets/img/posts/rJzrPaPjfg.jpg)
 
 ▲ 拿掉防塵飾板後的背面：四個硬碟槽與 I/O
 
@@ -97,8 +97,8 @@ Evo 4 Pro 的主機板被設計成一個可以整片抽出的模組，透過板�
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/HyQBwaviGe.jpg" alt="IMG_20260914_214451603"></td>
-    <td><img src="https://hackmd.io/_uploads/SkbrP6Pofl.jpg" alt="IMG_20260914_214514067"></td>
+    <td><img src="/assets/img/posts/HyQBwaviGe.jpg" alt="IMG_20260914_214451603"></td>
+    <td><img src="/assets/img/posts/SkbrP6Pofl.jpg" alt="IMG_20260914_214514067"></td>
   </tr>
 </table>
 
@@ -164,7 +164,7 @@ Linear 的特性正好符合這個需求。它會將多顆硬碟依序串接成�
 
 實際配置上，我將四顆硬碟依容量分成兩組：兩顆 4TB HDD 組成一個 Linear 儲存空間，兩顆 2TB HDD 組成另一個，兩者皆使用 Btrfs 檔案系統。在 fnOS 中，兩個儲存空間的可用容量分別是 7.28TB 與 3.64TB，合計約 10.91TB。
 
-![QQ20260917-000741](https://hackmd.io/_uploads/HJ9SwTwsMe.png)
+![QQ20260917-000741](/assets/img/posts/HJ9SwTwsMe.png)
 
 ▲ fnOS 存儲空間管理：兩個 Linear 儲存空間相同容量的硬碟放在同一組，也讓之後要汰換或升級某一組硬碟時，不會牽動另一個儲存空間。
 
@@ -190,7 +190,7 @@ fnOS 1.2 使用體驗
 ---
 這台 Evo 4 Pro 執行的是 fnOS 1.2.0604。在系統設定的裝置資訊頁面中，可以一次看到系統版本、處理器、記憶體、儲存空間與網路狀態；從這裡也能看出，目前網路孔是以 1000Mbps 連線。
 
-![QQ20260917-000718](https://hackmd.io/_uploads/By5HvTvozl.png)
+![QQ20260917-000718](/assets/img/posts/By5HvTvozl.png)
 
 ▲ fnOS 裝置資訊頁面
 
@@ -199,8 +199,8 @@ fnOS 1.2 使用體驗
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/H15BvpPjGl.png" alt="QQ20260917-003335"></td>
-    <td><img src="https://hackmd.io/_uploads/Bk9BwaDiGg.png" alt="QQ20260917-003413"></td>
+    <td><img src="/assets/img/posts/H15BvpPjGl.png" alt="QQ20260917-003335"></td>
+    <td><img src="/assets/img/posts/Bk9BwaDiGg.png" alt="QQ20260917-003413"></td>
   </tr>
 </table>
 
@@ -246,15 +246,15 @@ WR3000S 的有線埠皆為 1GbE，因此目前 Evo 4 Pro 與工作桌機之間�
 ### iperf3
 先用 `iperf3` 測試 Edward-WorkPC 與 Evo 4 Pro 之間的純網路傳輸能力。NAS 端執行 `iperf3 -s`，工作桌機端則以 `-B` 指定從區網介面發送，分別測試上傳（WorkPC → Evo 4 Pro）與加上 `-R` 的下載（Evo 4 Pro → WorkPC），每個方向各測 3 次。
 
-![QQ20261013-153154_iperf3-1](https://hackmd.io/_uploads/rkHNlPoife.png)
-![QQ20261013-153233_iperf3-2](https://hackmd.io/_uploads/HJBVlvosGe.png)
-![QQ20261013-153302_iperf3-3](https://hackmd.io/_uploads/S1S4xvsjGl.png)
+![QQ20261013-153154_iperf3-1](/assets/img/posts/rkHNlPoife.png)
+![QQ20261013-153233_iperf3-2](/assets/img/posts/HJBVlvosGe.png)
+![QQ20261013-153302_iperf3-3](/assets/img/posts/S1S4xvsjGl.png)
 
 ▲ 上傳測試（WorkPC → Evo 4 Pro）連續 3 次的結果，左側為 NAS 端、右側為工作桌機端
 
-![QQ20261013-153352_iperf3-R-1](https://hackmd.io/_uploads/ByxHNxwjofg.png)
-![QQ20261013-153420_iperf3-R-2](https://hackmd.io/_uploads/HJHVevosGe.png)
-![QQ20261013-153449_iperf3-R-3](https://hackmd.io/_uploads/SkBVePjifg.png)
+![QQ20261013-153352_iperf3-R-1](/assets/img/posts/ByxHNxwjofg.png)
+![QQ20261013-153420_iperf3-R-2](/assets/img/posts/HJHVevosGe.png)
+![QQ20261013-153449_iperf3-R-3](/assets/img/posts/SkBVePjifg.png)
 
 ▲ 下載測試（Evo 4 Pro → WorkPC，`-R`）連續 3 次的結果
 
@@ -273,14 +273,14 @@ WR3000S 的有線埠皆為 1GbE，因此目前 Evo 4 Pro 與工作桌機之間�
 1. **多檔案資料夾**：一個實際的專案資料夾，包含 233 個檔案、74 個子資料夾，總計 6.56GB。
 2. **單一大檔**：一個 15GB 的測試檔案（`test_data_15360.0MB.bin`）。
 
-![QQ20261013-152105_SMB-1_filesize](https://hackmd.io/_uploads/HyENxvojzl.png)
+![QQ20261013-152105_SMB-1_filesize](/assets/img/posts/HyENxvojzl.png)
 
 ▲ 測試用專案資料夾的檔案數量與大小
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/rJEVgDijMe.png" alt="QQ20261013-152016_SMB-1"></td>
-    <td><img src="https://hackmd.io/_uploads/ByE4lDjjfg.png" alt="QQ20261013-152629_SMB-2_15GB"></td>
+    <td><img src="/assets/img/posts/rJEVgDijMe.png" alt="QQ20261013-152016_SMB-1"></td>
+    <td><img src="/assets/img/posts/ByE4lDjjfg.png" alt="QQ20261013-152629_SMB-2_15GB"></td>
   </tr>
 </table>
 
@@ -288,8 +288,8 @@ WR3000S 的有線埠皆為 1GbE，因此目前 Evo 4 Pro 與工作桌機之間�
 
 <table>
   <tr>
-    <td><img src="https://hackmd.io/_uploads/Hkz1cvjjGe.png" alt="QQ20261013-153703_SMB-backtoWorkPC-1_blur"></td>
-    <td><img src="https://hackmd.io/_uploads/S1VExviozg.png" alt="QQ20261013-153808_SMB_backtoWorkPC-2"></td>
+    <td><img src="/assets/img/posts/Hkz1cvjjGe.png" alt="QQ20261013-153703_SMB-backtoWorkPC-1_blur"></td>
+    <td><img src="/assets/img/posts/S1VExviozg.png" alt="QQ20261013-153808_SMB_backtoWorkPC-2"></td>
   </tr>
 </table>
 
@@ -314,33 +314,56 @@ WR3000S 的有線埠皆為 1GbE，因此目前 Evo 4 Pro 與工作桌機之間�
 ---
 這台 NAS 就放在我的辦公座位旁，需要長時間不間斷運作，因此散熱與功耗是我在辦公環境中特別留意的部分。
 
-功耗的部分，我把 Evo 4 Pro 接在一個具備電力監測功能的智慧插座上。在四個硬碟槽都裝滿 HDD 的狀態下，待機時的即時功耗約為 39W。從當天的累計數據來看，運行 8.8 小時共用了 0.34 kWh，換算下來平均約 38.6W，與即時數值相當接近，代表待機時的功耗相當穩定。
+功耗的部分，我把 Evo 4 Pro 接在一個具備電力監測功能的智慧插座上。在四個硬碟槽都裝滿 HDD 的狀態下，待機時的即時功耗在 39～41W 之間。從當天的累計數據來看，運行 9.0 小時共用了 0.348 kWh，換算下來平均約 38.7W，與即時數值相當接近，代表待機時的功耗相當穩定。
 
-![智慧插座顯示的待機功耗](/待上傳/smart-plug-idle-power.jpg)
+![Screenshot_20261020-085934_Tapo](/assets/img/posts/ryMHpEE2Gg.jpg)
 
-▲ 智慧插座 App 顯示的待機功耗：運行 8.8 小時、累計 0.34 kWh、即時功耗 39W
+▲ 智慧插座 App 顯示的待機功耗：運行 9.0 小時、累計 0.348 kWh、即時功耗 41W
 
-以這個數字推算，Evo 4 Pro 全天候開機一天大約會用掉 0.93 kWh，一個月約 28 kWh。對於一台搭載 i5-13500H、同時驅動四顆 3.5 吋 HDD 的 NAS 來說，這樣的待機功耗算是合理；其中有相當一部分，其實來自四顆持續運轉的機械硬碟。
+以這個數字推算，Evo 4 Pro 全天候開機一天大約會用掉 0.93 kWh，一個月約 28 kWh。量測時，我也用 `hdparm` 檢查了四顆硬碟的狀態，全部都是 active/idle，也就是四顆硬碟都在運轉中。
 
-{% comment %}
-待補（室溫 24 ℃）：
-- 確認這段量測期間，HDD 是否有進入休眠（fnOS 的硬碟休眠設定是否開啟）；若有休眠，「待機」與「硬碟休眠」的數值需要重新歸類，最後一句也要修改。
-- 溫度：fnOS 介面或 SSH（sensors、smartctl -A /dev/sdX）取得 CPU 與各顆 HDD 的溫度。
-- 功耗：硬碟休眠、持續讀寫時的數值。
-- 智慧插座截圖上傳 HackMD 後替換 /待上傳/ 路徑。
-{% endcomment %}
+![QQ20261020-090259](/assets/img/posts/r1ukRNNhfx.png)
 
-| 狀態 | CPU 溫度 | HDD 溫度 | 功耗 |
-| --- | --- | --- | --- |
-| 待機 | 待測 | 待測 | 約 39W |
-| 硬碟休眠 | 待測 | 待測 | 待測 |
-| 持續讀寫 | 待測 | 待測 | 待測 |
+▲ 以 `hdparm -C` 檢查四顆硬碟的狀態，皆為 active/idle
+
+這組 39～41W 反映的是四顆硬碟都在運轉時的待機功耗。對於一台搭載 i5-13500H、同時驅動四顆 3.5 吋 HDD 的 NAS 來說，這樣的數字算是合理。
+
+溫度的部分，同樣在室溫 24 ℃、待機的狀態下，我透過 SSH 分別用 `sensors` 讀取 CPU 溫度，再用 `smartctl` 讀取四顆 HDD 的溫度：
+
+```
+edwardwu@Edward-EVO4Pro:/$ sensors | grep -E 'Package|Core'
+Package id 0:  +43.0°C  (high = +100.0°C, crit = +100.0°C)
+Core 0:        +39.0°C  (high = +100.0°C, crit = +100.0°C)
+Core 4:        +34.0°C  (high = +100.0°C, crit = +100.0°C)
+Core 8:        +36.0°C  (high = +100.0°C, crit = +100.0°C)
+Core 12:       +39.0°C  (high = +100.0°C, crit = +100.0°C)
+Core 16:       +40.0°C  (high = +100.0°C, crit = +100.0°C)
+...
+Core 23:       +44.0°C  (high = +100.0°C, crit = +100.0°C)
+
+edwardwu@Edward-EVO4Pro:/$ for d in /dev/sd[a-d]; do echo -n "$d: "; sudo smartctl -A $d | awk '/Temperature_Celsius/ {print $10 " °C"}'; done
+/dev/sda: 38 °C
+/dev/sdb: 36 °C
+/dev/sdc: 35 °C
+/dev/sdd: 37 °C
+```
+
+▲ 待機時的 CPU 與 HDD 溫度（節錄）
+
+| 項目 | 待機（室溫 24 ℃） |
+| --- | --- |
+| **CPU Package** | 43 ℃ |
+| **CPU 各核心** | 34～44 ℃ |
+| **HDD** | 35～38 ℃ |
+| **功耗** | 約 39～41W（四顆 HDD 運轉中） |
+
+CPU 封裝溫度只有 43 ℃，距離 100 ℃ 的上限還有相當大的空間，鼓風扇搭配銅導熱管的散熱設計，在待機時顯得游刃有餘。四顆 HDD 擠在同一個機身裡，溫度也都維持在 35～38 ℃ 之間，彼此差距不大，看得出硬碟槽之間的散熱相當平均；這個溫度區間對機械硬碟來說也相當理想，長時間運作不需要太擔心。
 
 與 Evo 2 的差異
 ---
 同樣是飛牛的硬體、同樣執行 fnOS，Evo 4 Pro 和我家裡的 Evo 2 卻走向了不同的定位。
 
-![IMG_20260914_213942579](https://hackmd.io/_uploads/BJfSw6wofg.jpg)
+![IMG_20260914_213942579](/assets/img/posts/BJfSw6wofg.jpg)
 
 ▲ 由左至右：Evo 2、Evo 4 Pro，最右側是 Asustor AS6702T v2
 
@@ -384,9 +407,7 @@ Evo 4 Pro 最明顯的優勢，是硬體規格帶來的餘裕。i5-13500H 與 16
 
 實際測試下來，Evo 4 Pro 在 1GbE 環境中的表現相當到位：iperf3 雙向都穩定在 948～949 Mbps，SMB 傳輸單一大檔的讀寫也維持在 106～108 MB/s，等於把 1GbE 的頻寬完整跑滿。即使是混雜大量檔案的專案資料夾，寫入仍有 110 MB/s，只有讀取時略降到 86 MB/s 左右。換句話說，在我目前的環境裡，真正的瓶頸是網路，而不是 Evo 4 Pro 本身。
 
-{% comment %}
-待補：溫度與功耗實測完成後，在此補一句長時間運作的溫度與功耗表現。
-{% endcomment %}
+放在座位旁長時間運作，Evo 4 Pro 的表現同樣讓人放心：待機時 CPU 封裝溫度約 43 ℃，四顆 HDD 維持在 35～38 ℃，整機功耗約 39～41W，一個月的用電量大約 28 kWh。
 
 另一方面，fnOS 在團隊情境中仍有可以補強的地方。缺少 LDAP，代表帳號管理仍需要手動維護；缺少繁體中文（台灣），則讓它在台灣的辦公環境中多了一道門檻。這兩點都不影響它作為檔案交換與儲存設備的核心功能，但會是它能否真正走進更多辦公室的關鍵。
 
