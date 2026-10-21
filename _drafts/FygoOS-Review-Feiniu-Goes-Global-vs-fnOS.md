@@ -6,7 +6,7 @@ tags: [FnNAS, FnOS, FygoOS, NAS]
 
 # 飛牛走向國際：FygoOS 上手評測，與 fnOS 差在哪？
 
-![QQ20261021-214950](/待上傳/QQ20261021-214950.png)
+![QQ20261021-214950](/assets/img/posts/rJx6uurIhfg.png)
 
 ▲ 這次的主角是 FygoOS。
 
@@ -49,11 +49,11 @@ FygoOS 是什麼
 
 兩顆虛擬磁碟都放在主機上的 Crucial MX500 SATA SSD，並開啟了 `iothread` 與 `ssd=1`。我用 1.2.0604 的映像檔完成安裝，再透過系統內建的更新升級到撰文時的 1.2.0800。
 
-![QQ20261021-214714](/待上傳/QQ20261021-214714.png)
+![QQ20261021-214714](/assets/img/posts/Bkep__SLhGx.png)
 
 ▲ Proxmox VE 中 FygoOS 虛擬機的硬體設定
 
-![QQ20261021-214142](/待上傳/QQ20261021-214142.png)
+![QQ20261021-214142](/assets/img/posts/rk6_drUnfx.png)
 
 ▲ FygoOS 的裝置資訊頁面：FygoOS 1.2.0800、4 核心、4GB 記憶體
 
@@ -63,13 +63,13 @@ FygoOS 是什麼
 
 不過，這六種語言裡，同樣還沒有繁體中文。對台灣、香港的使用者來說，選擇 FygoOS 並不會讓介面變得更親切：要嘛使用英文，要嘛和 fnOS 一樣面對簡體中文。
 
-![QQ20261021-214058](/待上傳/QQ20261021-214058.png)
+![QQ20261021-214058](/assets/img/posts/H1TOdrLnzl.png)
 
 ▲ FygoOS 的語系選單：English、日本語、简体中文、Deutsch、Français、Español
 
 我也把介面切換成英文試用了一下，從桌面上的應用名稱到系統設定的各個項目，都已經換成英文，翻譯品質也還不錯，用起來沒有遇到太大的問題。不過，因為我已經習慣 fnOS 的操作邏輯，用簡體中文反而能更快找到對應的功能，所以這次評測最後還是選擇用簡體中文操作，文中的截圖也以簡體中文介面為主。
 
-![QQ20261021-215156](/待上傳/QQ20261021-215156.png)
+![QQ20261021-215156](/assets/img/posts/SkpduSUhMg.png)
 
 ▲ 切換成英文介面的 FygoOS
 
@@ -79,12 +79,12 @@ FygoOS 是什麼
 
 <table>
   <tr>
-    <td><img src="/待上傳/QQ20261021-214228.png" alt="QQ20261021-214228"></td>
-    <td><img src="/待上傳/QQ20261021-214241.png" alt="QQ20261021-214241"></td>
+    <td><img src="/assets/img/posts/SkTOdB8hGg.png" alt="QQ20261021-214228"></td>
+    <td><img src="/assets/img/posts/HJ6ddSLnzl.png" alt="QQ20261021-214241"></td>
   </tr>
   <tr>
-    <td><img src="/待上傳/QQ20261021-214255.png" alt="QQ20261021-214255"></td>
-    <td><img src="/待上傳/QQ20261021-214319.png" alt="QQ20261021-214319"></td>
+    <td><img src="/assets/img/posts/rk6O_SLhzg.png" alt="QQ20261021-214255"></td>
+    <td><img src="/assets/img/posts/rkT_OrUhMe.png" alt="QQ20261021-214319"></td>
   </tr>
 </table>
 
@@ -100,7 +100,7 @@ FygoOS 是什麼
 
 第二步的儲存模式會依照選取的硬碟數量變化。這台虛擬機只有一顆 100GB 的資料碟，因此只能選擇沒有資料保護的 Basic 或 Linear；介面上會清楚標示可用容量、理論效能與資料防丟能力，Linear 也直接註明了「任意一塊硬碟損壞，將遺失整個儲存空間的所有資料」的風險。第三步可以設定哪些使用者能使用這個儲存空間，以及是否限制每位使用者的可用容量；最後一步確認資訊時，還可以選擇是否執行硬碟讀寫檢測。
 
-![QQ20261021-214331](/待上傳/QQ20261021-214331.png)
+![QQ20261021-214331](/assets/img/posts/ByauuBU3fl.png)
 
 ▲ 確認資訊：Btrfs、Linear、預計可用容量 100GB
 
@@ -108,20 +108,20 @@ FygoOS 是什麼
 ---
 建立好儲存空間後，FygoOS 會跳出「歡迎來到 FygoOS」的引導視窗，提供一鍵安裝 Fygo 相簿與 Fygo 影視、設定 FygoConnect 遠端存取（標示為永久免費），以及設定安全信箱等選項。
 
-![QQ20261021-214413](/待上傳/QQ20261021-214413.png)
+![QQ20261021-214413](/assets/img/posts/Bkau_rU2zl.png)
 
 ▲ 建立儲存空間後的「歡迎來到 FygoOS」引導視窗
 
 ### 應用中心
 應用中心的版面和 fnOS 幾乎一致，首頁主打 Fygo TV、AI Photo、Fygo Sync 與 File Snapshot，下方則列出 12 個飛牛官方應用，包含文件快照、Fygo Sync、Fygo TV、iSCSI，以及兩款分別對應 AMD Vitis AI 與 AMD MIGraphX 的 Fygo AI 引擎。左側的分類則有影音娛樂、攝影錄像、AI、下載、備份同步、開發工具、實用效率、生活等。
 
-![QQ20261021-214401](/待上傳/QQ20261021-214401.png)
+![QQ20261021-214401](/assets/img/posts/r1au_H83zx.png)
 
 ▲ FygoOS 的應用中心
 
 不過，當我在免費版上點擊安裝時，系統跳出了「無有效許可證，請前往【系統設定-許可證】查看詳情」的提示，無法安裝。對照[官方的定價頁面](https://www.fygonas.com/pricing)，免費版列出的內建應用只有備份、Docker 與下載，「App Center Full Features」則只出現在試用、Plus 與 Lifetime 三種授權中。換句話說，免費版目前無法透過應用中心安裝這些官方應用。
 
-![QQ20261021-214550](/待上傳/QQ20261021-214550.png)
+![QQ20261021-214550](/assets/img/posts/Skga_OSLhMe.png)
 
 ▲ 在免費版上安裝應用時出現的「無有效許可證」提示
 
@@ -132,8 +132,8 @@ Docker 是免費版就包含的內建應用。第一次開啟時，系統會提�
 
 <table>
   <tr>
-    <td><img src="/待上傳/QQ20261021-214604.png" alt="QQ20261021-214604"></td>
-    <td><img src="/待上傳/QQ20261021-214616.png" alt="QQ20261021-214616"></td>
+    <td><img src="/assets/img/posts/rk6OOSInfl.png" alt="QQ20261021-214604"></td>
+    <td><img src="/assets/img/posts/rJlp_OH82Ge.png" alt="QQ20261021-214616"></td>
   </tr>
 </table>
 
