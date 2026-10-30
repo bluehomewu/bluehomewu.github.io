@@ -5,7 +5,8 @@
 
     if (pv !== null) {
       const uri = location.pathname.replace(/\/$/, '');
-      /* GoatCounter records paths case-sensitively, so the same post may be split across case variants */
+      /* A post may be split across case variants, but GoatCounter falls back to a case-insensitive match when
+         a variant has no record, so equal counts mean the same record and are counted once */
       const uris = [...new Set([uri, uri.toLowerCase()])];
 
       const fetchCount = (path) => {
@@ -18,7 +19,7 @@
       };
 
       Promise.all(uris.map(fetchCount)).then((counts) => {
-        const count = counts.reduce((sum, n) => sum + n, 0);
+        const count = [...new Set(counts)].reduce((sum, n) => sum + n, 0);
         pv.innerText = new Intl.NumberFormat().format(Math.max(count, 1));
       });
     }
