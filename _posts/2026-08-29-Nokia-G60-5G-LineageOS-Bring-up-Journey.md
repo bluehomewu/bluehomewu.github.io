@@ -1,5 +1,6 @@
 ---
 title: 從一片背光到 Android 16：Nokia G60 5G 的 LineageOS Bring-up 手記
+description: "Nokia G60 5G（Apollo）LineageOS bring-up 手記：從 Android 14 Stock ROM 出發完成 LineageOS 22.2，解決 Qualcomm CrashDump 與螢幕只有背光等問題，再升級到 Android 16。"
 date: 2026-08-29
 categories: [Android]
 tags: [Android, LineageOS, Nokia, Nokia G60 5G, Custom ROM, Kernel, Bring-up]

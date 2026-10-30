@@ -1,5 +1,6 @@
 ---
 title: Nothing Phone (2a) 工程機 DVT 恢復基頻 & IMEI 紀錄
+description: "Nothing Phone (2a) DVT 工程機修復紀錄：解決線刷 Flash Error 與 Bootloop，並恢復遺失的基頻（Baseband）與 IMEI，記錄分區備份還原的完整過程。"
 date: 2026-02-27 00:05:00 +0800
 tags: [Nothing Tech, CMF]
 categories: [Nothing Tech 產品評測]

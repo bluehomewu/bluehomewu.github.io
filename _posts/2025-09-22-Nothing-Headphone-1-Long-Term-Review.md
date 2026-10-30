@@ -1,5 +1,6 @@
 ---
 title: 真實長測：Nothing Headphone (1) 降噪、通話、佩戴舒適度全記錄
+description: "Nothing Headphone (1) 長期實測：KEF 調音音質、主動降噪、通話收音、佩戴舒適度、續航與 Nothing X App 功能，資深 Nothing 用戶的真實使用心得。"
 date: 2025-09-22
 categories: [Nothing Tech 產品評測]
 tags: [Nothing, Nothing Tech]

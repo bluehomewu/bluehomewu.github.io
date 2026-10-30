@@ -1,5 +1,6 @@
 ---
 title: 當平靜的機架再起漣漪：飛牛 Evo 2 與我的 Asustor AS6702T v2
+description: "飛牛 Evo 2（Intel N150）與 Asustor AS6702T v2 雙 NAS 共存實測：硬體分工、fnOS 影音與介面體驗、Docker 生態比較，以及安全性的隱憂。"
 date: 2026-02-03 17:30:30 +0800
 tags: [FnNAS, FnOS, NAS]
 categories: [FnNAS]

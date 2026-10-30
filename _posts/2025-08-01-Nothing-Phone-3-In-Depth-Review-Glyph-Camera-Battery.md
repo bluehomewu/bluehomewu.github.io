@@ -1,5 +1,6 @@
 ---
 title: Glyph、鏡頭、續航一次看懂：Nothing Phone (3) 深度開箱
+description: "Nothing Phone (3) 深度開箱：全新 Glyph Matrix 動態燈陣、Essential Key、Snapdragon 8s Gen 4 效能、三鏡頭相機與續航實測，一次看懂 Nothing 首款真旗艦。"
 date: 2025-08-01
 categories: [Nothing Tech 產品評測]
 tags: [Nothing Tech, Android, Nothing, Qualcomm]

@@ -1,5 +1,6 @@
 ---
 title: 關閉 / 刪除 Zenfone / ROG Phone 全局顯示 IMEI 浮水印方法筆記
+description: "關閉 ZenFone / ROG Phone 特殊系統版本中全局顯示的 IMEI 浮水印：透過 dumpsys 找出 ImsWatermarkService，並用 adb 停用或移除相關服務的方法筆記。"
 date: 2025-10-21
 categories: [ASUS]
 tags: [ASUS, Android]

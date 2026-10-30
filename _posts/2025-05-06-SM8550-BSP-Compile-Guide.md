@@ -1,5 +1,6 @@
 ---
 title: SM8550 BSP Compile Guide
+description: "Qualcomm SM8550（Snapdragon 8 Gen 2）BSP 編譯指南：從 repo 同步 manifest、放置 proprietary BSP 到編譯 HLOS 的完整步驟。"
 date: 2025-05-06
 tags: [BSP, SM8550, Compile Guide]
 categories: [BSP]

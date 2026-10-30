@@ -1,5 +1,6 @@
 ---
 title: GKI 1.0 Kernel 5.4 Bring-up 筆記
+description: "SM8350（lahaina）裝置 GKI 1.0 Kernel 5.4 bring-up 筆記：以 Snapdragon Insiders Phone 為例，整理 kernel 基線確認、合併 Qualcomm 模組、匯入 ASUS OEM 改動與 DTS / Techpack 的流程。"
 date: 2026-06-02 23:34:57 +0800
 categories: [Android]
 tags: [Android, Qualcomm, SM8350, lahaina, GKI, Kernel, Bring-up]

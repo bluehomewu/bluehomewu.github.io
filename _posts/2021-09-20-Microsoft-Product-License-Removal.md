@@ -1,5 +1,6 @@
 ---
 title: Microsoft 產品授權移除
+description: "以 Office 2016 Professional Plus 為例，示範如何用 ospp.vbs 查詢並移除 Microsoft Office 產品授權金鑰，附 32 位元與 64 位元安裝路徑與完整指令。"
 date: 2021-09-20
 categories: [Windows]
 tags: [Windows, Microsoft, Office]

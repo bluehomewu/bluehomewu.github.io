@@ -1,5 +1,6 @@
 ---
 title: SM84xx BSP Compile Guide
+description: "Qualcomm SM84xx（Snapdragon 8 Gen 1 / 8+ Gen 1）BSP 編譯指南：從 repo 同步 manifest、放置 proprietary BSP 到編譯 HLOS 的完整步驟。"
 date: 2025-05-18
 tags: [BSP, SM84xx, Compile Guide]
 categories: [BSP]

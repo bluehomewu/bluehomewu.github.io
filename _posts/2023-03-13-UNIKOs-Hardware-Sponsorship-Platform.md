@@ -1,5 +1,6 @@
 ---
 title: UNIKO's Hardware 贊助平台
+description: "感謝 UNIKO's Hardware 贊助 AMD Ryzen 5 3600XT 與 ASUS PRIME X470-PRO 硬體平台，介紹這台用於 Android 系統開發的 Proxmox VE 伺服器配置與用途。"
 date: 2023-03-13
 categories: [PVE]
 tags: [PVE, UNIKO's]

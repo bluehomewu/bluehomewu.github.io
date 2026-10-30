@@ -1,5 +1,6 @@
 ---
 title: 手腕上的精緻，雙耳中的純淨：vivo Watch GT 2 & vivo Buds Pro 全天候穿戴體驗
+description: "vivo Watch GT 2 與 vivo Buds Pro 全天候穿戴體驗：智慧手錶外觀、配戴、健康追蹤與續航，真無線耳機音質、降噪與通勤使用，以及搭配 iQOO Z11 的整合表現。"
 date: 2026-06-27
 categories: [開箱評測]
 tags: [vivo, iQOO, Android, vivo Watch GT 2, vivo Buds Pro, iQOO Z11, 智慧手錶, 真無線耳機]

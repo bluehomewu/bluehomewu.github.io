@@ -1,5 +1,6 @@
 ---
 title: Pixel Watch 2 Demo 展示機改回正常零售版系統
+description: "Pixel Watch 2 展示機（Demo Unit）改回正常零售版系統的研究紀錄：從 bootloader 的 bootmode 欄位、無法解鎖的困境，到解鎖並改回零售版系統的過程。"
 date: 2025-09-22
 categories: [Android]
 tags: [Android, Pixel]

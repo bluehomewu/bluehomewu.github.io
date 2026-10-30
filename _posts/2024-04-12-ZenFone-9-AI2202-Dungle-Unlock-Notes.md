@@ -1,5 +1,6 @@
 ---
 title: ZenFone 9 (AI2202) Dungle Unlock notes
+description: "ZenFone 9（AI2202）Dungle 解鎖 bootloader 操作筆記，說明所需的 SN 與 CPUID 資訊及解鎖流程。"
 date: 2024-04-12
 categories: [ASUS]
 tags: [ASUS, Android, ROG]

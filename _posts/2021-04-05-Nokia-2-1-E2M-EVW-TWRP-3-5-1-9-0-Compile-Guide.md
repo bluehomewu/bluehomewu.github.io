@@ -1,5 +1,6 @@
 ---
 title: Nokia 2.1 E2M/EVW TWRP 3.5.1-9-0 編譯
+description: "Nokia 2.1（E2M / EVW，Snapdragon 425）編譯 TWRP 3.5.1-9.0 的實作筆記，從 TWRP device tree generator 建立 device tree，到編譯、縮減映像檔大小與實機測試的過程紀錄。"
 date: 2021-04-05 20:00:00
 categories: [Android]
 tags: [Android, Recovery, 編譯, 筆記]

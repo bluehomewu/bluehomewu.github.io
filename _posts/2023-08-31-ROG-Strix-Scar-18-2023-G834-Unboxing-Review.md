@@ -1,5 +1,6 @@
 ---
 title: ROG Strix Scar 18 (2023) G834 開箱評測
+description: "ROG Strix SCAR 18（2023）G834 電競筆電開箱評測：硬體規格、Intel 第 13 代處理器效能、螢幕表現，以及用於 Android ROM 編譯的實際體驗。"
 date: 2023-08-31
 category: [開箱評測]
 tags: [ASUS, ROG, Android, Laptop, ROM, Intel 2th 校園大使]

@@ -1,5 +1,6 @@
 ---
 title: 不同以往的 Nothing Phone：睽違已久的 Mediatek
+description: "Nothing Phone (2a) 評測：首款搭載 MediaTek Dimensity 7200 Pro 的 Nothing 手機，從 Android 開發者角度看硬體規格、Glyph 設計、Nothing OS 與 Nothing Camera 相機表現。"
 date: 2024-07-27
 categories: [Nothing Tech 產品評測]
 tags: [Nothing Tech, Android, Nothing, Nothing Phone 2a, ROM]

@@ -1,5 +1,6 @@
 ---
 title: AMD Ryzen 7 5800X 遲來的「主觀」評測
+description: "從 Android Custom ROM 開發者的角度主觀評測 AMD Ryzen 7 5800X：以實際編譯 Android ROM 為測試項目，與 Intel 平台比較編譯時間與使用體驗。"
 date: 2022-05-18
 categories: [AMD]
 tags: [Windows, Linux, AMD]

@@ -1,5 +1,6 @@
 ---
 title: ROG Phone 7 (AI2205) Dungle Unlock notes
+description: "ROG Phone 7（AI2205）透過 fastboot oem gen-random 進行 Dungle 解鎖 bootloader 的操作筆記。"
 date: 2025-09-16
 categories: [ASUS]
 tags: [ASUS, Android]

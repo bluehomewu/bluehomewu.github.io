@@ -1,5 +1,6 @@
 ---
 title: Nothing Ear / Ear (a) 實際體驗：Nothing Ear (2) 使用者親自分享
+description: "Nothing Ear (2) 長期使用者實際體驗 Nothing Ear 與 Ear (a)：規格比較、外觀、配戴、音質、降噪與 ChatGPT 整合功能，看兩款新耳機各自適合誰。"
 date: 2024-05-28
 categories: [Nothing Tech 產品評測]
 tags: [Nothing Tech, Android, Nothing]

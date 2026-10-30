@@ -1,5 +1,6 @@
 ---
 title: 在 WSL2 上 Compile Raspberry Pi 4B 的 Kernel
+description: "在 Windows WSL2 環境交叉編譯 Raspberry Pi 4B Linux Kernel 的步驟紀錄，包含套用 OV5647 相機模組修改 patch、編譯與安裝到樹莓派的完整流程。"
 date: 2024-06-26
 categories: [RaspberryPi]
 tags: [RaspberryPi, Kernel]

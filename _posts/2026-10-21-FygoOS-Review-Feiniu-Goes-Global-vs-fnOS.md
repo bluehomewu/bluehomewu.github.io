@@ -1,5 +1,6 @@
 ---
 title: 飛牛走向國際：FygoOS 上手評測，與 fnOS 差在哪？
+description: "飛牛國際版 NAS 系統 FygoOS 上手評測：在 Proxmox VE 虛擬機實測語系、儲存空間、應用中心與 Docker，並與 fnOS 比較功能差異。"
 date: 2026-10-21
 categories: [FnNAS, FygoOS]
 tags: [FnNAS, FnOS, FygoOS, NAS]

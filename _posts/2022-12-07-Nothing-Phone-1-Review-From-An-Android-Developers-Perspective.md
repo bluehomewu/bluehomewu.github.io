@@ -1,5 +1,6 @@
 ---
 title: 從 Android 系統開發者的角度評價 Nothing Phone(1)
+description: "以 Android Custom ROM 開發者的角度評價 Nothing Phone (1)：硬體規格、Nothing OS 系統設計、Nothing Camera 相機表現與日常使用體驗。"
 date: 2022-12-07
 categories: [Nothing Tech 產品評測]
 tags: [Nothing Tech, Android, Nothing, Nothing Phone(1), ROM]

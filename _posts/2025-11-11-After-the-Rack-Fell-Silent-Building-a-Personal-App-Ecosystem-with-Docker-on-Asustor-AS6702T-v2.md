@@ -1,6 +1,7 @@
 ---
 
 title: 當機架歸於平靜之後：我如何在 Asustor AS6702T v2 上，用 Docker 打造個人應用生態系
+description: "在 Asustor AS6702T v2 上用 Docker 打造個人應用生態系：以 Portainer CE 管理容器，部署 Tailscale、Ollama + WebUI 等服務，搭配 oh-my-zsh 與 neofetch，並實測資源占用與效能。"
 date: 2025-11-10
 categories: [Asustor]
 tags: [Asustor]

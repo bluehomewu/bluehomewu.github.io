@@ -1,5 +1,6 @@
 ---
 title: 從家庭機架到辦公環境：飛牛 Evo 4 Pro 開箱與使用評測
+description: "飛牛 Evo 4 Pro 開箱評測：Intel Core i5-13500H、16GB 記憶體、四盤位 NAS 在辦公環境的實際使用，涵蓋 fnOS 管理、應用、散熱與功耗表現。"
 date: 2026-10-21
 categories: [FnNAS]
 tags: [FnNAS, FnOS, NAS]

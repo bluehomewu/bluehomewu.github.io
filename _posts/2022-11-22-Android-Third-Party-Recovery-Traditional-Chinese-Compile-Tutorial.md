@@ -1,5 +1,6 @@
 ---
 title: Android 第三方 Recovery 繁體中文編譯教學
+description: "從零開始的 Android 第三方 Recovery 繁體中文編譯教學，介紹 TWRP、OrangeFox、SHRP、PBRP 等 Recovery 的原始碼同步、device tree 準備與編譯流程。"
 date: 2022-11-22
 categories: [Android]
 tags: [Android, Recovery, 編譯, 第三方, 教學]

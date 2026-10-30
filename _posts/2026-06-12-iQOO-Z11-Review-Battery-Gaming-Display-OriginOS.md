@@ -1,5 +1,6 @@
 ---
 title: 電量焦慮可以退場了？iQOO Z11 開箱：9020mAh、144Hz 與全天候電力怪獸
+description: "iQOO Z11 開箱評測：9020mAh 超大電池卻只有約 8.25mm 機身，實測 144Hz 螢幕、Snapdragon 效能、遊戲發熱、充電速度與 OriginOS 使用體驗。"
 date: 2026-06-12
 categories: [開箱評測]
 tags: [iQOO, vivo, Android, Qualcomm, Snapdragon, iQOO Z11]

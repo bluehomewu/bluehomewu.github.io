@@ -1,5 +1,6 @@
 ---
 title: Nothing Ear (3) & CMF Headphone Pro 評測：升級重點與差異整理：值得從前代升級嗎？
+description: "Nothing Ear (3) 與 CMF Headphone Pro 評測：和各自前代產品比較規格、設計、音質、降噪與續航，並實測 Super Mic、實體轉盤與滑桿操作，整理值不值得升級。"
 date: 2025-11-21
 tags: [Nothing Tech, CMF]
 categories: [Nothing Tech 產品評測]

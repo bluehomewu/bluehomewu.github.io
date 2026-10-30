@@ -1,5 +1,6 @@
 ---
 title: ROG Phone 2 & 3 騰訊陸版刷入國際版
+description: "ROG Phone 2 與 ROG Phone 3 騰訊陸版改刷國際版（WW）完整流程：解鎖 bootloader、RAW 檔線刷、Magisk 修補 boot.img、修改 Country Code 到系統更新，附官方工具與韌體下載連結。"
 date: 2021-02-14 20:00:00 +0800
 categories: [Android]
 tags: [Android]

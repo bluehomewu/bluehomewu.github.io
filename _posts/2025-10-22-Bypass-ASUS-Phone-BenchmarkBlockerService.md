@@ -1,5 +1,6 @@
 ---
 title: 繞過 Zenfone / ROG Phone 阻擋跑分軟體方法筆記
+description: "繞過 ZenFone / ROG Phone 阻擋跑分軟體的方法筆記：從 logcat 找出 BenchmarkBlockerService，分析 com.asus.benchmarkblocker 並以 adb 停用，恢復正常跑分。"
 date: 2025-10-22
 categories: [ASUS]
 tags: [ASUS, Android]

@@ -1,5 +1,6 @@
 ---
 title: 潮流設計×高性價比：CMF by Nothing Phone 2 Pro 完整開箱
+description: "CMF by Nothing Phone 2 Pro 完整開箱：MediaTek Dimensity 7300 Pro 效能測試、可換配件設計、Nothing OS 3.2 使用體驗與配件開箱，看平價機如何兼顧潮流與性價比。"
 date: 2025-06-28
 categories: [Nothing Tech 產品評測]
 tags: [Nothing Tech, Nothing, CMF, MediaTek, Android]

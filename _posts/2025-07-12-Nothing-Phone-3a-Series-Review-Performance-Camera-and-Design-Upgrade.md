@@ -1,5 +1,6 @@
 ---
 title: Nothing Phone 3a 系列評測：性能、攝影與設計的全面升級
+description: "Nothing Phone (3a) 與 (3a) Pro 評測：Snapdragon 7s Gen 3 效能、潛望式長焦相機、Essential Key 與 Glyph 設計，比較兩款差異與前代升級幅度。"
 date: 2025-07-12
 categories: [Nothing Tech 產品評測]
 tags: [Nothing Tech, Qualcomm, Android, CMF, Nothing Phone 3a, Nothing]

@@ -1,5 +1,6 @@
 ---
 title: ROG Phone 1 (ZS600KL) Dungle Unlock notes
+description: "ROG Phone 1（ZS600KL）透過 fastboot oem gen-random 進行 Dungle 解鎖 bootloader 的操作筆記。"
 date: 2023-09-07
 categories: [ASUS]
 tags: [ASUS, Android]

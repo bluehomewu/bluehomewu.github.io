@@ -1,5 +1,6 @@
 ---
 title: 2022 Intel VIP 限定的新產品發布會 會後心得分享
+description: "以 Intel 2022 校園社群大使身分參加 VIP 限定新品發布會的心得，整理 Intel 13 代 Core 桌上型處理器、Intel Evo 認證筆電等現場展示產品與觀察。"
 date: 2022-11-06
 categories: [Intel]
 tags: [Intel 2th 校園大使]

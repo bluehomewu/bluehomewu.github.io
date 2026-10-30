@@ -1,5 +1,6 @@
 ---
 title: 攜手 Microsoft Copilot+：華碩 Vivobook S15 重新定義生產力
+description: "華碩 Vivobook S15（S5507）Copilot+ PC 評測：搭載 Snapdragon X Elite，實測外觀、硬體效能、Wi-Fi 7、StoryCube 與 Copilot+ AI 功能，並與 Qualcomm 參考設計機比較。"
 date: 2024-10-06
 categories: [開箱評測]
 tags: [ASUS, Qualcomm, Laptop]

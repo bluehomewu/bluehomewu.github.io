@@ -1,5 +1,6 @@
 ---
 title: 快速上手 Android Custom ROM 適配 - Prebuilt Vendor (zhTW)
+description: "經原作者 Lynnrin 同意的繁體中文版教學：以 Prebuilt Vendor 方式快速上手 Android Custom ROM 適配，說明 device tree 建立、vendor 使用與常見問題排除。"
 date: 2022-11-21
 categories: [Android]
 tags: [Android, ' 刷機', ' 適配']

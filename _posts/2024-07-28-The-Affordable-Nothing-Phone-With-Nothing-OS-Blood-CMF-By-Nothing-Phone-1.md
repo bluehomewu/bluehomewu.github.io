@@ -1,5 +1,6 @@
 ---
 title: 流著 Nothing OS 血液的平價版 Nothing Phone：CMF By Nothing Phone 1
+description: "CMF By Nothing Phone 1 評測：Nothing 子品牌首款平價手機，可更換背蓋與配件的模組化設計、Nothing OS 使用體驗、效能、相機與續航實測。"
 date: 2024-07-28
 categories: [Nothing Tech 產品評測]
 tags: [Nothing Tech, Android, Nothing, ROM, CMF]

@@ -1,5 +1,6 @@
 ---
 title: CMF 家族再添一員：CMF By Nothing Watch Pro 2 搶先上手體驗
+description: "CMF By Nothing Watch Pro 2 台灣搶先上手：可替換錶圈設計、AMOLED 螢幕、健康與運動追蹤、續航表現，以及搭配 Nothing 手機的使用體驗。"
 date: 2024-10-06
 categories: [Nothing Tech 產品評測]
 tags: [Nothing Tech, Nothing, Android, CMF]

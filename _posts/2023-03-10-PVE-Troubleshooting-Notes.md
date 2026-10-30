@@ -1,5 +1,6 @@
 ---
 title: PVE 踩坑紀錄
+description: "Proxmox VE（PVE）踩坑紀錄：修改 BIOS 設定後網路卡名稱改變，導致 vmbr0 無法啟動、後台連不上，透過修改 /etc/network/interfaces 解決的完整排查過程。"
 date: 2023-03-10
 categories: [PVE]
 tags: [PVE, UNIKO's]

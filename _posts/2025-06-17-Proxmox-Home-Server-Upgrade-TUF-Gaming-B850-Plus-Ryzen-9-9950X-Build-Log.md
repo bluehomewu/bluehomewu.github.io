@@ -1,5 +1,6 @@
 ---
 title: Proxmox 家用伺服器大升級：TUF Gaming B850-Plus WiFi × Ryzen 9 9950X 實戰紀錄
+description: "Proxmox VE 家用伺服器升級實錄：記憶體出錯後砍掉重練，改用 ASUS TUF Gaming B850-Plus WiFi、AMD Ryzen 9 9950X 與 64GB DDR5，分享主機板設計、組裝與 PVE 設定。"
 date: 2025-06-17
 categories: [開箱評測]
 tags: [ASUS, Android, AMD, TUF, PVE]

@@ -1,5 +1,6 @@
 ---
 title: Nothing Ear (3a) 評測：聲音、降噪、續航與前代差異
+description: "Nothing Ear (3a) 評測：12mm 驅動單元、空間音訊、降噪、通話與續航實測，並與 Ear (a)、Ear (3) 比較差異，幫你判斷該選哪一款。"
 date: 2026-08-30
 categories: [Nothing Tech 產品評測]
 tags: [Nothing, Nothing Tech]

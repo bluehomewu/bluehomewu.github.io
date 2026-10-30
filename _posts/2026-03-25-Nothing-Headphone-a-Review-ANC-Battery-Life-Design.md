@@ -1,5 +1,6 @@
 ---
 title: Nothing Headphone (a) 評測：更輕、更久、更平價的耳罩式新選擇
+description: "Nothing Headphone (a) 評測：比 Headphone (1) 更輕、續航更久、價格更親民，實測音質、主動降噪、佩戴舒適度與續航，並與 Headphone (1) 比較差異。"
 date: 2026-03-25
 categories: [Nothing Tech 產品評測]
 tags: [Nothing, Nothing Tech]

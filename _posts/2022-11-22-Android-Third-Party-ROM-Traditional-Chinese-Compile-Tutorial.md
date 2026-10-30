@@ -1,5 +1,6 @@
 ---
 title: Android 第三方 ROM 繁體中文編譯教學
+description: "從零開始的 Android 第三方 ROM 繁體中文編譯教學：挑選 LineageOS、crDroid 等 ROM，配置編譯主機、安裝套件、同步原始碼與 device / vendor / kernel tree，附編譯腳本，支援 Android 11 與 12。"
 date: 2022-11-22
 categories: [Android]
 tags: [Android, ROM, 編譯, 第三方, 教學]

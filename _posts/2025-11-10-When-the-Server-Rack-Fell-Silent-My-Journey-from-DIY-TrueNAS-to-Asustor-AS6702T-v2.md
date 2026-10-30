@@ -1,6 +1,7 @@
 ---
 
 title: 當機架上的伺服器歸於平靜：我從 True-NAS 轉投 Asustor AS6702T v2 的心路歷程
+description: "從 Proxmox VE 上自組的 TrueNAS 轉投成品 NAS Asustor AS6702T v2 的心路歷程：比較 DIY 與成品 NAS 的效能、功耗、維護成本，以及 ADM 系統的實際使用體驗。"
 date: 2025-11-10
 categories: [Asustor]
 tags: [Asustor]

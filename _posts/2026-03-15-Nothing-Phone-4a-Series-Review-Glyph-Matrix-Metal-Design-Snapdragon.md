@@ -1,5 +1,6 @@
 ---
 title: Nothing Phone 4a 系列評測：金屬機身、潛望長焦，重新定義中階旗艦？
+description: "Nothing Phone (4a) 與 (4a) Pro 評測：4a Pro 首度採用金屬一體機身與 Glyph Matrix，4a 下放潛望式長焦鏡頭，比較兩款效能、相機、續航與設計差異。"
 date: 2026-03-15
 categories: [Nothing Tech 產品評測]
 tags: [Nothing Tech, Qualcomm, Android, CMF, Nothing Phone 4a, Nothing]
