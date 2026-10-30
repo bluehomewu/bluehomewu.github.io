@@ -186,12 +186,12 @@ Nothing OS 4.1 / Android 16
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/rk5NPjTq-l.png" alt="Screenshot_20260323-012852"></td>
-    <td><img src="/assets/img/posts/SkY4vi6qbe.png" alt="Screenshot_20260323-012854"></td>
+    <td><img src="/assets/img/posts/rk5NPjTq-l.jpg" alt="Screenshot_20260323-012852"></td>
+    <td><img src="/assets/img/posts/SkY4vi6qbe.jpg" alt="Screenshot_20260323-012854"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/HyZ3Usac-x.png" alt="Screenshot_20260313-225632"></td>
-    <td><img src="/assets/img/posts/SJsPPs6q-x.png" alt="Screenshot_20260313-211822"></td>
+    <td><img src="/assets/img/posts/HyZ3Usac-x.jpg" alt="Screenshot_20260313-225632"></td>
+    <td><img src="/assets/img/posts/SJsPPs6q-x.jpg" alt="Screenshot_20260313-211822"></td>
   </tr>
 </table>
 
@@ -204,44 +204,44 @@ Nothing OS 4.1 / Android 16
 - 以下跑分全部都是在室溫 25 ℃ 下，所有設定都是系統預設值
 
 #### Nothing Phone (3a)
-![NP3a_Geekbench6_組圖](/assets/img/posts/S1i9ONxsWe.png)
+![NP3a_Geekbench6_組圖](/assets/img/posts/S1i9ONxsWe.jpg)
 <table>
   <tr>
-    <td><img src="/assets/img/posts/r1_gYNei-x.png" alt="Screenshot_20260324-215024"></td>
-    <td><img src="/assets/img/posts/H1ulFVeoWl.png" alt="Screenshot_20260324-223518"></td>
+    <td><img src="/assets/img/posts/r1_gYNei-x.jpg" alt="Screenshot_20260324-215024"></td>
+    <td><img src="/assets/img/posts/H1ulFVeoWl.jpg" alt="Screenshot_20260324-223518"></td>
   </tr>
 </table>
 
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (3a) Pro
-![NP3aPro_Geekbench6_組圖](/assets/img/posts/BJLo_NgiZg.png)
+![NP3aPro_Geekbench6_組圖](/assets/img/posts/BJLo_NgiZg.jpg)
 <table>
   <tr>
-    <td><img src="/assets/img/posts/B1N2uVej-x.png" alt="Screenshot_20260324-215023"></td>
-    <td><img src="/assets/img/posts/H1VnuNgiZx.png" alt="Screenshot_20260324-223517"></td>
+    <td><img src="/assets/img/posts/B1N2uVej-x.jpg" alt="Screenshot_20260324-215023"></td>
+    <td><img src="/assets/img/posts/H1VnuNgiZx.jpg" alt="Screenshot_20260324-223517"></td>
   </tr>
 </table>
 
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (4a)
-![NP4a_Geekbench6_組圖](/assets/img/posts/SyfF6jTcWl.png)
+![NP4a_Geekbench6_組圖](/assets/img/posts/SyfF6jTcWl.jpg)
 <table>
   <tr>
-    <td><img src="/assets/img/posts/S1VA6jacbe.png" alt="Screenshot_20260314-012930"></td>
-    <td><img src="/assets/img/posts/H14CpjTq-e.png" alt="Screenshot_20260314-015039"></td>
+    <td><img src="/assets/img/posts/S1VA6jacbe.jpg" alt="Screenshot_20260314-012930"></td>
+    <td><img src="/assets/img/posts/H14CpjTq-e.jpg" alt="Screenshot_20260314-015039"></td>
   </tr>
 </table>
 
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (4a) Pro
-![NP4aPro_Geekbench6_組圖](/assets/img/posts/HJJ5aoaqbg.png)
+![NP4aPro_Geekbench6_組圖](/assets/img/posts/HJJ5aoaqbg.jpg)
 <table>
   <tr>
-    <td><img src="/assets/img/posts/H1IYtNej-e.png" alt="Screenshot_20260314-012617"></td>
-    <td><img src="/assets/img/posts/SyLYt4lo-e.png" alt="Screenshot_20260314-014944"></td>
+    <td><img src="/assets/img/posts/H1IYtNej-e.jpg" alt="Screenshot_20260314-012617"></td>
+    <td><img src="/assets/img/posts/SyLYt4lo-e.jpg" alt="Screenshot_20260314-014944"></td>
   </tr>
 </table>
 
@@ -262,8 +262,8 @@ Nothing OS 4.1 / Android 16
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/ry8SzfxsWe.png" alt="Screenshot_20260323-133445"></td>
-    <td><img src="/assets/img/posts/SyrwGzxiZe.png" alt="Screenshot_20260323-134007"></td>
+    <td><img src="/assets/img/posts/ry8SzfxsWe.jpg" alt="Screenshot_20260323-133445"></td>
+    <td><img src="/assets/img/posts/SyrwGzxiZe.jpg" alt="Screenshot_20260323-134007"></td>
   </tr>
 </table>
 

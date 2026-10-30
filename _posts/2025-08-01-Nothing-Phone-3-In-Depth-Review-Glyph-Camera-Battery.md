@@ -76,9 +76,9 @@ Nothing Phone (3) 這次相對於上一代的 Nothing Phone (2) 在外觀方面�
 當然這塊螢幕也不是完全的一無是處，在亮度方面比起上一代的提升不少，這代總算在大夏天的戶外看的清楚了。
 
 從 Nothing Phone (2) 升級上來的使用者，會在網路方面很有感，首先，Nothing Phone (3) 支援了中華 4CA（或許有 5CA 也說不定，但我的生活圈要遇到 5CA 要點運氣以及找角度，大多數時候還是 4CA）
-<img src="/assets/img/posts/BkMk6tEIlx.png" alt="Screenshot_20250710-104920" style="width: 500px;">
+<img src="/assets/img/posts/BkMk6tEIlx.jpg" alt="Screenshot_20250710-104920" style="width: 500px;">
 原本在 Nothing Phone (2) 只有中華 3CA，遇到一些極限場景會有些不夠力。再者就是，終於升級上 WiFi 7 了，雖然這個其實是得益於 SOC 的升級，且在熱點分享的部分，也有提供 6Ghz 的選項可以供使用者選擇。
-<img src="/assets/img/posts/BkRiTKNUxg.png" alt="Screenshot_20250711-143514" style="width: 500px;">
+<img src="/assets/img/posts/BkRiTKNUxg.jpg" alt="Screenshot_20250711-143514" style="width: 500px;">
 
 
 
@@ -89,12 +89,12 @@ Nothing Phone (3) 出廠即搭載目前最新的 Nothing OS 3.5 Android 15 版�
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/rkiZykULee.png" alt="Screenshot_20250710-021837"></td>
-    <td><img src="/assets/img/posts/H1wz1kLIxl.png" alt="Screenshot_20250715-182704"></td>
+    <td><img src="/assets/img/posts/rkiZykULee.jpg" alt="Screenshot_20250710-021837"></td>
+    <td><img src="/assets/img/posts/H1wz1kLIxl.jpg" alt="Screenshot_20250715-182704"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/S1EAxkLIxg.png" alt="Screenshot_20250717-103151"></td>
-    <td><img src="/assets/img/posts/Ske2CeJULxl.png" alt="Screenshot_20250717-103158"></td>
+    <td><img src="/assets/img/posts/S1EAxkLIxg.jpg" alt="Screenshot_20250717-103151"></td>
+    <td><img src="/assets/img/posts/Ske2CeJULxl.jpg" alt="Screenshot_20250717-103158"></td>
   </tr>
 </table>
 而我收到的第一版更新 ChangeLog 不是 ChangeLog，居然是 Nothing Phone (3) 的 Product Manager 寫給首發評測者的一段話，蠻特別的，在過往甚至是其他品牌當中，不曾看見過的，這對於 Nothing Tech 的這類型新創公司，產現出了相當開放的態度，也再次證明 Nothing Tech 不是一間傳統的手機品牌公司。  
@@ -106,81 +106,81 @@ Nothing Phone (3) 出廠即搭載目前最新的 Nothing OS 3.5 Android 15 版�
 - 以下跑分全部都是在室溫 25 ℃ 下，所有設定都是系統預設值
 
 #### Nothing Phone (3)
-![NP3_Geekbench6_組圖](/assets/img/posts/SJsaRgULgl.png)
+![NP3_Geekbench6_組圖](/assets/img/posts/SJsaRgULgl.jpg)
 <table>
   <tr>
-    <td><img src="/assets/img/posts/r1d0ClLLge.png" alt="Screenshot_20250717-113856"></td>
-    <td><img src="/assets/img/posts/Sy0CAlLUll.png" alt="Screenshot_20250717-123949"></td>
+    <td><img src="/assets/img/posts/r1d0ClLLge.jpg" alt="Screenshot_20250717-113856"></td>
+    <td><img src="/assets/img/posts/Sy0CAlLUll.jpg" alt="Screenshot_20250717-123949"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### CMF by Nothing Phone 2 Pro
-![CMF_Phone_2Pro_Geekbench6_組圖](/assets/img/posts/SywemgLIxl.png)
+![CMF_Phone_2Pro_Geekbench6_組圖](/assets/img/posts/SywemgLIxl.jpg)
 <table>
   <tr>
-    <td><img src="/assets/img/posts/BJSZ7xLLlg.png" alt="Screenshot_20250712-025959"></td>
-    <td><img src="/assets/img/posts/rJnZQl88ee.png" alt="Screenshot_20250712-032744"></td>
+    <td><img src="/assets/img/posts/BJSZ7xLLlg.jpg" alt="Screenshot_20250712-025959"></td>
+    <td><img src="/assets/img/posts/rJnZQl88ee.jpg" alt="Screenshot_20250712-032744"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (3a) Pro
-![NP3aPro_Geekbench6_組圖](/assets/img/posts/H17NmeUIgl.png)
+![NP3aPro_Geekbench6_組圖](/assets/img/posts/H17NmeUIgl.jpg)
 <table>
   <tr>
-    <td><img src="/assets/img/posts/HkcEme8Uxx.png" alt="Screenshot_20250712-025847"></td>
-    <td><img src="/assets/img/posts/SJkBXg8Uxe.png" alt="Screenshot_20250712-032256"></td>
+    <td><img src="/assets/img/posts/HkcEme8Uxx.jpg" alt="Screenshot_20250712-025847"></td>
+    <td><img src="/assets/img/posts/SJkBXg8Uxe.jpg" alt="Screenshot_20250712-032256"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (3a)
-![NP3a_Geekbench6_組圖](/assets/img/posts/Sy_BXgL8eg.png)
+![NP3a_Geekbench6_組圖](/assets/img/posts/Sy_BXgL8eg.jpg)
 <table>
   <tr>
-    <td><img src="/assets/img/posts/Hysr7lUIlg.png" alt="Screenshot_20250712-025851"></td>
-    <td><img src="/assets/img/posts/B1LU7xLIgl.png" alt="Screenshot_20250712-032524"></td>
+    <td><img src="/assets/img/posts/Hysr7lUIlg.jpg" alt="Screenshot_20250712-025851"></td>
+    <td><img src="/assets/img/posts/B1LU7xLIgl.jpg" alt="Screenshot_20250712-032524"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### CMF by Nothing Phone 1
-![CMF_Phone_1_Geekbench6_組圖](/assets/img/posts/rkDPXxILee.png)
+![CMF_Phone_1_Geekbench6_組圖](/assets/img/posts/rkDPXxILee.jpg)
 <table>
   <tr>
-    <td><img src="/assets/img/posts/B19PQl8Ull.png" alt="Screenshot_20250712-025934"></td>
-    <td><img src="/assets/img/posts/HyWu7eUIee.png" alt="Screenshot_20250712-032743"></td>
+    <td><img src="/assets/img/posts/B19PQl8Ull.jpg" alt="Screenshot_20250712-025934"></td>
+    <td><img src="/assets/img/posts/HyWu7eUIee.jpg" alt="Screenshot_20250712-032743"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (2a)
-![NP2a_Geekbench6_組圖](/assets/img/posts/rJcuXl8Ixg.png)
+![NP2a_Geekbench6_組圖](/assets/img/posts/rJcuXl8Ixg.jpg)
 <table>
   <tr>
-    <td><img src="/assets/img/posts/r1WYmeI8eg.png" alt="Screenshot_20250712-025901"></td>
-    <td><img src="/assets/img/posts/H1vKQxLLgl.png" alt="Screenshot_20250712-032415"></td>
+    <td><img src="/assets/img/posts/r1WYmeI8eg.jpg" alt="Screenshot_20250712-025901"></td>
+    <td><img src="/assets/img/posts/H1vKQxLLgl.jpg" alt="Screenshot_20250712-032415"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (2)
-![NP2_Geekbench6_組圖](/assets/img/posts/Bk7TVeUIgl.png)
+![NP2_Geekbench6_組圖](/assets/img/posts/Bk7TVeUIgl.jpg)
 <table>
   <tr>
-    <td><img src="/assets/img/posts/SyoA4gUIge.png" alt="Screenshot_20250717-111436"></td>
-    <td><img src="/assets/img/posts/BJbJHe8Ule.png" alt="Screenshot_20250717-113508"></td>
+    <td><img src="/assets/img/posts/SyoA4gUIge.jpg" alt="Screenshot_20250717-111436"></td>
+    <td><img src="/assets/img/posts/BJbJHe8Ule.jpg" alt="Screenshot_20250717-113508"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (1)
-![NP1_Geekbench6_組圖](/assets/img/posts/SkB9QlUIle.png)
+![NP1_Geekbench6_組圖](/assets/img/posts/SkB9QlUIle.jpg)
 <table>
   <tr>
-    <td><img src="/assets/img/posts/BkjcXeIIxe.png" alt="Screenshot_20250712-030001"></td>
-    <td><img src="/assets/img/posts/S1gsmlLUge.png" alt="Screenshot_20250712-032455"></td>
+    <td><img src="/assets/img/posts/BkjcXeIIxe.jpg" alt="Screenshot_20250712-030001"></td>
+    <td><img src="/assets/img/posts/S1gsmlLUge.jpg" alt="Screenshot_20250712-032455"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
@@ -192,11 +192,11 @@ Nothing Phone (3) 出廠即搭載目前最新的 Nothing OS 3.5 Android 15 版�
 
 #### 同場加映（QRD8735）：
 QRD8735 - Snapdragon 8s Gen4 高通參考設計
-![QRD8735_Geekbench6_組圖](/assets/img/posts/SyffwlILgl.png)
+![QRD8735_Geekbench6_組圖](/assets/img/posts/SyffwlILgl.jpg)
 <table>
   <tr>
-    <td><img src="/assets/img/posts/B19zwgIIgl.png" alt="Screenshot_20250714-070301"></td>
-    <td><img src="/assets/img/posts/SJHXDeL8ll.png" alt="Screenshot_20250714-072414"></td>
+    <td><img src="/assets/img/posts/B19zwgIIgl.jpg" alt="Screenshot_20250714-070301"></td>
+    <td><img src="/assets/img/posts/SJHXDeL8ll.jpg" alt="Screenshot_20250714-072414"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
@@ -211,7 +211,7 @@ QRD8735 - Snapdragon 8s Gen4 高通參考設計
 4. 後台沒有開啟任何程式，但軟體背景服務、通知全程開啟，模擬正常使用下的情況
 5. 手機已經先轉移所有應用程式資料
 
-<img src="/assets/img/posts/Syp_t5oUle.png" alt="Screenshot_20250721-092152" style="width: 500px;">
+<img src="/assets/img/posts/Syp_t5oUle.jpg" alt="Screenshot_20250721-092152" style="width: 500px;">
 
 
 Nothing Tech 台北南港辦公室參訪
@@ -245,19 +245,19 @@ Nothing Tech 台北南港辦公室參訪
 以及整合 ChatGPT 的功能，可以更快速的把截圖跟文字交給 ChatGPT 做分析或是討論，這個對於有購買 ChatGPT Plus / Pro 的人，那就是一大福音。
 <table>
   <tr>
-    <td><img src="/assets/img/posts/SyovorLIlg.png" alt="Screenshot_20250712-014353"></td>
-    <td><img src="/assets/img/posts/SkfdirLLgg.png" alt="Screenshot_20250712-014355"></td>
-    <td><img src="/assets/img/posts/S11FoBIIll.png" alt="Screenshot_20250712-014753"></td>
+    <td><img src="/assets/img/posts/SyovorLIlg.jpg" alt="Screenshot_20250712-014353"></td>
+    <td><img src="/assets/img/posts/SkfdirLLgg.jpg" alt="Screenshot_20250712-014355"></td>
+    <td><img src="/assets/img/posts/S11FoBIIll.jpg" alt="Screenshot_20250712-014753"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/BkcFoBULex.png" alt="Screenshot_20250712-014809"></td>
-    <td><img src="/assets/img/posts/BJr9orLIll.png" alt="Screenshot_20250712-014811"></td>
-    <td><img src="/assets/img/posts/BkaqoSULex.png" alt="Screenshot_20250712-014814"></td>
+    <td><img src="/assets/img/posts/BkcFoBULex.jpg" alt="Screenshot_20250712-014809"></td>
+    <td><img src="/assets/img/posts/BJr9orLIll.jpg" alt="Screenshot_20250712-014811"></td>
+    <td><img src="/assets/img/posts/BkaqoSULex.jpg" alt="Screenshot_20250712-014814"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/HyYssHLUxl.png" alt="Screenshot_20250712-014818"></td>
-    <td><img src="/assets/img/posts/Bys6jHLUxx.png" alt="Screenshot_20250712-014831"></td>
-    <td><img src="/assets/img/posts/r1CY2SI8gx.png" alt="Screenshot_20250712-014837"></td>
+    <td><img src="/assets/img/posts/HyYssHLUxl.jpg" alt="Screenshot_20250712-014818"></td>
+    <td><img src="/assets/img/posts/Bys6jHLUxx.jpg" alt="Screenshot_20250712-014831"></td>
+    <td><img src="/assets/img/posts/r1CY2SI8gx.jpg" alt="Screenshot_20250712-014837"></td>
   </tr>
 </table>
 Glyph Matrix
@@ -268,8 +268,8 @@ Glyph Matrix
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/B1H1-SULlg.png" alt="Screenshot_20250712-014308"></td>
-    <td><img src="/assets/img/posts/HyblfS88xe.png" alt="Screenshot_20250712-014346"></td>
+    <td><img src="/assets/img/posts/B1H1-SULlg.jpg" alt="Screenshot_20250712-014308"></td>
+    <td><img src="/assets/img/posts/HyblfS88xe.jpg" alt="Screenshot_20250712-014346"></td>
   </tr>
 </table>
 預先支援的小玩具就已經不少了，甚至 Nothing Tech 也有把 API 開源，可以讓玩家自己開發 Glyph Matrix 動態燈陣的小玩具
@@ -281,19 +281,19 @@ Glyph Matrix
 內建就已經有了以下 9 個小玩具可以選
 <table>
   <tr>
-    <td><img src="/assets/img/posts/rykGbrIIxx.png" alt="Screenshot_20250712-014313"></td>
-    <td><img src="/assets/img/posts/rkNzZHUUlg.png" alt="Screenshot_20250712-014316"></td>
-    <td><img src="/assets/img/posts/ryjzWBIUle.png" alt="Screenshot_20250712-014317"></td>
+    <td><img src="/assets/img/posts/rykGbrIIxx.jpg" alt="Screenshot_20250712-014313"></td>
+    <td><img src="/assets/img/posts/rkNzZHUUlg.jpg" alt="Screenshot_20250712-014316"></td>
+    <td><img src="/assets/img/posts/ryjzWBIUle.jpg" alt="Screenshot_20250712-014317"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/HkmNWBI8eg.png" alt="Screenshot_20250712-014319"></td>
-    <td><img src="/assets/img/posts/HyFNbSUUgl.png" alt="Screenshot_20250712-014321"></td>
-    <td><img src="/assets/img/posts/HkNYbSI8xl.png" alt="Screenshot_20250712-014325"></td>
+    <td><img src="/assets/img/posts/HkmNWBI8eg.jpg" alt="Screenshot_20250712-014319"></td>
+    <td><img src="/assets/img/posts/HyFNbSUUgl.jpg" alt="Screenshot_20250712-014321"></td>
+    <td><img src="/assets/img/posts/HkNYbSI8xl.jpg" alt="Screenshot_20250712-014325"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/SJNc-rIIee.png" alt="Screenshot_20250712-014327"></td>
-    <td><img src="/assets/img/posts/BJtqZBLIex.png" alt="Screenshot_20250712-014330"></td>
-    <td><img src="/assets/img/posts/S1xiZSULge.png" alt="Screenshot_20250712-014332"></td>
+    <td><img src="/assets/img/posts/SJNc-rIIee.jpg" alt="Screenshot_20250712-014327"></td>
+    <td><img src="/assets/img/posts/BJtqZBLIex.jpg" alt="Screenshot_20250712-014330"></td>
+    <td><img src="/assets/img/posts/S1xiZSULge.jpg" alt="Screenshot_20250712-014332"></td>
   </tr>
 </table>
 Nothing Camera 相機
@@ -353,7 +353,7 @@ About Me
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 - Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
-![image](/assets/img/posts/Bk1EYGfYA.png)
+![image](/assets/img/posts/Bk1EYGfYA.jpg)
 
 
 ###### tags: `Android` `Nothing` `Nothing Phone (3)` `ROM` `Nothing Tech` `Nothing Phone`

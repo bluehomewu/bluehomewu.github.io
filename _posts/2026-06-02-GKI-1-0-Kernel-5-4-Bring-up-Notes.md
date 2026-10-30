@@ -39,7 +39,7 @@ tags: [Android, Qualcomm, SM8350, lahaina, GKI, Kernel, Bring-up]
 
 接著查看 kernel tree 下的 `android/GKI_VERSION`，找出 kernel version 後方的 hash value。
 
-![android/GKI_VERSION 內的 kernel hash](/assets/img/posts/rkTw5d3lMx.png)
+![android/GKI_VERSION 內的 kernel hash](/assets/img/posts/rkTw5d3lMx.jpg)
 
 先用 kernel version 到 [Telegram Channel：CAF Release](https://t.me/CAFReleases) 或 [Telegram Channel：CLO Release](https://t.me/CLOReleases) 尋找大致的 tag 範圍，再選擇 Vendor Manifest，對照 `kernel/msm-5.4` repo 的 commit hash（revision）。
 
@@ -74,7 +74,7 @@ git subtree add --prefix=techpack/datarmnet-ext https://git.codelinaro.org/clo/l
 
 範例可以參考 [android_kernel_asus_sm8350 的 subtree commits](https://github.com/bluehomewu/android_kernel_asus_sm8350/commits/lineage-18.1-wip/?after=1bdc02b777a5323565350a020faff0289e4c5c70+34)。
 
-![使用 git subtree 匯入 Qualcomm 模組的 commits](/assets/img/posts/BJ7ryF2xzx.png)
+![使用 git subtree 匯入 Qualcomm 模組的 commits](/assets/img/posts/BJ7ryF2xzx.jpg)
 
 更新 Subtree
 ---
@@ -117,7 +117,7 @@ rsync -av --exclude="techpack" ~/LexarNM790/WorkSpace/asus_i007_stock_kernel_ASU
 2. [picasso: Move camera device trees into include path](https://github.com/bluehomewu/android_kernel_asus_sm8350/commit/22db7614eb1474b1b40d9333a95b2057eb4b90e9)
 3. [qcacld: Fix fw-api include dependencies](https://github.com/bluehomewu/android_kernel_asus_sm8350/commit/dff83019d7b41aa336508f399879d5e97f71a25b)
 
-![補回被 OEM source 覆蓋的 Qualcomm techpack 改動](/assets/img/posts/BJ3IxKhlMg.png)
+![補回被 OEM source 覆蓋的 Qualcomm techpack 改動](/assets/img/posts/BJ3IxKhlMg.jpg)
 
 匯入 DTS 與 Techpack
 ---
@@ -126,7 +126,7 @@ rsync -av --exclude="techpack" ~/LexarNM790/WorkSpace/asus_i007_stock_kernel_ASU
 
 DTS 完成之後，剩下的 techpack OEM 改動也要匯入。techpack 的部分我全部直接覆蓋；如果遇到 OEM 沒有修改的部分，就先忽略。
 
-![匯入 ASUS DTS 與 techpack 改動的 commits](/assets/img/posts/S1YLbYhlGe.png)
+![匯入 ASUS DTS 與 techpack 改動的 commits](/assets/img/posts/S1YLbYhlGe.jpg)
 
 後面剩下的，就是 bring-up 過程中還需要補上的 commits。
 

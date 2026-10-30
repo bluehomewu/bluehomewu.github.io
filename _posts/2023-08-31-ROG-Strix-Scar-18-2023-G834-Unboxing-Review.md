@@ -56,19 +56,19 @@ Nvidia GeForce RTX 4090 Laptop 也同時是 Nvidia 在 Laptop 產品線當中提
 
 
 ###### ROG Strix SCAR 18(2023) 工作管理員截圖
-![](/assets/img/posts/H1mMvfenn.png)
+![](/assets/img/posts/H1mMvfenn.jpg)
 
 ###### ROG Strix SCAR 18 的外觀具有酷炫燈飾造型以及代表 ROG 品牌的「敗家之眼」LOGO 
 ![P_20230809_230749](/assets/img/posts/SyXIERHG0.jpg)
 
 ###### WSL2 環境截圖
-![](/assets/img/posts/HySWDzl22.png)
+![](/assets/img/posts/HySWDzl22.jpg)
 
 ###### 系統資訊頁面截圖
-![](/assets/img/posts/H1RGPfgnn.png)
+![](/assets/img/posts/H1RGPfgnn.jpg)
 
 ###### ArrowOS 13.1 小米平板 5Pro 於 WSL2 環境下的完成編譯所花費的時間
-![](/assets/img/posts/HJDnVag23.png)
+![](/assets/img/posts/HJDnVag23.jpg)
 
 ###### 使用 ROG Strix SCAR 18 i9-13980HX 編譯 Xiaomi Pad 5 Pro(elish) ArrowOS 13.1 (Clean Build)
 <iframe width="560" height="315"
@@ -118,6 +118,6 @@ About Me
 - HackMD : [@EdwardWu](https://hackmd.io/@EdwardWu)
 - Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
-![](/assets/img/posts/rJJiX-pT2.png)
+![](/assets/img/posts/rJJiX-pT2.jpg)
 
 ###### tags: `ROG` `Android` `Laptop` `ROM` `Intel 2th 校園大使`

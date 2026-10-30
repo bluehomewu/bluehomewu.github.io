@@ -64,8 +64,8 @@ N5105 配合 Linux 的記憶體快取機制，加上 HDD RAID 0 本身不錯的�
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/S1Tzg4JDZl.png" alt="20260203-162128"></td>
-    <td><img src="/assets/img/posts/SkVHn71vZl.png" alt="20260203-160501"></td>
+    <td><img src="/assets/img/posts/S1Tzg4JDZl.jpg" alt="20260203-162128"></td>
+    <td><img src="/assets/img/posts/SkVHn71vZl.jpg" alt="20260203-160501"></td>
   </tr>
 </table>
 
@@ -80,7 +80,7 @@ N5105 配合 Linux 的記憶體快取機制，加上 HDD RAID 0 本身不錯的�
 *   **解碼能力**：N150 更新的核顯架構（Intel Alder Lake-N [Intel Graphics]），對於 HEVC 10bit 的硬解效率極高。配合 SSD 的高速 I/O，即便是多台設備同時串流，也沒有出現過緩衝轉圈的現象。
 *   **體驗**：這才是我心目中理想的「家庭私有 Netflix」。
 
-![20260203-161151](/assets/img/posts/HywxRm1PZl.png)
+![20260203-161151](/assets/img/posts/HywxRm1PZl.jpg)
 
 ### 🌏 介面體驗：在地化的最後一哩路
 在操作介面上，**Asustor** 畢竟是台灣廠商（華碩集團），ADM 的繁體中文用語、習慣絕對是原生級別的親切與精準。
@@ -99,7 +99,7 @@ N5105 配合 Linux 的記憶體快取機制，加上 HDD RAID 0 本身不錯的�
 在 **Asustor AS6702T v2** 上，我已經調校好了一整套穩定的 Docker 環境。ADM 系統經過多年的迭代，在網路堆疊（Network Stack）和儲存管理的穩定性上，讓我非常放心。我的 Home Assistant、Ollama、Code-Server 都在這裡。  
 我不希望因為我在 Evo 2 上折騰影音轉碼、或者頻繁測試新功能，而影響到這些全屋智慧核心的運作。
 
-![20260203-161702](/assets/img/posts/B1bX14kw-g.png)
+![20260203-161702](/assets/img/posts/B1bX14kw-g.jpg)
 
 ### 
 
@@ -139,6 +139,6 @@ About Me
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 - Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
-![image](/assets/img/posts/Bk1EYGfYA.png)
+![image](/assets/img/posts/Bk1EYGfYA.jpg)
 
 ###### tags: `Android` `FnOS` `Fn Evo 2` `FnNAS` `ROM` `AS6702T v2` `True-NAS`

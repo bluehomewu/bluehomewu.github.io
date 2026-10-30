@@ -73,9 +73,9 @@ Nothing OS
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/B1NCdsGhyx.png" alt="Screenshot_20250309-170952"></td>
-    <td><img src="/assets/img/posts/BkA0dsMh1x.png" alt="Screenshot_20250306-231410"></td>
-    <td><img src="/assets/img/posts/BkO1tsGnyl.png" alt="Screenshot_20250309-170812"></td>
+    <td><img src="/assets/img/posts/B1NCdsGhyx.jpg" alt="Screenshot_20250309-170952"></td>
+    <td><img src="/assets/img/posts/BkA0dsMh1x.jpg" alt="Screenshot_20250306-231410"></td>
+    <td><img src="/assets/img/posts/BkO1tsGnyl.jpg" alt="Screenshot_20250309-170812"></td>
   </tr>
 </table>
 這次 Nothing Phone (3a) & (3a) Pro 採用的是比目前在售的機型還要更新的 Nothing OS 3.1。而我也發現，兩台機型所使用的系統韌體是同樣的，也就是說兩台機型代號其實是相同的，因此在許多地方會有非常接近的表現，不論是相機的 HDR 演算法或是遊戲效能體驗，可說是雙生機種。
@@ -98,8 +98,8 @@ Nothing OS
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/rJVrvpM31x.png" alt="A059_Asteroids-V3.1-250302-1856_Geekbench6"></td>
-    <td><img src="/assets/img/posts/BkEww6Mh1g.png" alt="Screenshot_20250309-232220"></td>
+    <td><img src="/assets/img/posts/rJVrvpM31x.jpg" alt="A059_Asteroids-V3.1-250302-1856_Geekbench6"></td>
+    <td><img src="/assets/img/posts/BkEww6Mh1g.jpg" alt="Screenshot_20250309-232220"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 4 次的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
@@ -108,8 +108,8 @@ Nothing OS
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/BJoOuafnJl.png" alt="A059P_Asteroids-V3.1-250302-1856_Geekbench6"></td>
-    <td><img src="/assets/img/posts/H1eK_pM3kg.png" alt="Screenshot_20250309-232219"></td>
+    <td><img src="/assets/img/posts/BJoOuafnJl.jpg" alt="A059P_Asteroids-V3.1-250302-1856_Geekbench6"></td>
+    <td><img src="/assets/img/posts/H1eK_pM3kg.jpg" alt="Screenshot_20250309-232219"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 4 次的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
@@ -120,8 +120,8 @@ Nothing OS
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/SkLVFaMhyg.png" alt="A142_Pacman-V3.0-250114-1909_Geekbench6"></td>
-    <td><img src="/assets/img/posts/rylsVt6G2kl.png" alt="Screenshot_20250309-232220"></td>
+    <td><img src="/assets/img/posts/SkLVFaMhyg.jpg" alt="A142_Pacman-V3.0-250114-1909_Geekbench6"></td>
+    <td><img src="/assets/img/posts/rylsVt6G2kl.jpg" alt="Screenshot_20250309-232220"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 4 次的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
@@ -130,8 +130,8 @@ Nothing OS
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/S1QLFafh1g.png" alt="A065_Pong-V3.0-250113-1723_Geekbench6"></td>
-    <td><img src="/assets/img/posts/H12UYafhye.png" alt="Screenshot_20250309-232217"></td>
+    <td><img src="/assets/img/posts/S1QLFafh1g.jpg" alt="A065_Pong-V3.0-250113-1723_Geekbench6"></td>
+    <td><img src="/assets/img/posts/H12UYafhye.jpg" alt="Screenshot_20250309-232217"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 4 次的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
@@ -151,12 +151,12 @@ Essential Space 是這次 Nothing Phone (3a) 主打的新功能，Carl Pei 曾�
 以下使用幾張截圖，展示 Essential Space 的功能。
 <table>
   <tr>
-    <td><img src="/assets/img/posts/Bkg3uCMnyg.png" alt="Screenshot_20250315-175107"></td>
-    <td><img src="/assets/img/posts/HkchuAznJl.png" alt="Screenshot_20250315-175135"></td>
+    <td><img src="/assets/img/posts/Bkg3uCMnyg.jpg" alt="Screenshot_20250315-175107"></td>
+    <td><img src="/assets/img/posts/HkchuAznJl.jpg" alt="Screenshot_20250315-175135"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/H1rTdAMnJl.png" alt="Screenshot_20250315-175138"></td>
-    <td><img src="/assets/img/posts/BktTO0znyg.png" alt="Screenshot_20250315-175825"></td>
+    <td><img src="/assets/img/posts/H1rTdAMnJl.jpg" alt="Screenshot_20250315-175138"></td>
+    <td><img src="/assets/img/posts/BktTO0znyg.jpg" alt="Screenshot_20250315-175825"></td>
   </tr>
 </table>
 不過，根據外媒的深入體驗，現在 Essential Space 對於混和語言輸入，還是有些困難，如果一下混和中文加上英文，亦或者是具有特殊口音的英文，經常會有辨識錯誤的問題。  
@@ -191,7 +191,7 @@ Nothing Camera 相機
 </table>
 ▼ 以下是對照組 30x 以及原始 1x 的距離差異。
 - 即使原本就有支援 OIS，但由於傳感器的特性，放大倍率越大，輕微的抖動就越明顯，因此還是不建議放到這麼大來做拍攝，除非有額外使用三軸穩定器。
-<img src="/assets/img/posts/SJJBOJ731x.png" alt="Screenshot_20250309-162127" style="width: 50%;">
+<img src="/assets/img/posts/SJJBOJ731x.jpg" alt="Screenshot_20250309-162127" style="width: 50%;">
 
 ▼ 由 Nothing Phone (3a) Pro 拍攝
 <table>
@@ -216,8 +216,8 @@ Nothing Camera 相機
 ▼ 以下是對照組 60x 以及原始 1x 的距離差異。
 <table>
   <tr>
-    <td><img src="/assets/img/posts/Skq-i1QhJl.png" alt="Screenshot_20250309-162206"></td>
-    <td><img src="/assets/img/posts/B1lmsy7nke.png" alt="Screenshot_20250309-162845"></td>
+    <td><img src="/assets/img/posts/Skq-i1QhJl.jpg" alt="Screenshot_20250309-162206"></td>
+    <td><img src="/assets/img/posts/B1lmsy7nke.jpg" alt="Screenshot_20250309-162845"></td>
   </tr>
   <tr>
     <td><img src="/assets/img/posts/Bk6Pi17nJg.jpg" alt="IMG_20250309_162207200"></td>
@@ -266,7 +266,7 @@ About Me
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 - Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
-![image](/assets/img/posts/Bk1EYGfYA.png)
+![image](/assets/img/posts/Bk1EYGfYA.jpg)
 
 
 ###### tags: `Android` `Nothing` `Nothing Phone (3a)` `Nothing Phone (3a) Pro` `ROM` `Nothing Tech` `CMF`

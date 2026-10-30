@@ -202,12 +202,12 @@ Z11 同樣繼承了 vivo 家族實用的跨裝置生態。其中的「一碰傳�
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/Hy1PpUOZze.png" alt="Vivo 辦公套件官網"></td>
-    <td><img src="/assets/img/posts/H1cMAU_WMe.png" alt="Vivo 辦公套件 Windows 版"></td>
+    <td><img src="/assets/img/posts/Hy1PpUOZze.jpg" alt="Vivo 辦公套件官網"></td>
+    <td><img src="/assets/img/posts/H1cMAU_WMe.jpg" alt="Vivo 辦公套件 Windows 版"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/BylsRLO-Mx.png" alt="手機檔案分享 & 螢幕分享"></td>
-    <td><img src="/assets/img/posts/Sy8wxwOZGl.png" alt="Vivo 辦公套件 iPadOS 版"></td>
+    <td><img src="/assets/img/posts/BylsRLO-Mx.jpg" alt="手機檔案分享 & 螢幕分享"></td>
+    <td><img src="/assets/img/posts/Sy8wxwOZGl.jpg" alt="Vivo 辦公套件 iPadOS 版"></td>
   </tr>
 </table>
 
@@ -240,7 +240,7 @@ NFC 門禁卡模擬則是另一個加分項。它可以把實體感應卡寫入�
 - 所有設定均使用系統預設值
 
 #### iQOO Z11
-![iQOO Z11 GeekBench 6 組圖](/assets/img/posts/BJX1dPdWzl.png)
+![iQOO Z11 GeekBench 6 組圖](/assets/img/posts/BJX1dPdWzl.jpg)
 <table>
   <tr>
     <td><img src="/assets/img/posts/rkhuOvdWGe.jpg" alt="iQOO Z11 安兔兔測試"></td>

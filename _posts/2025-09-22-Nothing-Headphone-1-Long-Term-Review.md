@@ -153,12 +153,12 @@ Nothing X
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/r1xTUYAsel.png" alt="Screenshot_20250803-013837"></td>
-    <td><img src="/assets/img/posts/HySKvFAoel.png" alt="Screenshot_20250803-014422"></td>
+    <td><img src="/assets/img/posts/r1xTUYAsel.jpg" alt="Screenshot_20250803-013837"></td>
+    <td><img src="/assets/img/posts/HySKvFAoel.jpg" alt="Screenshot_20250803-014422"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/HkKBvYCixl.png" alt="Screenshot_20250805-123426"></td>
-    <td><img src="/assets/img/posts/Hyv8DtRsxg.png" alt="Screenshot_20250820-110325"></td>
+    <td><img src="/assets/img/posts/HkKBvYCixl.jpg" alt="Screenshot_20250805-123426"></td>
+    <td><img src="/assets/img/posts/Hyv8DtRsxg.jpg" alt="Screenshot_20250820-110325"></td>
   </tr>
 </table>
 
@@ -166,31 +166,31 @@ Nothing X
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/rJHwaY0oxe.png" alt="image"></td>
-    <td><img src="/assets/img/posts/rykdpF0olx.png" alt="image"></td>
+    <td><img src="/assets/img/posts/rJHwaY0oxe.jpg" alt="image"></td>
+    <td><img src="/assets/img/posts/rykdpF0olx.jpg" alt="image"></td>
   </tr>
 </table>
 
 還有一組 EQ 設定檔是來自加拿大的科技 Youtuber "Linus Gabriel Sebastian"， Youtube 頻道 "Linus Tech Tips" 提供的
 
-![image](/assets/img/posts/rJQWAYRogg.png)
+![image](/assets/img/posts/rJQWAYRogg.jpg)
 [Ref Link](https://youtu.be/gTzzJiM1RZc?si=tXwZuPRK2FD7g44j&t=409)
 
 我自己其實聽不太出來兩者之間的區別，但目前我主要是使用大陸博主「削腚恶」提供的設定檔，作為日常使用。
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/ryiY0YRoel.png" alt="Screenshot_20250917-204009"></td>
-    <td><img src="/assets/img/posts/H1l9CY0ixg.png" alt="Screenshot_20250917-204012"></td>
+    <td><img src="/assets/img/posts/ryiY0YRoel.jpg" alt="Screenshot_20250917-204009"></td>
+    <td><img src="/assets/img/posts/H1l9CY0ixg.jpg" alt="Screenshot_20250917-204012"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/B1koAK0ogl.png" alt="Screenshot_20250917-204104"></td>
-    <td><img src="/assets/img/posts/HJtoAK0sxx.png" alt="Screenshot_20250917-204112"></td>
+    <td><img src="/assets/img/posts/B1koAK0ogl.jpg" alt="Screenshot_20250917-204104"></td>
+    <td><img src="/assets/img/posts/HJtoAK0sxx.jpg" alt="Screenshot_20250917-204112"></td>
   </tr>
 </table>
 
 同時，Nothing Headphone (1) 也支援空間音訊的音訊模式，更有身臨其境的感覺。
-![Screenshot_20250917-204126](/assets/img/posts/Byylk9Aoxl.png)
+![Screenshot_20250917-204126](/assets/img/posts/Byylk9Aoxl.jpg)
 
 總結
 ---
@@ -218,6 +218,6 @@ About Me
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 - Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
-![image](/assets/img/posts/Bk1EYGfYA.png)
+![image](/assets/img/posts/Bk1EYGfYA.jpg)
 
 ###### tags: `Android` `Nothing` `Nothing Headphone (1)` `ROM` `Nothing Tech` `Nothing Headphone`

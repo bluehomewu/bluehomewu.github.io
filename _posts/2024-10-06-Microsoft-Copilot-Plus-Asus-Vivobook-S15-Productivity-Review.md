@@ -117,12 +117,12 @@ ASUS 目前已有許多 Laptop 產品，都是採用 OLED 的螢幕，發色相�
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/HknFfNFCR.png" alt="ASUS Vivibook S S5507QA PR Kit_20230412中文_頁面_06"></td>
-    <td><img src="/assets/img/posts/rk0sfEFC0.png" alt="ASUS Vivibook S S5507QA PR Kit_20230412中文_頁面_08"></td>
+    <td><img src="/assets/img/posts/HknFfNFCR.jpg" alt="ASUS Vivibook S S5507QA PR Kit_20230412中文_頁面_06"></td>
+    <td><img src="/assets/img/posts/rk0sfEFC0.jpg" alt="ASUS Vivibook S S5507QA PR Kit_20230412中文_頁面_08"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/B1DJmVK0C.png" alt="ASUS Vivibook S S5507QA PR Kit_20230412中文_頁面_14"></td>
-    <td><img src="/assets/img/posts/B1FxXEFRA.png" alt="ASUS Vivibook S S5507QA PR Kit_20230412中文_頁面_37"></td>
+    <td><img src="/assets/img/posts/B1DJmVK0C.jpg" alt="ASUS Vivibook S S5507QA PR Kit_20230412中文_頁面_14"></td>
+    <td><img src="/assets/img/posts/B1FxXEFRA.jpg" alt="ASUS Vivibook S S5507QA PR Kit_20230412中文_頁面_37"></td>
   </tr>
 </table>
 ### 硬體效能
@@ -134,11 +134,11 @@ ASUS 目前已有許多 Laptop 產品，都是採用 OLED 的螢幕，發色相�
   <tr style="background-color: transparent;">
     <td style="text-align: center; border: none; padding: 10px;">
       <p><strong>CPU-Z Arm64</strong></p>
-      <img src="/assets/img/posts/BJfRS4fCR.png" alt="CPU-Z Arm64" style="max-width:100%; display: block; margin: auto;">
+      <img src="/assets/img/posts/BJfRS4fCR.jpg" alt="CPU-Z Arm64" style="max-width:100%; display: block; margin: auto;">
     </td>
     <td style="text-align: center; border: none; padding: 10px;">
       <p><strong>CPU-Z x86_64</strong></p>
-      <img src="/assets/img/posts/Sk7NIVfRR.png" alt="CPU-Z x86-64" style="max-width:100%; display: block; margin: auto;">
+      <img src="/assets/img/posts/Sk7NIVfRR.jpg" alt="CPU-Z x86-64" style="max-width:100%; display: block; margin: auto;">
     </td>
   </tr>
   <tr style="background-color: transparent;">
@@ -148,17 +148,17 @@ ASUS 目前已有許多 Laptop 產品，都是採用 OLED 的螢幕，發色相�
     </td>
     <td style="text-align: center; border: none; padding: 10px;">
       <p><strong>Geekbench6 Arm64</strong></p>
-      <img src="/assets/img/posts/BJfA8EfC0.png" alt="Geekbench6 Arm64" style="max-width:100%; display: block; margin: auto;">
+      <img src="/assets/img/posts/BJfA8EfC0.jpg" alt="Geekbench6 Arm64" style="max-width:100%; display: block; margin: auto;">
     </td>
   </tr>
   <tr style="background-color: transparent;">
     <td style="text-align: center; border: none; padding: 10px;">
       <p><strong>Geekbench6 OpenCL</strong></p>
-      <img src="/assets/img/posts/HkPRUVMRA.png" alt="Geekbench6 OpenCL" style="max-width:100%; display: block; margin: auto;">
+      <img src="/assets/img/posts/HkPRUVMRA.jpg" alt="Geekbench6 OpenCL" style="max-width:100%; display: block; margin: auto;">
     </td>
     <td style="text-align: center; border: none; padding: 10px;">
       <p><strong>Geekbench6 Vulkan</strong></p>
-      <img src="/assets/img/posts/Hkp0L4M00.png" alt="Geekbench6 Vulkan" style="max-width:100%; display: block; margin: auto;">
+      <img src="/assets/img/posts/Hkp0L4M00.jpg" alt="Geekbench6 Vulkan" style="max-width:100%; display: block; margin: auto;">
     </td>
   </tr>
   <tr style="background-color: transparent;">
@@ -170,11 +170,11 @@ ASUS 目前已有許多 Laptop 產品，都是採用 OLED 的螢幕，發色相�
 </table>
 
 - 在 Windows On Arm 產品當中，對比 x86_64 平台有著最明顯的優勢則是在電源管理的環節。
-![Battery](/assets/img/posts/HJMkpQtR0.png)
+![Battery](/assets/img/posts/HJMkpQtR0.jpg)
     在平衡模式下，剩餘約 82% 的電量時，預估可用時間仍舊長達 7 小時。可見不僅是高通對於 Snapdragon X Elite 產品以及華碩最佳化的效果都是顯而易見的。  
     在這一個月的使用體驗，我將 ASUS Vivobook S15 攜帶出門到咖啡廳工作，在剛進咖啡廳時，配有插座的座位，都已有人在使用。當下我電池只剩下 80%（前次充電使用了 MyAsus 程式內的「電池保養模式」，也因此沒有充飽就出門了。）歷經接近 8 小時的工作，期間大量使用網路傳輸檔案以及進行許多文書編輯、多開瀏覽器甚至還有花上數小時在進行 coding，透過 Arm 版本的 VScode 連接 WSL2 On Arm64，也算是不小的負載。直到我回到家時，電池還剩下約 20% 左右的電量。
 - 驗明正身 WSL2 On Arm64
-![image](/assets/img/posts/r1qikNYAA.png)
+![image](/assets/img/posts/r1qikNYAA.jpg)
 在開發過程中，我也嘗試讓 WSL2 On Arm64 支援 Snapdragon X Elite 的 NPU 進行計算，不過礙於 Microsoft 的開發進度，現階段仍舊無法讓 NPU 被 WSL2 所支援使用，我想類似的問題應該也預期會發生在 x86_64 新平台的處理器。
 
 
@@ -183,13 +183,13 @@ ASUS 目前已有許多 Laptop 產品，都是採用 OLED 的螢幕，發色相�
 高通對於網路通訊相關的技術還是相當優秀的，也因此在 Snapdragon X Elite 產品當中所使用的無線網路卡，也符合 WiFi 7 的要求。  
 對於我在內網有架設 NAS 並且連接上 2.5Gbps 網路的生產力工作者，可說是一大福音。
 
-![WiFi7_RT-BE88U-2](/assets/img/posts/BJOthTGCR.png)
+![WiFi7_RT-BE88U-2](/assets/img/posts/BJOthTGCR.jpg)
 
 不過有一個硬體上的缺點，只有支援 2x2，也因此可以在上圖中發現，無法達到 RT-BE88U 宣稱的速率，屬實有些可惜。
-![ASUS Vivibook S S5507QA PR Kit_20230412中文_頁面_41](/assets/img/posts/SJWzS4YCC.png)
+![ASUS Vivibook S S5507QA PR Kit_20230412中文_頁面_41](/assets/img/posts/SJWzS4YCC.jpg)
 
 可以參考 [RT-BE88U 5Ghz 跑不到 5764Mbps上限](https://zentalk.asus.com/t5/%E7%B6%B2%E9%80%9A%E7%94%A2%E5%93%81/rt-be88u-5ghz-%E8%B7%91%E4%B8%8D%E5%88%B0-5764mbps%E4%B8%8A%E9%99%90/td-p/445010) 當中華碩小編的回覆。
-![image](/assets/img/posts/SkMR_NYAR.png)
+![image](/assets/img/posts/SkMR_NYAR.jpg)
 
 
 ### 華碩獨家 AI 應用程式 - StoryCube
@@ -207,16 +207,16 @@ StoryCube 還提供了智慧標籤功能，讓你可以輕鬆地為照片增加�
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/SkG9YNfRA.png" alt="StoryCube_1"></td>
-    <td><img src="/assets/img/posts/H1q_FVM0C.png" alt="StoryCube_2"></td>
+    <td><img src="/assets/img/posts/SkG9YNfRA.jpg" alt="StoryCube_1"></td>
+    <td><img src="/assets/img/posts/H1q_FVM0C.jpg" alt="StoryCube_2"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/S1HtFNzRA.png" alt="StoryCube_3"></td>
-    <td><img src="/assets/img/posts/H1uqKEf00.png" alt="StoryCube_4"></td>
+    <td><img src="/assets/img/posts/S1HtFNzRA.jpg" alt="StoryCube_3"></td>
+    <td><img src="/assets/img/posts/H1uqKEf00.jpg" alt="StoryCube_4"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/H16iK4G0A.png" alt="StoryCube_5"></td>
-    <td><img src="/assets/img/posts/rJm2tVfAC.png" alt="StoryCube_6"></td>
+    <td><img src="/assets/img/posts/H16iK4G0A.jpg" alt="StoryCube_5"></td>
+    <td><img src="/assets/img/posts/rJm2tVfAC.jpg" alt="StoryCube_6"></td>
   </tr>
 </table>
 Vivobook S15 不止提供 Microsoft 於 Windows On Arm 24H2 版本中提供的系統級 AI 智慧應用程式，華碩也針對使用者的角度出發，開發了這套 StoryCube，幫助使用者管理照片。
@@ -225,7 +225,7 @@ Vivobook S15 不止提供 Microsoft 於 Windows On Arm 24H2 版本中提供的�
 > 看到這裡，不知道各位對於上段提到的 ASUS StoryCube 的說明，是否會覺得有股 AI 味。<br>如果我不說，是否可以判斷出 ASUS StoryCube 的說明，其實是我透過 Copilot+ 產生出來的呢？
 
 現如今，在工作場景上，許許多多的文字整理內容，皆可以透過 AI 來協助產生或是分析、重點總結，這不僅大大提升工作效率，也可以用不同角度協助使用者來敘述、分析情境。
-![Copilot+](/assets/img/posts/SkmYpVM0C.png)
+![Copilot+](/assets/img/posts/SkmYpVM0C.jpg)
 
 得益於 Snapdragon X Elite SOC 具有 45 TOPS 的 NPU 算力，因此使用 Copilot+ 執行工作也顯得毫無壓力。
 
@@ -233,11 +233,11 @@ Vivobook S15 不止提供 Microsoft 於 Windows On Arm 24H2 版本中提供的�
 > ###### 免責聲明：<br>以下 CRD 測試數據均來自 Qualcomm Device Cloud(QDC) 線上平台的測試機台，參考設計機台不代表最終實際硬體效能。<br>測試數據為我個人親自測試，由於有簽屬相關協議，僅能供我個人做使用，如有其他人使用我的測試數據，不排除高通會採取相應措施。
 
 - CPU-Z Arm64
-![CPU-Z_Arm64](/assets/img/posts/HJx79FTfCA.png)
+![CPU-Z_Arm64](/assets/img/posts/HJx79FTfCA.jpg)
 - CPU-Z x86-64
-![CPU-Z_x86-64-1](/assets/img/posts/S1YsFpM00.png)
+![CPU-Z_x86-64-1](/assets/img/posts/S1YsFpM00.jpg)
 - Cinebench Arm64
-![Cinebench_Arm64-1](/assets/img/posts/rk_TtafAC.png)
+![Cinebench_Arm64-1](/assets/img/posts/rk_TtafAC.jpg)
 - 7-Zip Arm64
 ![7-Zip_Arm64](/assets/img/posts/rJRRFaGRC.png)
 - Geekbench6 Arm64 沒辦法在 CRD 中執行上傳成績
@@ -245,7 +245,7 @@ Vivobook S15 不止提供 Microsoft 於 Windows On Arm 24H2 版本中提供的�
 
 #### 順便附帶先前測試過的 CRD Snapdragon X Elite X1E80100
 - CPU-Z x86-64 / Arm64
-![connection (6)](/assets/img/posts/Hk1-sTGAA.png)
+![connection (6)](/assets/img/posts/Hk1-sTGAA.jpg)
 
 總結
 ---
@@ -265,7 +265,7 @@ About Me
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 - Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
-![image](/assets/img/posts/Bk1EYGfYA.png)
+![image](/assets/img/posts/Bk1EYGfYA.jpg)
 
 
 ###### tags: `ASUS` `Snapdragon` `ASUS Vivobook S15 S5507` `Snapdragon X Elite` `ASUS Taiwan` `Qualcomm`

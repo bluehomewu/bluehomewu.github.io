@@ -49,8 +49,8 @@ Nothing Phone (2a) 評測文章
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/ByQ4_ag4C.png" alt="Screenshot_20240526-222942"></td>
-    <td><img src="/assets/img/posts/rydXPTxVC.png" alt="Screenshot_20240526-200247"></td>
+    <td><img src="/assets/img/posts/ByQ4_ag4C.jpg" alt="Screenshot_20240526-222942"></td>
+    <td><img src="/assets/img/posts/rydXPTxVC.jpg" alt="Screenshot_20240526-200247"></td>
   </tr>
 </table>
 
@@ -146,9 +146,9 @@ ChatGPT for Nothing Ear Products
 首先需要使用 Nothing Phone 搭配這些支援的耳機，於 Nothing X APP 內部進行設定。
 <table>
   <tr>
-    <td><img src="/assets/img/posts/r1lwghg4R.png" alt="Screenshot_20240519-012439"></td>
-    <td><img src="/assets/img/posts/HkrPe2lNR.png" alt="Screenshot_20240526-204938"></td>
-    <td><img src="/assets/img/posts/HyYvl2eNA.png" alt="Screenshot_20240526-204946"></td>
+    <td><img src="/assets/img/posts/r1lwghg4R.jpg" alt="Screenshot_20240519-012439"></td>
+    <td><img src="/assets/img/posts/HkrPe2lNR.jpg" alt="Screenshot_20240526-204938"></td>
+    <td><img src="/assets/img/posts/HyYvl2eNA.jpg" alt="Screenshot_20240526-204946"></td>
   </tr>
 </table>
 總結
@@ -174,7 +174,7 @@ About Me
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 - Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
-![image](/assets/img/posts/BkxA3yHz0.png)
+![image](/assets/img/posts/BkxA3yHz0.jpg)
 
 
 

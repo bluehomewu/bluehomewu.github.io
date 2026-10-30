@@ -30,7 +30,7 @@ categories: [Nothing Tech 產品評測]
 
 **參考來源：** [spike0en/nothing_archive - Backing Up Essential Partitions](https://github.com/spike0en/nothing_archive?tab=readme-ov-file#backing-up-essential-partitions-after-unlocking-bootloader)
 
-![image](/assets/img/posts/BJLLDJRu-g.png)
+![image](/assets/img/posts/BJLLDJRu-g.jpg)
 
 根據文件說明，修復過程需要刷寫 `persist` 分區。  
 然而，當我將備份的 `persist.img` 刷入 DVT 之後，手機卻無法進入系統，並反覆重啟至 Recovery 模式提示需要「Wipe Data」。  
@@ -53,7 +53,7 @@ fastboot flash nvcfg nvcfg.img
 
 刷入完成後，基帶即成功恢復。此時 IMS 與行動網路皆可正常運作。
 
-![image](/assets/img/posts/r1dbF1Cd-x.png)
+![image](/assets/img/posts/r1dbF1Cd-x.jpg)
 
 從截圖中可以看到，狀態列的 VoLTE 與 VoWi-Fi 已成功註冊，經測試撥打電話也完全正常。不過，此時的 IMEI 仍顯示為未知（null）。
 
@@ -70,7 +70,7 @@ fastboot flash nvcfg nvcfg.img
 1.  **Load DB 階段：** 程式會詢問要從檔案載入還是從手機讀取，請直接選擇 **"Load from target"**。
 2.  **IMEI 格式：** 填寫時僅需輸入前 14 位數字。通常 IMEI 為 15 位，最後一位是校驗碼（Checksum），程式會自動計算並補全，無需手動輸入。
 
-![image](/assets/img/posts/r15Nj10d-e.png)
+![image](/assets/img/posts/r15Nj10d-e.jpg)
 
 至此，這台 Nothing Phone (2a) DVT 的基帶與 IMEI 已完全恢復正常。
 
@@ -82,6 +82,6 @@ About Me
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 - Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
-![image](/assets/img/posts/Bk1EYGfYA.png)
+![image](/assets/img/posts/Bk1EYGfYA.jpg)
 
 ###### tags: `Android` `Nothing` `Nothing Phone (2a)` `ROM` `Nothing Tech`

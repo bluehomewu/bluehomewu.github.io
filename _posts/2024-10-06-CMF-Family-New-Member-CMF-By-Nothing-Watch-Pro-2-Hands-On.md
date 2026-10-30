@@ -128,7 +128,7 @@ About Me
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 - Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
-![image](/assets/img/posts/Bk1EYGfYA.png)
+![image](/assets/img/posts/Bk1EYGfYA.jpg)
 
 
 ###### tags: `Android` `Nothing` `CMF By Nothing Watch Pro 2` `ROM` `Nothing Tech` `CMF`

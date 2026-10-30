@@ -66,9 +66,9 @@ Nothing Phone (2a)
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/SJpnLK4GC.png" alt="Screenshot_20240503-182403"></td>
-    <td><img src="/assets/img/posts/SkeOvFVzC.png" alt="Screenshot_20240503-182821~2"></td>
-    <td><img src="/assets/img/posts/rJGAUFVGA.png" alt="Screenshot_20240503-184648"></td>
+    <td><img src="/assets/img/posts/SJpnLK4GC.jpg" alt="Screenshot_20240503-182403"></td>
+    <td><img src="/assets/img/posts/SkeOvFVzC.jpg" alt="Screenshot_20240503-182821~2"></td>
+    <td><img src="/assets/img/posts/rJGAUFVGA.jpg" alt="Screenshot_20240503-184648"></td>
   </tr>
 </table>
 這次的 Nothing Phone (2a) 使用了聯發科天璣 7200 Pro 中階 SOC，性能上雖不及前一代旗艦產品定位的 Nothing Phone (2)。儘管性能上有所不足，但實際使用後，感受意外地流暢，超出預期。  
@@ -81,18 +81,18 @@ Nothing OS
 而我也隨手測試了 Nothing Phone (2a) 於 Nothing OS 2.5.5a 上的效能。
 <table>
   <tr>
-    <td><img src="/assets/img/posts/rJPhWjEGR.png" alt="Nothing Phone (2a) NothingOS 2.5.5a"></td>
-    <td><img src="/assets/img/posts/Hy86-sVGR.png" alt="Nothing Phone (2a) 3DMark"></td>
+    <td><img src="/assets/img/posts/rJPhWjEGR.jpg" alt="Nothing Phone (2a) NothingOS 2.5.5a"></td>
+    <td><img src="/assets/img/posts/Hy86-sVGR.jpg" alt="Nothing Phone (2a) 3DMark"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 4 次的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 以下是對照組，有 Nothing Phone (1) 以及 Nothing Phone (2)
 
-![Nothing Phone (1) NothingOS 2.5.5](/assets/img/posts/Bk7ik1rMA.png)
+![Nothing Phone (1) NothingOS 2.5.5](/assets/img/posts/Bk7ik1rMA.jpg)
 ▲ Nothing Phone (1) NothingOS 2.5.5 GeekBench 6 連續 4 次的測試結果（上圖）  
 ▼ Nothing Phone (2) NothingOS 2.5.5 GeekBench 6 連續 4 次的測試結果（下圖）
-![Nothing Phone (2) NothingOS 2.5.5](/assets/img/posts/HycoyJHzR.png)
+![Nothing Phone (2) NothingOS 2.5.5](/assets/img/posts/HycoyJHzR.jpg)
 
 
 ![GeekBench6 圖表_單核心](/assets/img/posts/HkXQ8yBfA.png)
@@ -103,14 +103,14 @@ Nothing OS
 搭載了原生 Android 14 的 Nothing OS，也不只有原生 Android 的一些基本功能，Nothing Tech 也針對玩家的使用者加入 Glpyh Light 燈效的進度列功能、甚至是支援 AirPods、增強遊戲場景的觸控回應，亦或是遊戲模式的實驗性功能。也期許未來 Nothing 可以提供更多更好玩的功能給極客的玩家使用體驗。（如下圖所示）
 <table>
   <tr>
-    <td><img src="/assets/img/posts/BJDjpRVzC.png" alt="Screenshot_20240505-141455"></td>
-    <td><img src="/assets/img/posts/HJ0opAEf0.png" alt="Screenshot_20240505-141457"></td>
-    <td><img src="/assets/img/posts/ryI2TCVzR.png" alt="Screenshot_20240505-141501"></td>
+    <td><img src="/assets/img/posts/BJDjpRVzC.jpg" alt="Screenshot_20240505-141455"></td>
+    <td><img src="/assets/img/posts/HJ0opAEf0.jpg" alt="Screenshot_20240505-141457"></td>
+    <td><img src="/assets/img/posts/ryI2TCVzR.jpg" alt="Screenshot_20240505-141501"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/HyHap04fR.png" alt="Screenshot_20240505-141505"></td>
-    <td><img src="/assets/img/posts/SJMATCEfC.png" alt="Screenshot_20240504-004456"></td>
-    <td><img src="/assets/img/posts/r1-gCA4fR.png" alt="Screenshot_20240504-004327"></td>
+    <td><img src="/assets/img/posts/HyHap04fR.jpg" alt="Screenshot_20240505-141505"></td>
+    <td><img src="/assets/img/posts/SJMATCEfC.jpg" alt="Screenshot_20240504-004456"></td>
+    <td><img src="/assets/img/posts/r1-gCA4fR.jpg" alt="Screenshot_20240504-004327"></td>
   </tr>
 </table>
 Nothing OS 也引入了最新的 AI 桌布功能，供使用者可以自行生成出符合風格的獨一無二的桌布。  
@@ -118,14 +118,14 @@ Nothing OS 也引入了最新的 AI 桌布功能，供使用者可以自行生�
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/HkEWRRVGC.png" alt="Screenshot_20240504-004429"></td>
-    <td><img src="/assets/img/posts/BJTZR0VzR.png" alt="Screenshot_20240504-004355"></td>
-    <td><img src="/assets/img/posts/SyofCCEz0.png" alt="Screenshot_20240504-004424"></td>
+    <td><img src="/assets/img/posts/HkEWRRVGC.jpg" alt="Screenshot_20240504-004429"></td>
+    <td><img src="/assets/img/posts/BJTZR0VzR.jpg" alt="Screenshot_20240504-004355"></td>
+    <td><img src="/assets/img/posts/SyofCCEz0.jpg" alt="Screenshot_20240504-004424"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/SkH7ACNM0.png" alt="Screenshot_20240504-004421"></td>
-    <td><img src="/assets/img/posts/Bk0X00NzA.png" alt="Screenshot_20240504-004432"></td>
-    <td><img src="/assets/img/posts/H1IV0REGA.png" alt="Screenshot_20240504-004438"></td>
+    <td><img src="/assets/img/posts/SkH7ACNM0.jpg" alt="Screenshot_20240504-004421"></td>
+    <td><img src="/assets/img/posts/Bk0X00NzA.jpg" alt="Screenshot_20240504-004432"></td>
+    <td><img src="/assets/img/posts/H1IV0REGA.jpg" alt="Screenshot_20240504-004438"></td>
   </tr>
 </table>
 Nothing Phone (2a) 是我在 6 年之後再度使用聯發科 SOC 的手機產品，成功揮別我對聯發科 SOC 就是「卡頓」、「發熱」、「手機廠商提供更新頻率不高」...等既有的負面印象。
@@ -197,7 +197,7 @@ About Me
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 - Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
-![image](/assets/img/posts/BkxA3yHz0.png)
+![image](/assets/img/posts/BkxA3yHz0.jpg)
 
 
 

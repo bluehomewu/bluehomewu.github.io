@@ -45,7 +45,7 @@ Finished. Total time: 0.023s
 
 
 ![](/assets/img/posts/SJ-haZPAn.png)
-![](/assets/img/posts/rkF_C88gA.png)
+![](/assets/img/posts/rkF_C88gA.jpg)
 
 
 

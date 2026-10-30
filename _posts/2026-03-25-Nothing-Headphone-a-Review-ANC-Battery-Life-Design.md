@@ -273,12 +273,12 @@ Nothing X
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/Sk2H4aOTbg.png" alt="截圖 - Nothing X 主畫面"></td>
-    <td><img src="/assets/img/posts/rJirEa_abg.png" alt="截圖 - Nothing X 降噪設定"></td>
+    <td><img src="/assets/img/posts/Sk2H4aOTbg.jpg" alt="截圖 - Nothing X 主畫面"></td>
+    <td><img src="/assets/img/posts/rJirEa_abg.jpg" alt="截圖 - Nothing X 降噪設定"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/SyqCNauTbe.png" alt="截圖 - Nothing X EQ 設定"></td>
-    <td><img src="/assets/img/posts/H15AVpuTWl.png" alt="截圖 - Nothing X 空間音訊設定"></td>
+    <td><img src="/assets/img/posts/SyqCNauTbe.jpg" alt="截圖 - Nothing X EQ 設定"></td>
+    <td><img src="/assets/img/posts/H15AVpuTWl.jpg" alt="截圖 - Nothing X 空間音訊設定"></td>
   </tr>
 </table>
 
@@ -297,7 +297,7 @@ Nothing X 的介面在 Headphone (a) 上與 Headphone (1) 相比，整體佈局�
 這次我覺得 Nothing X 上最有趣的新功能，是按鍵客製化中的**相機快門**選項。  
 把耳機上的按鍵設定成相機快門之後，第一次按下開啟相機，再按一次拍照或錄影，對於自拍、街拍或是需要快速按快門又不想移動手機的情境，意外地相當實用。
 
-<img src="/assets/img/posts/HJYMpCOTbx.png" alt="截圖 - Nothing X 相機遠端快門功能" style="width: 50%;">
+<img src="/assets/img/posts/HJYMpCOTbx.jpg" alt="截圖 - Nothing X 相機遠端快門功能" style="width: 50%;">
 
 
 總結

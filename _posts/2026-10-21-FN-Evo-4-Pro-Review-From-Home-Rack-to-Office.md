@@ -181,7 +181,7 @@ Linear 的特性正好符合這個需求。它會將多顆硬碟依序串接成�
 
 實際配置上，我將四顆硬碟依容量分成兩組：兩顆 4TB HDD 組成一個 Linear 儲存空間，兩顆 2TB HDD 組成另一個，兩者皆使用 Btrfs 檔案系統。在 fnOS 中，兩個儲存空間的可用容量分別是 7.28TB 與 3.64TB，合計約 10.91TB。
 
-![QQ20260917-000741](/assets/img/posts/HJ9SwTwsMe.png)
+![QQ20260917-000741](/assets/img/posts/HJ9SwTwsMe.jpg)
 
 ▲ fnOS 存儲空間管理：兩個 Linear 儲存空間相同容量的硬碟放在同一組，也讓之後要汰換或升級某一組硬碟時，不會牽動另一個儲存空間。
 
@@ -203,7 +203,7 @@ fnOS 1.2 使用體驗
 ---
 這台 Evo 4 Pro 執行的是 fnOS 1.2.0604。在系統設定的裝置資訊頁面中，可以一次看到系統版本、處理器、記憶體、儲存空間與網路狀態；從這裡也能看出，目前網路孔是以 1000Mbps 連線。
 
-![QQ20260917-000718](/assets/img/posts/By5HvTvozl.png)
+![QQ20260917-000718](/assets/img/posts/By5HvTvozl.jpg)
 
 ▲ fnOS 裝置資訊頁面
 
@@ -213,8 +213,8 @@ fnOS 1.2 使用體驗
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/H15BvpPjGl.png" alt="QQ20260917-003335"></td>
-    <td><img src="/assets/img/posts/Bk9BwaDiGg.png" alt="QQ20260917-003413"></td>
+    <td><img src="/assets/img/posts/H15BvpPjGl.jpg" alt="QQ20260917-003335"></td>
+    <td><img src="/assets/img/posts/Bk9BwaDiGg.jpg" alt="QQ20260917-003413"></td>
   </tr>
 </table>
 
@@ -263,15 +263,15 @@ WR3000S 的有線埠皆為 1GbE，因此目前 Evo 4 Pro 與工作桌機之間�
 先用 `iperf3` 測試 Edward-WorkPC 與 Evo 4 Pro 之間的純網路傳輸能力。  
 NAS 端執行 `iperf3 -s`，工作桌機端則以 `-B` 指定從區網介面發送，分別測試上傳（WorkPC → Evo 4 Pro）與加上 `-R` 的下載（Evo 4 Pro → WorkPC），每個方向各測 3 次。
 
-![QQ20261013-153154_iperf3-1](/assets/img/posts/rkHNlPoife.png)
-![QQ20261013-153233_iperf3-2](/assets/img/posts/HJBVlvosGe.png)
-![QQ20261013-153302_iperf3-3](/assets/img/posts/S1S4xvsjGl.png)
+![QQ20261013-153154_iperf3-1](/assets/img/posts/rkHNlPoife.jpg)
+![QQ20261013-153233_iperf3-2](/assets/img/posts/HJBVlvosGe.jpg)
+![QQ20261013-153302_iperf3-3](/assets/img/posts/S1S4xvsjGl.jpg)
 
 ▲ 上傳測試（WorkPC → Evo 4 Pro）連續 3 次的結果，左側為 NAS 端、右側為工作桌機端
 
-![QQ20261013-153352_iperf3-R-1](/assets/img/posts/ByxHNxwjofg.png)
-![QQ20261013-153420_iperf3-R-2](/assets/img/posts/HJHVevosGe.png)
-![QQ20261013-153449_iperf3-R-3](/assets/img/posts/SkBVePjifg.png)
+![QQ20261013-153352_iperf3-R-1](/assets/img/posts/ByxHNxwjofg.jpg)
+![QQ20261013-153420_iperf3-R-2](/assets/img/posts/HJHVevosGe.jpg)
+![QQ20261013-153449_iperf3-R-3](/assets/img/posts/SkBVePjifg.jpg)
 
 ▲ 下載測試（Evo 4 Pro → WorkPC，`-R`）連續 3 次的結果
 
@@ -292,14 +292,14 @@ NAS 端的目的地是 DATA1，也就是由兩顆 2TB HDD 組成的儲存空間 
 1. **多檔案資料夾**：一個實際的專案資料夾，包含 233 個檔案、74 個子資料夾，總計 6.56GB。
 2. **單一大檔**：一個 15GB 的測試檔案（`test_data_15360.0MB.bin`）。
 
-![QQ20261013-152105_SMB-1_filesize](/assets/img/posts/HyENxvojzl.png)
+![QQ20261013-152105_SMB-1_filesize](/assets/img/posts/HyENxvojzl.jpg)
 
 ▲ 測試用專案資料夾的檔案數量與大小
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/rJEVgDijMe.png" alt="QQ20261013-152016_SMB-1"></td>
-    <td><img src="/assets/img/posts/ByE4lDjjfg.png" alt="QQ20261013-152629_SMB-2_15GB"></td>
+    <td><img src="/assets/img/posts/rJEVgDijMe.jpg" alt="QQ20261013-152016_SMB-1"></td>
+    <td><img src="/assets/img/posts/ByE4lDjjfg.jpg" alt="QQ20261013-152629_SMB-2_15GB"></td>
   </tr>
 </table>
 
@@ -308,7 +308,7 @@ NAS 端的目的地是 DATA1，也就是由兩顆 2TB HDD 組成的儲存空間 
 <table>
   <tr>
     <td><img src="/assets/img/posts/Hkz1cvjjGe.png" alt="QQ20261013-153703_SMB-backtoWorkPC-1_blur"></td>
-    <td><img src="/assets/img/posts/S1VExviozg.png" alt="QQ20261013-153808_SMB_backtoWorkPC-2"></td>
+    <td><img src="/assets/img/posts/S1VExviozg.jpg" alt="QQ20261013-153808_SMB_backtoWorkPC-2"></td>
   </tr>
 </table>
 
@@ -346,7 +346,7 @@ NAS 端的目的地是 DATA1，也就是由兩顆 2TB HDD 組成的儲存空間 
 
 以這個數字推算，Evo 4 Pro 全天候開機一天大約會用掉 0.93 kWh，一個月約 28 kWh。量測時，我也用 `hdparm` 檢查了四顆硬碟的狀態，全部都是 active/idle，也就是四顆硬碟都在運轉中。
 
-![QQ20261020-090259](/assets/img/posts/r1ukRNNhfx.png)
+![QQ20261020-090259](/assets/img/posts/r1ukRNNhfx.jpg)
 
 ▲ 以 `hdparm -C` 檢查四顆硬碟的狀態，皆為 active/idle
 

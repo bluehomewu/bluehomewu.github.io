@@ -67,7 +67,7 @@ CMF Phone 2 Pro 這次比起上一代的 CMF Phone 1，最明顯的規格差異�
 
 在外型上，Nothing 也是在這次 CMF Phone 2 的外型上下足功夫，絞盡腦汁設計出符合「Color, Material, Finish」的三大設計核心。這次一共推出 4 個顏色，分別是橘、淺綠、白、黑，但台灣市場僅會上市黑白兩款，屬實有些尷尬，居然把上一代 CMF Phone 1 主打的淺綠拿掉了。
 
-![Group+Accessories_16x9](/assets/img/posts/rJPIX1MXll.png)
+![Group+Accessories_16x9](/assets/img/posts/rJPIX1MXll.jpg)
 
 Nothing OS
 ---
@@ -75,14 +75,14 @@ Nothing OS
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/By-XqhJVel.png" alt="Screenshot_20250606-170107"></td>
-    <td><img src="/assets/img/posts/ry5QqhyEee.png" alt="Screenshot_20250618-115814"></td>
-    <td><img src="/assets/img/posts/B1J8931Vxx.png" alt="Screenshot_20250618-112444"></td>
+    <td><img src="/assets/img/posts/By-XqhJVel.jpg" alt="Screenshot_20250606-170107"></td>
+    <td><img src="/assets/img/posts/ry5QqhyEee.jpg" alt="Screenshot_20250618-115814"></td>
+    <td><img src="/assets/img/posts/B1J8931Vxx.jpg" alt="Screenshot_20250618-112444"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/ryEp53JNll.png" alt="Screenshot_20250618-112024"></td>
-    <td><img src="/assets/img/posts/H1uI53JVee.png" alt="Screenshot_20250618-115643"></td>
-    <td><img src="/assets/img/posts/S1XP53JNgg.png" alt="Screenshot_20250618-112108"></td>
+    <td><img src="/assets/img/posts/ryEp53JNll.jpg" alt="Screenshot_20250618-112024"></td>
+    <td><img src="/assets/img/posts/H1uI53JVee.jpg" alt="Screenshot_20250618-115643"></td>
+    <td><img src="/assets/img/posts/S1XP53JNgg.jpg" alt="Screenshot_20250618-112108"></td>
   </tr>
 </table>
 Nothing OS 也在最新的系統當中加入了許多實用的功能，而我也算是從 Nothing OS 1 一路用到 Nothing OS 3，著實是見證了 Nothing OS 的發展以及成長，從毛胚房一路搭建成為現在的透天別墅。  
@@ -93,72 +93,72 @@ Nothing OS 也在最新的系統當中加入了許多實用的功能，而我也
 - 以下跑分全部都是在室溫 25 ℃ 下，所有設定都是系統預設值
 
 #### CMF by Nothing Phone 2
-![CMF_Phone_2Pro_Geekbench6_組圖](/assets/img/posts/rJTja0kVgg.png)
+![CMF_Phone_2Pro_Geekbench6_組圖](/assets/img/posts/rJTja0kVgg.jpg)
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/r1L26Ak4xx.png" alt="Screenshot_20250618-131353"></td>
-    <td><img src="/assets/img/posts/SJeaaAJNxe.png" alt="Screenshot_20250618-133420"></td>
+    <td><img src="/assets/img/posts/r1L26Ak4xx.jpg" alt="Screenshot_20250618-131353"></td>
+    <td><img src="/assets/img/posts/SJeaaAJNxe.jpg" alt="Screenshot_20250618-133420"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (3a) Pro
-![NP3aPro_Geekbench6_組圖](/assets/img/posts/S1pApCkVeg.png)
+![NP3aPro_Geekbench6_組圖](/assets/img/posts/S1pApCkVeg.jpg)
 <table>
   <tr>
-    <td><img src="/assets/img/posts/B1SyCCy4xe.png" alt="Screenshot_20250618-131032"></td>
-    <td><img src="/assets/img/posts/SJRkC0kVgx.png" alt="Screenshot_20250618-133102"></td>
+    <td><img src="/assets/img/posts/B1SyCCy4xe.jpg" alt="Screenshot_20250618-131032"></td>
+    <td><img src="/assets/img/posts/SJRkC0kVgx.jpg" alt="Screenshot_20250618-133102"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (3a)
-![NP3a_Geekbench6_組圖](/assets/img/posts/rJig00y4ge.png)
+![NP3a_Geekbench6_組圖](/assets/img/posts/rJig00y4ge.jpg)
 <table>
   <tr>
-    <td><img src="/assets/img/posts/HkPZR0J4ge.png" alt="Screenshot_20250618-131023"></td>
-    <td><img src="/assets/img/posts/BkIMAR14xe.png" alt="Screenshot_20250618-133059"></td>
+    <td><img src="/assets/img/posts/HkPZR0J4ge.jpg" alt="Screenshot_20250618-131023"></td>
+    <td><img src="/assets/img/posts/BkIMAR14xe.jpg" alt="Screenshot_20250618-133059"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### CMF by Nothing Phone 1
-![CMF_Phone_1_Geekbench6_組圖](/assets/img/posts/Sy8QRCk4ll.png)
+![CMF_Phone_1_Geekbench6_組圖](/assets/img/posts/Sy8QRCk4ll.jpg)
 <table>
   <tr>
-    <td><img src="/assets/img/posts/B1jm0A1Vlx.png" alt="Screenshot_20250618-131129"></td>
-    <td><img src="/assets/img/posts/ryxERCJNel.png" alt="Screenshot_20250618-133215"></td>
+    <td><img src="/assets/img/posts/B1jm0A1Vlx.jpg" alt="Screenshot_20250618-131129"></td>
+    <td><img src="/assets/img/posts/ryxERCJNel.jpg" alt="Screenshot_20250618-133215"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (2a)
-![NP2a_Geekbench6_組圖](/assets/img/posts/rkbHR0JNgg.png)
+![NP2a_Geekbench6_組圖](/assets/img/posts/rkbHR0JNgg.jpg)
 <table>
   <tr>
-    <td><img src="/assets/img/posts/rJSB0Ck4xl.png" alt="Screenshot_20250618-131047"></td>
-    <td><img src="/assets/img/posts/B1jHRA1Vlg.png" alt="Screenshot_20250618-133114"></td>
+    <td><img src="/assets/img/posts/rJSB0Ck4xl.jpg" alt="Screenshot_20250618-131047"></td>
+    <td><img src="/assets/img/posts/B1jHRA1Vlg.jpg" alt="Screenshot_20250618-133114"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (2)
-![NP2_Geekbench6_組圖](/assets/img/posts/SkGICA1Nxg.png)
+![NP2_Geekbench6_組圖](/assets/img/posts/SkGICA1Nxg.jpg)
 <table>
   <tr>
-    <td><img src="/assets/img/posts/rJPIAAJEgg.png" alt="Screenshot_20250618-130940"></td>
-    <td><img src="/assets/img/posts/H1xPCCk4xl.png" alt="Screenshot_20250618-133017"></td>
+    <td><img src="/assets/img/posts/rJPIAAJEgg.jpg" alt="Screenshot_20250618-130940"></td>
+    <td><img src="/assets/img/posts/H1xPCCk4xl.jpg" alt="Screenshot_20250618-133017"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### Nothing Phone (1)
-![NP1_Geekbench6_組圖](/assets/img/posts/rJ2wC01Vxl.png)
+![NP1_Geekbench6_組圖](/assets/img/posts/rJ2wC01Vxl.jpg)
 <table>
   <tr>
-    <td><img src="/assets/img/posts/r1y_00JEge.png" alt="Screenshot_20250618-131149"></td>
-    <td><img src="/assets/img/posts/rJcOA0y4xg.png" alt="Screenshot_20250618-133224"></td>
+    <td><img src="/assets/img/posts/r1y_00JEge.jpg" alt="Screenshot_20250618-131149"></td>
+    <td><img src="/assets/img/posts/rJcOA0y4xg.jpg" alt="Screenshot_20250618-133224"></td>
   </tr>
 </table>
 ▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
@@ -224,7 +224,7 @@ About Me
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 - Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
-![image](/assets/img/posts/Bk1EYGfYA.png)
+![image](/assets/img/posts/Bk1EYGfYA.jpg)
 
 
 ###### tags: `Android` `Nothing` `CMF by Nothing Phone 2 Pro` `ROM` `Nothing Tech` `CMF`

@@ -87,9 +87,9 @@ CMF By Nothing Phone 1
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/BJ0fZkMF0.png" alt="Screenshot_20240719-214346"></td>
-    <td><img src="/assets/img/posts/rkL7WkMtR.png" alt="Screenshot_20240721-000131"></td>
-    <td><img src="/assets/img/posts/HypmWyGYC.png" alt="Screenshot_20240721-004701"></td>
+    <td><img src="/assets/img/posts/BJ0fZkMF0.jpg" alt="Screenshot_20240719-214346"></td>
+    <td><img src="/assets/img/posts/rkL7WkMtR.jpg" alt="Screenshot_20240721-000131"></td>
+    <td><img src="/assets/img/posts/HypmWyGYC.jpg" alt="Screenshot_20240721-004701"></td>
   </tr>
 </table>
 這次 CMF By Nothing Phone 1 的推出，產品定位偏向中階入門，也因此在 SOC 的配置上，採用的是聯發科天璣 7300。在性能上，當然無法與旗艦 SOC 進行對比，但就以天璣 7300 對比 Nothing Phone (2a) 所搭載的天璣 7200 Pro，可說是旗鼓相當。使用上甚至還有機會超越 Nothing Phone (2a) 的表現。  
@@ -104,8 +104,8 @@ Nothing OS
 更新前：
 <table>
   <tr>
-    <td><img src="/assets/img/posts/SybiDkzKA.png" alt="CMF By Nothing Phone 1 NothingOS 2.6.0.Initial"></td>
-    <td><img src="/assets/img/posts/SJAsPyMYR.png" alt="CMF Phone 1 NothingOS 2.6.0.Initial_3DMark"></td>
+    <td><img src="/assets/img/posts/SybiDkzKA.jpg" alt="CMF By Nothing Phone 1 NothingOS 2.6.0.Initial"></td>
+    <td><img src="/assets/img/posts/SJAsPyMYR.jpg" alt="CMF Phone 1 NothingOS 2.6.0.Initial_3DMark"></td>
   </tr>
 </table>
 ▲ NothingOS 2.6.0 GeekBench 6 連續 3 次的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
@@ -113,8 +113,8 @@ Nothing OS
 更新後：
 <table>
   <tr>
-    <td><img src="/assets/img/posts/SJuov1MKC.png" alt="CMF By Nothing Phone 1 NothingOS 2.6"></td>
-    <td><img src="/assets/img/posts/H153w1fKR.png" alt="CMF Phone 1 NothingOS 2.6_3DMark"></td>
+    <td><img src="/assets/img/posts/SJuov1MKC.jpg" alt="CMF By Nothing Phone 1 NothingOS 2.6"></td>
+    <td><img src="/assets/img/posts/H153w1fKR.jpg" alt="CMF Phone 1 NothingOS 2.6_3DMark"></td>
   </tr>
 </table>
 ▲ NothingOS 2.6 GeekBench 6 連續 3 次的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
@@ -123,8 +123,8 @@ Nothing OS
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/SyLp_kfY0.png" alt="Nothing Phone (2a) NothingOS 2.6_CompareCMFPhone1#1"></td>
-    <td><img src="/assets/img/posts/Bk4qoyMYA.png" alt="Screenshot_20240727-113315"></td>
+    <td><img src="/assets/img/posts/SyLp_kfY0.jpg" alt="Nothing Phone (2a) NothingOS 2.6_CompareCMFPhone1#1"></td>
+    <td><img src="/assets/img/posts/Bk4qoyMYA.jpg" alt="Screenshot_20240727-113315"></td>
   </tr>
 </table>
 ▲ NothingOS 2.6 GeekBench 6 連續 3 次的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
@@ -135,28 +135,28 @@ Nothing Tech 並沒有因為 CMF By Nothing Phone 1 的產品定位，而對其�
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/ByHN1lMYR.png" alt="Screenshot_20240727-113907"></td>
-    <td><img src="/assets/img/posts/BJpH1gztR.png" alt="Screenshot_20240727-113911"></td>
-    <td><img src="/assets/img/posts/rkVUJlGtA.png" alt="Screenshot_20240727-113914"></td>
+    <td><img src="/assets/img/posts/ByHN1lMYR.jpg" alt="Screenshot_20240727-113907"></td>
+    <td><img src="/assets/img/posts/BJpH1gztR.jpg" alt="Screenshot_20240727-113911"></td>
+    <td><img src="/assets/img/posts/rkVUJlGtA.jpg" alt="Screenshot_20240727-113914"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/HkQ4MeMYA.png" alt="Screenshot_20240727-113919"></td>
-    <td><img src="/assets/img/posts/SywHGgzYC.png" alt="Screenshot_20240727-113933"></td>
-    <td><img src="/assets/img/posts/SyhczgzYC.png" alt="Screenshot_20240727-113847"></td>
+    <td><img src="/assets/img/posts/HkQ4MeMYA.jpg" alt="Screenshot_20240727-113919"></td>
+    <td><img src="/assets/img/posts/SywHGgzYC.jpg" alt="Screenshot_20240727-113933"></td>
+    <td><img src="/assets/img/posts/SyhczgzYC.jpg" alt="Screenshot_20240727-113847"></td>
   </tr>
 </table>
 「鎖定畫面小工具」、「鎖定畫面捷徑」、「提示和回饋」、「充電助理」。（如下圖所示）
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/rJXpGlzKA.png" alt="Screenshot_20240727-113939"></td>
-    <td><img src="/assets/img/posts/HkLTzxzY0.png" alt="Screenshot_20240727-113947"></td>
-    <td><img src="/assets/img/posts/HyupfeGKC.png" alt="Screenshot_20240727-113957"></td>
+    <td><img src="/assets/img/posts/rJXpGlzKA.jpg" alt="Screenshot_20240727-113939"></td>
+    <td><img src="/assets/img/posts/HkLTzxzY0.jpg" alt="Screenshot_20240727-113947"></td>
+    <td><img src="/assets/img/posts/HyupfeGKC.jpg" alt="Screenshot_20240727-113957"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/By26MeftC.png" alt="Screenshot_20240727-114005"></td>
-    <td><img src="/assets/img/posts/BySCfgftC.png" alt="Screenshot_20240727-113855"></td>
-    <td><img src="/assets/img/posts/BknCMlMKC.png" alt="Screenshot_20240727-114014"></td>
+    <td><img src="/assets/img/posts/By26MeftC.jpg" alt="Screenshot_20240727-114005"></td>
+    <td><img src="/assets/img/posts/BySCfgftC.jpg" alt="Screenshot_20240727-113855"></td>
+    <td><img src="/assets/img/posts/BknCMlMKC.jpg" alt="Screenshot_20240727-114014"></td>
   </tr>
 </table>
 從我上次使用過 Nothing Phone (2a) 之後，Nothing 成功揮別聯發科 SOC 在過去讓我留下的壞印象，也因此這次體驗 CMF By Nothing Phone 1 剛上手時，並沒有太意外。但整體使用下來確實讓我感受到 Nothing 即便是在中低階手機的開發，也是相當用心在進行設計，真的一點也不馬虎。
@@ -181,12 +181,12 @@ Nothing Phone (2a) 相機規格：
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/H1wUOWfKA.png" alt="Screenshot_20240727-114041"></td>
-    <td><img src="/assets/img/posts/r1JwdbfK0.png" alt="Screenshot_20240727-114101"></td>
+    <td><img src="/assets/img/posts/H1wUOWfKA.jpg" alt="Screenshot_20240727-114041"></td>
+    <td><img src="/assets/img/posts/r1JwdbfK0.jpg" alt="Screenshot_20240727-114101"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/SJfDdZzFR.png" alt="Screenshot_20240727-114133"></td>
-    <td><img src="/assets/img/posts/SkrDuWGFR.png" alt="Screenshot_20240727-114243"></td>
+    <td><img src="/assets/img/posts/SJfDdZzFR.jpg" alt="Screenshot_20240727-114133"></td>
+    <td><img src="/assets/img/posts/SkrDuWGFR.jpg" alt="Screenshot_20240727-114243"></td>
   </tr>
 </table>
 ## 同場加映：CMF Buds Pro 2
@@ -291,7 +291,7 @@ About Me
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 - Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
-![image](/assets/img/posts/Bk1EYGfYA.png)
+![image](/assets/img/posts/Bk1EYGfYA.jpg)
 
 
 ###### tags: `Android` `Nothing` `CMF By Nothing Phone 1` `ROM` `Nothing Tech` `CMF`

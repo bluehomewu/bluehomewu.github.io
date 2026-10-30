@@ -64,7 +64,7 @@ TUF Gaming B850-Plus WiFi
 透過晶片組的升級迭代，也將其中一個全尺寸的 PCIE x16 由 Gen 4 升級為 Gen 5，使消費者可以在其餘零件的選擇上有更彈性的空間，較不會被 PCIE 通道頻寬限制住。
 
 根據華碩提供的使用手冊所述，PCIE x16 Gen 5 這個通道也有支援拆分，故可以有更彈性的安排
-![image](/assets/img/posts/ryrsQENWxx.png)
+![image](/assets/img/posts/ryrsQENWxx.jpg)
 
 這也是我正是踏入 AM5 Socket 的第一套平台。在此之前我手邊的其他主機都還是採用 AM4 Socket，像是我的主力電腦，就是採用 Ryzen 9 5950X + ROG Crosshair VIII Dark Hero 的 AM4 頂級組合。  
 而我放在公司服役中的 Coding 主機則是 Ryzen 5 3600XT + Prime X470-Pro 的組合，也是先前用在這套 Proxmox VE 主機的平台組合。  
@@ -83,7 +83,7 @@ PCIEX16(G4) 插槽與 M.2_3 插槽共享頻寬·當 M.2_3 插槽運作時 PCIEX1
 ![image](/assets/img/posts/B1_AnE4Zgl.png)
 藍色框選處是 PCIE x16；紅色框選處是 M.2 PCIE Socket
 ###### 註：已經向華碩詢問這部分的問題，若有回覆會更新在這段落下方
-![image](/assets/img/posts/ByIg75LXxg.png)
+![image](/assets/img/posts/ByIg75LXxg.jpg)
 
 且我在更新 BIOS 到 1028 版本之後，這個問題就被排除了，因此可以合理推測，這個特殊情況只在 1022 版發生，也很感謝華碩 RD 願意協助排除釐清相關問題。
 
@@ -96,30 +96,30 @@ PCIEX16(G4) 插槽與 M.2_3 插槽共享頻寬·當 M.2_3 插槽運作時 PCIEX1
 由於近幾年顯卡都越做越大張，透過 Q-Release 的設計，就可以很方便的卸下卡扣。  
 就不用為了找卡榫，手指伸到顯卡底下，而被划傷了。  
 （不過，我暫時也沒這個需求，畢竟我現在可是用來作為 HomeServer，暫且也沒機會加上新世代的顯卡XD）
-![image](/assets/img/posts/SJddTVLMle.png)
+![image](/assets/img/posts/SJddTVLMle.jpg)
 
 2. Q-Antenna
 這個則是用來將 WiFi 天線快速安裝到後面 I/O 擋板的設計。  
 就以我現在主力在使用的 ROG C8DH 來說，WiFi 天線是採用傳統的旋轉方式安裝，這對於像我一樣有些微的強迫症的人來說，有點難以接受，因為在安裝的時候，線的部分會被翻轉，使得最後安裝完畢還要再順一遍，有一些不便。  
 同時也對於一些直接把主機交由店家組裝後，就帶回家的小白使用者來說，多少有一些風險存在。  
 因此這次支援 Q-Antenna 其實不論是對於資深 DIY 玩家，又或者是電腦小白，都是提供了相當便利的設計。
-![image](/assets/img/posts/rkMcpEUGeg.png)
+![image](/assets/img/posts/rkMcpEUGeg.jpg)
 
 3. M.2 Q-Latch
 這個快速固定 M.2 硬碟的機制，我真的要給好評，在我過去使用 TUF B550M-Plus 主機板的過程中，每次更換 M.2 SSD 或是更換 M.2 SSD 上的導熱墊片時，就是我的噩夢。  
 由於 TUF B550M-Plus 的 M.2 SSD 固定機制，是將外面的散熱片的其中一個螺絲固定在 SSD 上，因此在安裝過程中，需要非常小心，才可以安裝完成。也增加了螺絲掉落的風險。  
 所以 Q-Latch，對於手殘黨來說，其實是相當實用的設計。
-![image](/assets/img/posts/H1ejpNUMxx.png)
+![image](/assets/img/posts/H1ejpNUMxx.jpg)
 
 4. Q-LED
 前面三個功能，對我來說，都是友善設計，但這一個功能，對我來說就有一些不便。  
 華碩在這代 TUF B850 Plus WiFi 主機板上取消了 Speaker（蜂鳴器）接口的 PIN 針腳設計，對於相當依賴 Speaker 的長短音去判斷開機成功或是失敗的老玩家來說，確實是有一點不習慣的。  
 不過，整體來說是好的設計，畢竟 Speaker 會因為不同品牌的 BIOS 設計，有不同的聲音組合。然而，Q-LED 的設計就可以很好的避免這個問題，因為顯示出來的直接是燈號，也在側邊標上進度的項目。
-![image](/assets/img/posts/SkAs648Gxg.png)
+![image](/assets/img/posts/SkAs648Gxg.jpg)
 
 ### 主機板散熱設計
 > 圖片截自華碩官網
-![image](/assets/img/posts/BkLNWS8Mxe.png)
+![image](/assets/img/posts/BkLNWS8Mxe.jpg)
 
 這次令我感到最意外的，莫過於加大許多的 VRM 散熱器，除了視線上看到的面積變大了之外，同時也變得更厚更加結實，根本不怕熱量導不出去。  
 對於 M.2_2 & M.2_3 的散熱片，更是一次包含兩個 M.2 SSD 面積，華碩可是在散熱這方面費盡心思，將溫度控制好，發揮出硬體最大的效能。
@@ -131,8 +131,8 @@ PCIEX16(G4) 插槽與 M.2_3 插槽共享頻寬·當 M.2_3 插槽運作時 PCIEX1
 我也在 True-NAS 當中以 Docker 搭建了一個 OpenSpeedTest，進行內網測速。
 
 - 直接跑好跑滿 2.5G
-![image](/assets/img/posts/rJI9bwEWle.png)
-![image](/assets/img/posts/HkHiZwNZlg.png)
+![image](/assets/img/posts/rJI9bwEWle.jpg)
+![image](/assets/img/posts/HkHiZwNZlg.jpg)
 ![image](/assets/img/posts/HkcaWPVbxl.png)
 
 
@@ -185,10 +185,10 @@ Proxmox VE v7.4
 
 - 接下來的 HomeServer 請多多指教
 ![image](/assets/img/posts/r16NzLVblg.png)
-![image](/assets/img/posts/Syn8zU4ble.png)
+![image](/assets/img/posts/Syn8zU4ble.jpg)
 
 - 誰說只有 Windows 可以數框框，Linux 也不是不行
-![image](/assets/img/posts/Bkd2gDEZeg.png)
+![image](/assets/img/posts/Bkd2gDEZeg.jpg)
 
 
 其實升級完硬體，Proxmox VE 是可以直接開機的，不需要重新安裝 OS。只有那...奇怪的 Windows 還是建議重新安裝 OS。  
@@ -198,7 +198,7 @@ Proxmox VE v7.4
 其中令我比較意外的是，板載的 Realtek RTL8125 被改為 eno1。因為在此之前，我在 TUF Gaming B550M-Plus 上板載 Realtek RTL8125 是被設定為 enp6s0，也因此我在修改網路卡設定時，額外花了一些時間。  
 追蹤了一下之後了解到，是在 systemd v197 當中進行修改的。  
 詳情可以參考[官方說明文件](https://github.com/systemd/systemd/blob/main/docs/PREDICTABLE_INTERFACE_NAMES.md)
-![image](/assets/img/posts/rJtbgONWxg.png)
+![image](/assets/img/posts/rJtbgONWxg.jpg)
 
 
 總結
@@ -216,7 +216,7 @@ About Me
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 - Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
-![image](/assets/img/posts/Bk1EYGfYA.png)
+![image](/assets/img/posts/Bk1EYGfYA.jpg)
 
 
 ###### tags: `Android` `Asus` `TUF Gaming` `TUF Gaming B850-Plus WiFi` `ROM` `Asus Taiwan` `AMD Taiwan`

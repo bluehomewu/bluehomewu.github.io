@@ -52,7 +52,7 @@ DIY NAS，與成品 NAS 最大的不同，就是高度的客製化，從硬體�
 
 我在 PVE 內，分配給 True-NAS 的硬體規格只有 2-Core 以及 4 GB RAM，並且在 True-NAS 上，我安裝了 4 顆硬碟，其中有兩顆 4TB HDD，以及一顆 2TB HDD，還有一顆是 250GB 的 SATA SSD（原先是另一顆 1TB HDD）。
 
-![image](/assets/img/posts/HJaJUTJAel.png)
+![image](/assets/img/posts/HJaJUTJAel.jpg)
 
 這些硬碟都是以直通的方式，直接分配給 True-NAS 的虛擬機系統。
 ![image](/assets/img/posts/H1QoITkAee.png)
@@ -205,7 +205,7 @@ Memory Device
 ```
 
 除此之外，可以在輸出結果中看到，BIOS 設定的記憶體最大值是 32GB，但官網上只寫最大支援 16GB，這部分我可以之後再進行實測。
-![image](/assets/img/posts/rJbWSE7kZe.png)
+![image](/assets/img/posts/rJbWSE7kZe.jpg)
 
 
 由繁化簡的旅程 — ADM 系統體驗
@@ -213,31 +213,31 @@ Memory Device
 在我初次接上電源開機之後，就相當期待上手體驗 Asustor NAS 所搭載的 ADM 系統。  
 我將兩張網路介面卡都插上網路線，所以在我的 Router 中，可以看到兩個 Mac Address 以及透過 DHCP 取得兩個區域網路 IP。
 
-![20251021-124104](/assets/img/posts/BkkMlraRgx.png)
+![20251021-124104](/assets/img/posts/BkkMlraRgx.jpg)
 
 
 Asustor 也有提供 Asustor Contorl Center，簡稱 ACC，可以協助使用者更快的在區域網路內檢測到 Asustor 的產品，進一步選擇產品進行連線或是其他相關設定。
 
-![20251021-124443](/assets/img/posts/BJv5lrT0lx.png)
+![20251021-124443](/assets/img/posts/BJv5lrT0lx.jpg)
 
 其中我也將我的初始化步驟進行截圖：
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/ByGLZBpRxg.png" alt="20251021-124511"></td>
-    <td><img src="/assets/img/posts/rkfLWH6Ael.png" alt="20251021-124521"></td>
+    <td><img src="/assets/img/posts/ByGLZBpRxg.jpg" alt="20251021-124511"></td>
+    <td><img src="/assets/img/posts/rkfLWH6Ael.jpg" alt="20251021-124521"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/S1MIbH6Cxl.png" alt="20251021-124536"></td>
-    <td><img src="/assets/img/posts/B1M8WB60xx.png" alt="20251021-124732"></td>
+    <td><img src="/assets/img/posts/S1MIbH6Cxl.jpg" alt="20251021-124536"></td>
+    <td><img src="/assets/img/posts/B1M8WB60xx.jpg" alt="20251021-124732"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/Sy6RKs6Rel.png" alt="20251021-124752"></td>
-    <td><img src="/assets/img/posts/H1pRFiaCge.png" alt="20251021-124850"></td>
+    <td><img src="/assets/img/posts/Sy6RKs6Rel.jpg" alt="20251021-124752"></td>
+    <td><img src="/assets/img/posts/H1pRFiaCge.jpg" alt="20251021-124850"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/HJa0KjTRgl.png" alt="20251021-124949"></td>
-    <td><img src="/assets/img/posts/S1pRKs60gg.png" alt="20251021-125256"></td>
+    <td><img src="/assets/img/posts/HJa0KjTRgl.jpg" alt="20251021-124949"></td>
+    <td><img src="/assets/img/posts/S1pRKs60gg.jpg" alt="20251021-125256"></td>
   </tr>
 </table>
 
@@ -254,8 +254,8 @@ Asustor 也有提供 Asustor Contorl Center，簡稱 ACC，可以協助使用者
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/BkHIUEQkZe.png" alt="20251101-152545"></td>
-    <td><img src="/assets/img/posts/Syz98N71bl.png" alt="20251030-155052"></td>
+    <td><img src="/assets/img/posts/BkHIUEQkZe.jpg" alt="20251101-152545"></td>
+    <td><img src="/assets/img/posts/Syz98N71bl.jpg" alt="20251030-155052"></td>
   </tr>
 </table>
 
@@ -263,8 +263,8 @@ Asustor 也有提供 Asustor Contorl Center，簡稱 ACC，可以協助使用者
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/rk2jPNm1-x.png" alt="20251024-003335"></td>
-    <td><img src="/assets/img/posts/B1x3w4m1Zg.png" alt="20251101-153119"></td>
+    <td><img src="/assets/img/posts/rk2jPNm1-x.jpg" alt="20251024-003335"></td>
+    <td><img src="/assets/img/posts/B1x3w4m1Zg.jpg" alt="20251101-153119"></td>
   </tr>
 </table>
 
@@ -278,7 +278,7 @@ Asustor 也有提供 Asustor Contorl Center，簡稱 ACC，可以協助使用者
 而對於影片剪輯師或攝影師而言，這更是災難性的工作流程中斷，在海量素材中快速預覽、挑選合適的 B-roll 畫面是創作的日常，少了縮圖等於是被蒙上了眼睛，嚴重拖慢專案進度。  
 將這種攸關核心體驗的基礎功能拔除，並將其包裝成需要額外付費的項目，無疑是將商業考量凌駕於使用者體驗之上，也讓 Asustor 在這方面「理所當然」的堅持，顯得格外可貴。
 
-![20251110-193812](/assets/img/posts/Skcn0Byx-x.png)
+![20251110-193812](/assets/img/posts/Skcn0Byx-x.jpg)
 
 
 #### Dr. ASUSTOR
@@ -286,8 +286,8 @@ Asustor 也有提供 Asustor Contorl Center，簡稱 ACC，可以協助使用者
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/Bkq_J6hJZe.png" alt="20251108-210048"></td>
-    <td><img src="/assets/img/posts/H1a_yphy-l.png" alt="20251108-210114"></td>
+    <td><img src="/assets/img/posts/Bkq_J6hJZe.jpg" alt="20251108-210048"></td>
+    <td><img src="/assets/img/posts/H1a_yphy-l.jpg" alt="20251108-210114"></td>
   </tr>
 </table>
 
@@ -301,8 +301,8 @@ Asustor 也有提供 Asustor Contorl Center，簡稱 ACC，可以協助使用者
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/Hk59Dqh1Wx.png" alt="20251108-180659"></td>
-    <td><img src="/assets/img/posts/SyT9w9hy-x.png" alt="20251108-181132"></td>
+    <td><img src="/assets/img/posts/Hk59Dqh1Wx.jpg" alt="20251108-180659"></td>
+    <td><img src="/assets/img/posts/SyT9w9hy-x.jpg" alt="20251108-181132"></td>
   </tr>
 </table>
 
@@ -314,8 +314,8 @@ Asustor 也有提供 Asustor Contorl Center，簡稱 ACC，可以協助使用者
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/rJNPA521-e.png" alt="20251108-184110"></td>
-    <td><img src="/assets/img/posts/rkKXRq2k-e.png" alt="20251108-183959"></td>
+    <td><img src="/assets/img/posts/rJNPA521-e.jpg" alt="20251108-184110"></td>
+    <td><img src="/assets/img/posts/rkKXRq2k-e.jpg" alt="20251108-183959"></td>
   </tr>
 </table>
 
@@ -327,7 +327,7 @@ Asustor 也有提供 Asustor Contorl Center，簡稱 ACC，可以協助使用者
 尤其主機板送修這段時間，還得臨時把原本的工作環境和資料搬到筆電上，因此對經常需要在多台電腦間切換的我而言，NAS 可說正好擊中需求。
 
 By the way，現在在蝦皮的官方商城購買新品，竟然還有送 2.5G*5 Asustor ASW205T 的交換器，有夠划算，替使用者的荷包省下一筆開銷。
-![20251110-191807](/assets/img/posts/H1R-qHJe-e.png)
+![20251110-191807](/assets/img/posts/H1R-qHJe-e.jpg)
 購買連結：[asustor 華芸蝦皮官方旗艦店](https://tw.shp.ee/CkdzK4D)
 
 總結 - 權衡之後，我選擇了穩定與效率
@@ -350,6 +350,6 @@ About Me
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 - Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
-![image](/assets/img/posts/Bk1EYGfYA.png)
+![image](/assets/img/posts/Bk1EYGfYA.jpg)
 
 ###### tags: `Android` `Asustor` `Asustor AS6702T v2` `ROM` `AS6702T v2` `True-NAS`

@@ -34,13 +34,13 @@ tags: [Asustor]
 
 1. 安裝 Docker Engine
     Docker Engine 可以直接在 ADM 的 APP Central 當中直接一鍵下載並完成安裝。
-    ![20251109-160016](/assets/img/posts/Hy87c6TJ-x.png)
+    ![20251109-160016](/assets/img/posts/Hy87c6TJ-x.jpg)
 
 2. 安裝 Portainer CE
     Portainer 也可以直接在 ADM 的 APP Central 當中直接一鍵下載並完成安裝。  
     分為兩個版本，分別是官方原版，另一個是簡體中文的漢化版。  
     在我這篇，將會使用英文原版進行展示。
-    ![20251109-165100](/assets/img/posts/r1vmIR6J-e.png)
+    ![20251109-165100](/assets/img/posts/r1vmIR6J-e.jpg)
 
 3. 初始化 Portainer CE
     可以參考 [Asustor 的官方教學 - Portainer 基本功能介紹](https://www.asustor.com/zh-tw/online/College_topic?topic=145)  
@@ -48,10 +48,10 @@ tags: [Asustor]
 
 4. 透過 Portainer CE 來管理 Docker
     初始化完成之後，便可以在面板中找到已經連線上的 AS6702T v2 了。
-    ![20251109-170738](/assets/img/posts/S17WqC6kZx.png)
+    ![20251109-170738](/assets/img/posts/S17WqC6kZx.jpg)
     點到左側的 Containers（容器），即可看到所有以 Docker 形式安裝在 AS6702T v2 的軟體。
-    ![20251109-171721](/assets/img/posts/rJQN3Aaybx.png)
-    ![20251109-171550](/assets/img/posts/HkKgn0pk-e.png)
+    ![20251109-171721](/assets/img/posts/rJQN3Aaybx.jpg)
+    ![20251109-171550](/assets/img/posts/HkKgn0pk-e.jpg)
 
 
 雖然 Asustor 已經在 APP Central 當中提供許多以 Docker 形式安裝的常用軟體，但是支援的軟體總歸是需要透過 ASUSTOR Developer's Corner 去發行的。  
@@ -62,18 +62,18 @@ tags: [Asustor]
 #### 安裝 Code-Server
 1. 點擊 `Create container` 按鈕
 2. 輸入要新增的 Docker 容器名稱以及來源
-![20251109-173333](/assets/img/posts/SJGvekRJZl.png)
+![20251109-173333](/assets/img/posts/SJGvekRJZl.jpg)
 ▲ 以 Code-Server 為例。
 
 3. 點擊 `Deploy the container` 直接將 Docker 部屬到 AS6702T v2
-![20251109-173736](/assets/img/posts/HyvgbJ0kWl.png)
+![20251109-173736](/assets/img/posts/HyvgbJ0kWl.jpg)
 
 4. 連線到 Code-Server
     在瀏覽器網址列當中輸入 `http://{AS6702Tv2 的內網 IP}:{Docker 映射出來的端口}`  
     在我的範例當中，就會是 `http://192.168.50.25:32769`
-    ![20251109-181052](/assets/img/posts/SJ9gYyAyZl.png)
+    ![20251109-181052](/assets/img/posts/SJ9gYyAyZl.jpg)
     如果有連上 Code-Server 的話，就應該會出現類似我圖片這樣：
-    ![20251109-175110](/assets/img/posts/rkAgtk0yWl.png)
+    ![20251109-175110](/assets/img/posts/rkAgtk0yWl.jpg)
 
 5. 大功告成！
     這樣就可以在自己的 NAS 上寫 code 了！  
@@ -88,15 +88,15 @@ Docker 應用使用體驗分享 - Tailscale
 例如這次我在 AS6702T v2 上安裝了 Tailscale 它是一套基於 WireGuard 協議的 VPN 異地組網服務。先前在 True-NAS 上部署時，不但常遇到斷線問題，並且版本不是最新的，初次連線還得手動使用 API Key 作為認證憑證。  
 參考文章：[Truenas scale 安装 Tailscale 内网穿透远程连接SMB服务](https://blog.csdn.net/jh1513/article/details/132916005)
 
-![20251110-192611](/assets/img/posts/r1jkhB1eZg.png)
+![20251110-192611](/assets/img/posts/r1jkhB1eZg.jpg)
 ▲ 在 True-NAS 上設定 Tailscale
 
 但在 ADM 裡，我只需要在 APP Central 安裝 Tailscale，完成後點擊圖示，在新分頁中登入我的 Tailscale 帳號，就能完成異地組網。這大大減少了我在網路環境初始化上所花費的時間與心力。
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/Hymq3H1lbe.png" alt="20251110-192753"></td>
-    <td><img src="/assets/img/posts/BkHq2rJeWx.png" alt="20251110-192821"></td>
+    <td><img src="/assets/img/posts/Hymq3H1lbe.jpg" alt="20251110-192753"></td>
+    <td><img src="/assets/img/posts/BkHq2rJeWx.jpg" alt="20251110-192821"></td>
   </tr>
 </table>
 
@@ -124,9 +124,9 @@ Asustor 緊跟這股趨勢，透過其強大的硬體與完善的 ADM 系統，�
 
 這不僅僅是一個酷炫的玩具，更是一個強大的生產力工具。它能成為我的程式碼 Copilot、我的文案助理、我的知識檢索庫，而且這一切，都建立在絕對安全與私密的基礎之上。Asustor 讓這一切不再是高手的專利，而是每個使用者都能輕鬆觸及的可能。
 
-![20251110-220549](/assets/img/posts/SJMUWdJxWx.png)
+![20251110-220549](/assets/img/posts/SJMUWdJxWx.jpg)
 
-![20251110-220958](/assets/img/posts/Syjrzu1lWg.png)
+![20251110-220958](/assets/img/posts/Syjrzu1lWg.jpg)
 
 Ollama 的模型有非常多，可以在 Ollama 的網站上找到清單
 - [Ollama Library](https://ollama.com/library)
@@ -138,7 +138,7 @@ Ollama 的模型有非常多，可以在 Ollama 的網站上找到清單
 
 並且，透過使用自己客製化的 oh-my-zsh，也可以讓開發或是設定工作環境變得更高效。
 
-![20251109-041431](/assets/img/posts/rJ33VmpyWx.png)
+![20251109-041431](/assets/img/posts/rJ33VmpyWx.jpg)
 
 不過有些可惜的是，ADM 系統畢竟不是基於主流的 Linux 發行版為底進行擴展開發設計的平台，而是建立在 ASUSTOR 自行客製的輕量化 Linux 與封閉的 apkg 套件系統之上，更接近一套為 NAS 情境量身打造的專用韌體環境。  
 這樣的設計在穩定性與維護成本上確實有優勢，但也代表使用者在套件選擇、開發工具相容性以及系統客製化的彈性上，難免會比以 Debian、Ubuntu 或 Alpine 等通用發行版為基礎的方案來得受限。
@@ -146,7 +146,7 @@ Ollama 的模型有非常多，可以在 Ollama 的網站上找到清單
 當我萌生想要安裝 oh-my-zsh 在 ADM 的環境上時，我有些不確定怎麼下手。不過，皇天不負有心人，終於還是讓我找到安裝的方法。  
 首先，需要在 App Central 當中安裝一個軟體 - **entware**，他是用來將必要的軟體包安裝到我們的 AS6702T v2 上面。
 
-![20251109-032613](/assets/img/posts/BJnKFzT1Wx.png)
+![20251109-032613](/assets/img/posts/BJnKFzT1Wx.jpg)
 
 接下來就可以盡情愉快的使用 opkg 來安裝必要的組件，其中最必須要透過 opkg 安裝的莫過於 oh-my-zsh 的核心 **zsh** 了。
 
@@ -163,7 +163,7 @@ zsh 5.9 (x86_64-openwrt-linux-gnu)
 這步驟有些許麻煩，由於 Linux 發行版常見的 `chsh` 指令不存在於 ADM 的系統當中，因此只能另闢蹊徑。  
 我在國外的論壇 StackExchange 上找到符合我需求的答案
 https://superuser.com/a/1685460
-![20251109-034848](/assets/img/posts/HkvnAz6yZx.png)
+![20251109-034848](/assets/img/posts/HkvnAz6yZx.jpg)
 
 建立一個 `.profile` 檔案，填入以下內容：
 ```
@@ -223,12 +223,12 @@ make install
 
 <table>
   <tr>
-    <td><img src="/assets/img/posts/HJRn3k01-x.png" alt="20251109-182309"></td>
-    <td><img src="/assets/img/posts/SyzThkAkbx.png" alt="20251109-182320"></td>
+    <td><img src="/assets/img/posts/HJRn3k01-x.jpg" alt="20251109-182309"></td>
+    <td><img src="/assets/img/posts/SyzThkAkbx.jpg" alt="20251109-182320"></td>
   </tr>
   <tr>
-    <td><img src="/assets/img/posts/S1Vpn10J-g.png" alt="20251109-182329"></td>
-    <td><img src="/assets/img/posts/BkDp31AJWx.png" alt="20251109-182343"></td>
+    <td><img src="/assets/img/posts/S1Vpn10J-g.jpg" alt="20251109-182329"></td>
+    <td><img src="/assets/img/posts/BkDp31AJWx.jpg" alt="20251109-182343"></td>
   </tr>
 </table>
 
@@ -259,7 +259,7 @@ About Me
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 - Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
-![image](/assets/img/posts/Bk1EYGfYA.png)
+![image](/assets/img/posts/Bk1EYGfYA.jpg)
 
 ###### tags: `Android` `Asustor` `Asustor AS6702T v2` `ROM` `AS6702T v2` `True-NAS`
 
