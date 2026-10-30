@@ -5,7 +5,7 @@
 
     if (pv !== null) {
       const uri = location.pathname.replace(/\/$/, '');
-      // GoatCounter records paths case-sensitively, so the same post may be split across case variants
+      /* GoatCounter records paths case-sensitively, so the same post may be split across case variants */
       const uris = [...new Set([uri, uri.toLowerCase()])];
 
       const fetchCount = (path) => {
