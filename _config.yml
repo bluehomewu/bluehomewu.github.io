@@ -23,7 +23,7 @@ tagline: 一個地方用來紀錄自己寫的文章 # it will display as the sub
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://bluehomewu.github.io" # the base hostname & protocol for your site
+url: "https://edwardwu23.com" # the base hostname & protocol for your site
 
 github:
   username: bluehomewu # change to your GitHub username
