@@ -5,17 +5,22 @@
 
     if (pv !== null) {
       const uri = location.pathname.replace(/\/$/, '');
-      const url = `https://{{ site.analytics.goatcounter.id }}.goatcounter.com/counter/${encodeURIComponent(uri)}.json`;
+      // GoatCounter records paths case-sensitively, so the same post may be split across case variants
+      const uris = [...new Set([uri, uri.toLowerCase()])];
 
-      fetch(url)
-        .then((response) => response.json())
-        .then((data) => {
-          const count = data.count.replace(/\D/g, '');
-          pv.innerText = new Intl.NumberFormat().format(count);
-        })
-        .catch((error) => {
-          pv.innerText = '1';
-        });
+      const fetchCount = (path) => {
+        const url = `https://{{ site.analytics.goatcounter.id }}.goatcounter.com/counter/${encodeURIComponent(path)}.json`;
+
+        return fetch(url)
+          .then((response) => (response.ok ? response.json() : { count: '0' }))
+          .then((data) => Number(data.count.replace(/\D/g, '')))
+          .catch(() => 0);
+      };
+
+      Promise.all(uris.map(fetchCount)).then((counts) => {
+        const count = counts.reduce((sum, n) => sum + n, 0);
+        pv.innerText = new Intl.NumberFormat().format(Math.max(count, 1));
+      });
     }
   });
 </script>
