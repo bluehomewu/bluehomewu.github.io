@@ -105,6 +105,9 @@ jobs:
           url=$(gh pr list --head "$BRANCH" --state open --json url -q '.[0].url')
           if [ -z "$url" ]; then
             url=$(gh pr create --base main --head "$BRANCH" --title "NewsRoom: $TITLE" --body-file "newsroom-inbox/$ID/pr_body.md")
+          else
+            # reprocessed email: keep the PR, refresh its title and description
+            gh pr edit "$url" --title "NewsRoom: $TITLE" --body-file "newsroom-inbox/$ID/pr_body.md"
           fi
           echo "url=$url" >> "$GITHUB_OUTPUT"
 
