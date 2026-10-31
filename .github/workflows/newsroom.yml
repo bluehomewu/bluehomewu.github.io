@@ -1,22 +1,26 @@
 name: "NewsRoom"
 
-# Apps Script pushes each press-release email to its own newsroom/<message_id> branch.
-# This workflow converts it into a NewsRoom post, opens a pull request and publishes a preview.
+# Apps Script stores each press-release email in the private repo bluehomewu/newsroom-inbox
+# (inbox/<message_id>/) and sends a repository_dispatch here. Raw emails never enter this
+# public repo: only the converted post and its images are pushed, on a press/<message_id> branch.
 on:
-  push:
-    branches:
-      - "newsroom/**"
-    paths:
-      - "newsroom-inbox/**"
+  repository_dispatch:
+    types: [newsroom-email]
+  workflow_dispatch:
+    inputs:
+      message_id:
+        description: "Gmail message id to (re)process"
+        required: true
 
 permissions:
   contents: write
   pull-requests: write
 
 concurrency:
-  group: newsroom-${{ github.ref }}
+  group: newsroom-${{ github.event.client_payload.message_id || inputs.message_id }}
 
 env:
+  INBOX_REPO: bluehomewu/newsroom-inbox
   CLOUDFLARE_ACCOUNT_ID: f275befea8e11742a4c2896c9afe7d4a
   # Preview Worker (workers/newsroom-preview); each PR gets its own preview alias
   PREVIEW_HOST: edwardwu-newsroom-preview.pageview-counter.workers.dev
@@ -28,8 +32,36 @@ jobs:
       HAS_PREVIEW_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN != '' }}
 
     steps:
+      - name: Validate message id
+        id: msg
+        env:
+          MESSAGE_ID: ${{ github.event.client_payload.message_id || inputs.message_id }}
+        run: |
+          if ! [[ "$MESSAGE_ID" =~ ^[0-9a-f]{8,32}$ ]]; then
+            echo "Invalid message id: $MESSAGE_ID" >&2
+            exit 1
+          fi
+          echo "id=$MESSAGE_ID" >> "$GITHUB_OUTPUT"
+          echo "branch=press/$MESSAGE_ID" >> "$GITHUB_OUTPUT"
+
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Checkout private inbox
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ env.INBOX_REPO }}
+          token: ${{ secrets.NEWSROOM_INBOX_TOKEN }}
+          path: .newsroom-inbox-repo
+
+      - name: Copy email from inbox
+        env:
+          ID: ${{ steps.msg.outputs.id }}
+        run: |
+          test -f ".newsroom-inbox-repo/inbox/$ID/email.eml" || { echo "inbox/$ID/email.eml not found in $INBOX_REPO" >&2; exit 1; }
+          mkdir -p newsroom-inbox
+          cp -r ".newsroom-inbox-repo/inbox/$ID" "newsroom-inbox/$ID"
+          rm -f "newsroom-inbox/$ID/result.json" "newsroom-inbox/$ID/pr_body.md"
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -47,35 +79,58 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python .github/newsroom/convert.py newsroom-inbox --github-output "$GITHUB_OUTPUT"
 
-      - name: Commit result
+      - name: Push post branch
+        if: steps.convert.outputs.status == 'created'
         env:
-          STATUS: ${{ steps.convert.outputs.status }}
-          INBOX: ${{ steps.convert.outputs.inbox }}
+          BRANCH: ${{ steps.msg.outputs.branch }}
           TITLE: ${{ steps.convert.outputs.title }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [ "$STATUS" = "created" ]; then
-            cp "$INBOX/pr_body.md" "$RUNNER_TEMP/pr_body.md"
-            git rm -rq newsroom-inbox
-            git add _newsroom assets/img/newsroom
-            git commit -q -m "NewsRoom: Add $TITLE"
-          else
-            # keep the inbox so Apps Script can read result.json and label the email
-            git add "$INBOX/result.json"
-            git commit -q -m "NewsRoom: Mark $(basename "$INBOX") as $STATUS"
-          fi
-          git push -q
+          git checkout -q -b "$BRANCH"
+          # only the generated post and images; newsroom-inbox/ is git-ignored and never committed
+          git add _newsroom assets/img/newsroom
+          git commit -q -m "NewsRoom: Add $TITLE"
+          git push -q --force origin "$BRANCH"
 
       - name: Open pull request
         id: pr
         if: steps.convert.outputs.status == 'created'
         env:
           GH_TOKEN: ${{ github.token }}
+          BRANCH: ${{ steps.msg.outputs.branch }}
           TITLE: ${{ steps.convert.outputs.title }}
+          ID: ${{ steps.msg.outputs.id }}
         run: |
-          url=$(gh pr create --base main --head "$GITHUB_REF_NAME" --title "NewsRoom: $TITLE" --body-file "$RUNNER_TEMP/pr_body.md")
+          url=$(gh pr list --head "$BRANCH" --state open --json url -q '.[0].url')
+          if [ -z "$url" ]; then
+            url=$(gh pr create --base main --head "$BRANCH" --title "NewsRoom: $TITLE" --body-file "newsroom-inbox/$ID/pr_body.md")
+          fi
           echo "url=$url" >> "$GITHUB_OUTPUT"
+
+      - name: Record result in inbox
+        if: always() && steps.msg.outputs.id != ''
+        env:
+          ID: ${{ steps.msg.outputs.id }}
+          STATUS: ${{ steps.convert.outputs.status }}
+          PR_URL: ${{ steps.pr.outputs.url }}
+        run: |
+          dir=".newsroom-inbox-repo/inbox/$ID"
+          [ -d "$dir" ] || exit 0
+          if [ -f "newsroom-inbox/$ID/result.json" ]; then
+            cp "newsroom-inbox/$ID/result.json" "$dir/result.json"
+          else
+            printf '{"status": "error", "error": "workflow failed before conversion finished"}\n' > "$dir/result.json"
+          fi
+          if [ "$STATUS" = "created" ] && [ -z "$PR_URL" ]; then
+            printf '{"status": "error", "error": "post created but pull request could not be opened"}\n' > "$dir/result.json"
+          fi
+          cd .newsroom-inbox-repo
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "inbox/$ID/result.json"
+          git commit -q -m "Result for $ID: $(python3 -c 'import json,sys;print(json.load(open(sys.argv[1]))["status"])' "inbox/$ID/result.json")" || exit 0
+          git pull -q --rebase && git push -q
 
       - name: Setup Ruby
         if: steps.convert.outputs.status == 'created' && env.HAS_PREVIEW_TOKEN == 'true'
@@ -89,6 +144,8 @@ jobs:
         env:
           JEKYLL_ENV: development
         run: |
+          # never let the raw email reach the preview site
+          rm -rf newsroom-inbox .newsroom-inbox-repo
           bundle exec jekyll build --future -d _site
           printf 'User-agent: *\nDisallow: /\n' > _site/robots.txt
 
@@ -98,14 +155,14 @@ jobs:
         working-directory: workers/newsroom-preview
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          ID: ${{ steps.msg.outputs.id }}
         run: |
-          alias="nr-${GITHUB_REF_NAME#newsroom/}"
-          alias=$(echo "$alias" | tr '[:upper:]' '[:lower:]' | tr -c 'a-z0-9-\n' '-' | cut -c1-30)
-          npx --yes wrangler@4 versions upload --preview-alias "$alias" --message "NewsRoom preview for $GITHUB_REF_NAME"
+          alias="nr-$ID"
+          npx --yes wrangler@4 versions upload --preview-alias "$alias" --message "NewsRoom preview for $ID"
           echo "base=https://${alias}-${PREVIEW_HOST}" >> "$GITHUB_OUTPUT"
 
       - name: Comment preview link
-        if: steps.convert.outputs.status == 'created'
+        if: steps.pr.outputs.url != ''
         env:
           GH_TOKEN: ${{ github.token }}
           PR_URL: ${{ steps.pr.outputs.url }}

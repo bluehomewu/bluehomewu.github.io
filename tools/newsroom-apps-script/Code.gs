@@ -1,8 +1,11 @@
 /**
  * NewsRoom — 把廠商新聞稿 Email 送到 GitHub，由 GitHub Actions 轉成部落格文章並開 PR。
  *
+ * 原始信件只存放在私人 repo（inboxRepo），公開的部落格 repo 只會收到轉換後的文章與圖片。
+ *
  * 安裝步驟見同資料夾的 README.md。需要在「專案設定 → 指令碼屬性」新增：
- *   GITHUB_TOKEN  只授權 bluehomewu.github.io、Contents 可讀寫的 fine-grained token
+ *   GITHUB_TOKEN  fine-grained token，授權 bluehomewu.github.io 與 newsroom-inbox：
+ *                 Contents 可讀寫、Pull requests 唯讀
  *
  * 處理的信件：
  *   1. 來源標籤（SOURCE_LABELS）裡的新信件
@@ -12,8 +15,8 @@
 
 const CONFIG = {
   owner: 'bluehomewu',
-  repo: 'bluehomewu.github.io',
-  baseBranch: 'main',
+  repo: 'bluehomewu.github.io', // public blog: receives only the dispatch, never the email
+  inboxRepo: 'newsroom-inbox', // private: stores inbox/<message_id>/email.eml
   sourceLabels: ['華碩新聞', 'asustor華芸'],
   labels: {
     manual: 'NewsRoom',
@@ -39,7 +42,9 @@ function setup() {
     .filter((t) => t.getHandlerFunction() === 'run')
     .forEach((t) => ScriptApp.deleteTrigger(t));
   ScriptApp.newTrigger('run').timeBased().everyMinutes(15).create();
-  github_('GET', `/repos/${CONFIG.owner}/${CONFIG.repo}`); // fails early if the token is missing or wrong
+  // fail early if the token is missing or cannot reach both repositories
+  github_('GET', `/repos/${CONFIG.owner}/${CONFIG.repo}`);
+  github_('GET', `/repos/${CONFIG.owner}/${CONFIG.inboxRepo}`);
   Logger.log(`設定完成，只會處理 ${PROPS.getProperty('START_DATE')} 之後收到的信件。`);
 }
 
@@ -105,13 +110,9 @@ function pickMessage_(thread) {
   return messages.length ? messages[messages.length - 1] : null;
 }
 
-/** 把原始信件與來源資訊提交到 newsroom/<message_id> 分支（一個 commit）。 */
+/** 把原始信件存到私人 repo，再通知公開 repo 的 GitHub Actions 開始轉換。 */
 function sendToGitHub_(message, source) {
   const id = message.getId();
-  const branch = `newsroom/${id}`;
-  const base = github_('GET', `/repos/${CONFIG.owner}/${CONFIG.repo}/git/ref/heads/${CONFIG.baseBranch}`).object.sha;
-  const baseTree = github_('GET', `/repos/${CONFIG.owner}/${CONFIG.repo}/git/commits/${base}`).tree.sha;
-
   const meta = {
     message_id: id,
     thread_id: message.getThread().getId(),
@@ -121,27 +122,23 @@ function sendToGitHub_(message, source) {
     from: message.getFrom(),
     date: message.getDate().toISOString(),
   };
-  const files = {
-    [`newsroom-inbox/${id}/email.eml`]: Utilities.newBlob(message.getRawContent()).getBytes(),
-    [`newsroom-inbox/${id}/meta.json`]: Utilities.newBlob(JSON.stringify(meta, null, 2)).getBytes(),
-  };
+  putInboxFile_(`inbox/${id}/meta.json`, Utilities.newBlob(JSON.stringify(meta, null, 2)).getBytes(), `Inbox ${id}: meta`);
+  putInboxFile_(`inbox/${id}/email.eml`, Utilities.newBlob(message.getRawContent()).getBytes(), `Inbox ${id}: email`);
+  github_('POST', `/repos/${CONFIG.owner}/${CONFIG.repo}/dispatches`, {
+    event_type: 'newsroom-email',
+    client_payload: { message_id: id },
+  });
+}
 
-  const tree = Object.keys(files).map((path) => ({
-    path,
-    mode: '100644',
-    type: 'blob',
-    sha: github_('POST', `/repos/${CONFIG.owner}/${CONFIG.repo}/git/blobs`, {
-      content: Utilities.base64Encode(files[path]),
-      encoding: 'base64',
-    }).sha,
-  }));
-  const treeSha = github_('POST', `/repos/${CONFIG.owner}/${CONFIG.repo}/git/trees`, { base_tree: baseTree, tree }).sha;
-  const commit = github_('POST', `/repos/${CONFIG.owner}/${CONFIG.repo}/git/commits`, {
-    message: `NewsRoom: Inbox ${message.getSubject()}`.slice(0, 200),
-    tree: treeSha,
-    parents: [base],
-  }).sha;
-  github_('POST', `/repos/${CONFIG.owner}/${CONFIG.repo}/git/refs`, { ref: `refs/heads/${branch}`, sha: commit });
+/** 建立或覆寫私人 repo 中的檔案（重新處理同一封信時會覆寫）。 */
+function putInboxFile_(path, bytes, commitMessage) {
+  const url = `/repos/${CONFIG.owner}/${CONFIG.inboxRepo}/contents/${path}`;
+  const existing = github_('GET', url, null, true);
+  github_('PUT', url, {
+    message: commitMessage,
+    content: Utilities.base64Encode(bytes),
+    sha: existing ? existing.sha : undefined,
+  });
 }
 
 // ------------------------------------------------------------------ 更新處理狀態
@@ -160,23 +157,20 @@ function checkPending_() {
       thread.removeLabel(getOrCreateLabel_(CONFIG.labels.processing));
       thread.addLabel(getOrCreateLabel_(CONFIG.labels[label]));
     }
-    if (status === 'skipped') deleteBranch_(id);
     PROPS.deleteProperty(key);
   }
 }
 
-/** created：已開 PR；skipped / error：轉換程式寫回的結果；null：還在處理。 */
+/** created：已開 PR；skipped / error：轉換程式寫回私人 repo 的結果；null：還在處理。 */
 function lookupStatus_(id) {
-  const branch = `newsroom/${id}`;
-  const pulls = github_('GET', `/repos/${CONFIG.owner}/${CONFIG.repo}/pulls?state=all&head=${CONFIG.owner}:${encodeURIComponent(branch)}`);
-  if (pulls.length) return 'created';
-  const result = github_('GET', `/repos/${CONFIG.owner}/${CONFIG.repo}/contents/newsroom-inbox/${id}/result.json?ref=${encodeURIComponent(branch)}`, null, true);
+  // press/<id> is the current branch name; newsroom/<id> covers emails sent by the old version
+  for (const branch of [`press/${id}`, `newsroom/${id}`]) {
+    const pulls = github_('GET', `/repos/${CONFIG.owner}/${CONFIG.repo}/pulls?state=all&head=${CONFIG.owner}:${encodeURIComponent(branch)}`);
+    if (pulls.length) return 'created';
+  }
+  const result = github_('GET', `/repos/${CONFIG.owner}/${CONFIG.inboxRepo}/contents/inbox/${id}/result.json`, null, true);
   if (!result) return null;
   return JSON.parse(Utilities.newBlob(Utilities.base64Decode(result.content)).getDataAsString()).status;
-}
-
-function deleteBranch_(id) {
-  github_('DELETE', `/repos/${CONFIG.owner}/${CONFIG.repo}/git/refs/heads/newsroom/${id}`, null, true);
 }
 
 // ------------------------------------------------------------------ 共用

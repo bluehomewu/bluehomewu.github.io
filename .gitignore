@@ -28,3 +28,8 @@ assets/js/dist
 
 # Cloudflare Wrangler
 .wrangler
+
+# NewsRoom: raw emails are only ever copied here during a workflow run, never committed
+newsroom-inbox/
+.newsroom-inbox-repo/
+__pycache__/

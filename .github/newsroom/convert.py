@@ -399,11 +399,23 @@ def render(result, mail, images, message_id):
     return path, slug, date, warnings, len(saved)
 
 
+def redact(text):
+    """The PR is public: strip email addresses and phone numbers that may come from the email."""
+    text = re.sub(r"[\w.+-]+@[\w-]+(\.[\w-]+)+", "[email]", text)
+    phone = (
+        r"\+?886[\s-]?\(?\d{1,2}\)?[\s-]?\d{3,4}[\s-]?\d{3,4}(#\d+)?"  # +886 2 2894 3447
+        r"|\(0\d{1,2}\)\s?\d{3,4}-?\d{4}(#\d+)?"  # (02) 2894-3447#27156
+        r"|(?<!\d)09\d{2}-?\d{3}-?\d{3}(?!\d)"  # 0965-517-156
+        r"|(?<!\d)0\d{1,2}-\d{7,8}(?!\d)"  # 02-28943447
+    )
+    return re.sub(phone, "[phone]", text)
+
+
 def write_pr_body(inbox, mail, meta, result, path, date, warnings, image_count):
+    # no sender address here: the repository and its pull requests are public
     lines = [f"自動轉換自 Email 新聞稿。", "", "| 項目 | 內容 |", "|---|---|"]
     lines += [
-        f"| 寄件者 | {mail['from']} |",
-        f"| 主旨 | {mail['subject']} |",
+        f"| 主旨 | {redact(mail['subject'])} |",
         f"| 來源 | {meta.get('source_type_label', meta.get('source_type', ''))} |",
         f"| 文章 | `{path.relative_to(ROOT)}` |",
         f"| 發佈時間 | {date:%Y-%m-%d %H:%M} |",
@@ -412,7 +424,7 @@ def write_pr_body(inbox, mail, meta, result, path, date, warnings, image_count):
     if meta.get("source_type") == "detected":
         warnings.insert(0, "**未知寄件者**：這封信不在白名單標籤裡，是自動偵測到的，請確認寄件者可信")
     if warnings:
-        lines += ["", "### 需要確認", ""] + [f"- {w}" for w in warnings]
+        lines += ["", "### 需要確認", ""] + [f"- {redact(w)}" for w in warnings]
     lines += ["", "預覽網址會在建置完成後留言在下方。確認沒問題後按 **Merge** 即可發佈。"]
     (inbox / "pr_body.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
