@@ -401,7 +401,8 @@ def render(result, mail, images, message_id):
 
 
 def redact(text):
-    """The PR is public: strip email addresses and phone numbers that may come from the email."""
+    """The PR is public: strip links, email addresses and phone numbers that may come from the email."""
+    text = re.sub(r"https?://\S+", "[連結]", text)
     text = re.sub(r"[\w.+-]+@[\w-]+(\.[\w-]+)+", "[email]", text)
     phone = (
         r"\+?886[\s-]?\(?\d{1,2}\)?[\s-]?\d{3,4}[\s-]?\d{3,4}(#\d+)?"  # +886 2 2894 3447
@@ -452,7 +453,8 @@ def process(inbox, llm_output=None):
 
     path, slug, date, warnings, image_count = render(result, mail, images, message_id)
     if cloud_links:
-        warnings.append("信中有雲端下載連結，可能還有圖片沒附在信裡，請手動確認：" + "、".join(cloud_links[:5]))
+        # the links themselves go only into result.json, which stays in the private inbox repo
+        warnings.append(f"信中有 {len(cloud_links)} 個雲端下載連結，可能還有圖片沒附在信裡，請到 Gmail 原信或私人收件匣的 result.json 查看")
     if len(images) > MAX_THUMBS:
         warnings.append(f"圖片超過 {MAX_THUMBS} 張，後面的圖片沒有附縮圖給 AI 判斷位置")
     write_pr_body(inbox, mail, meta, result, path, date, warnings, image_count)
@@ -463,6 +465,7 @@ def process(inbox, llm_output=None):
         "post": str(path.relative_to(ROOT)),
         "brand": result["brand"],
         "warnings": warnings,
+        "cloud_links": cloud_links,
     }
 
 
@@ -485,7 +488,10 @@ def main():
         result = {"status": "error", "error": f"{type(exc).__name__}: {exc}"}
 
     (inbox / "result.json").write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(json.dumps(result, ensure_ascii=False, indent=2))
+    # Actions logs of a public repo are public: print the status only, never links or the subject
+    print(f"status: {result['status']}")
+    if result["status"] == "error":
+        print(redact(result["error"]))
 
     if args.github_output:
         with open(args.github_output, "a", encoding="utf-8") as out:
