@@ -230,7 +230,8 @@ def resolve_links(text):
     for old, new in sorted(mapping.items(), key=lambda kv: -len(kv[0])):
         if old != new:
             text = text.replace(old, new)
-    return text, [u for u in mapping.values() if urllib.parse.urlsplit(u).hostname and urllib.parse.urlsplit(u).hostname.endswith(CLOUD_HOSTS)]
+    cloud = [u for u in mapping.values() if (urllib.parse.urlsplit(u).hostname or "").endswith(CLOUD_HOSTS)]
+    return text, list(dict.fromkeys(cloud))
 
 
 # ---------------------------------------------------------------- images
