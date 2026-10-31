@@ -173,7 +173,7 @@ jobs:
           SLUG: ${{ steps.convert.outputs.slug }}
         run: |
           if [ -n "$BASE" ]; then
-            body=$(printf '### 預覽\n\n- 文章：%s/newsroom/%s/\n- NewsRoom 列表：%s/newsroom/\n\n預覽網站不會被搜尋引擎收錄。確認沒問題後按 **Merge** 發佈。' "$BASE" "$SLUG" "$BASE")
+            body=$(printf '### 預覽\n\n- 文章：%s/newsroom/%s/\n- NewsRoom 列表：%s/newsroom/\n\n預覽網站受 Cloudflare Access 保護，需要用你的 Email 登入才能開啟。確認沒問題後按 **Merge** 發佈。' "$BASE" "$SLUG" "$BASE")
           else
             body='尚未設定 Cloudflare 預覽（缺少 `CLOUDFLARE_API_TOKEN`），請直接查看 **Files changed** 分頁的內容。'
           fi
