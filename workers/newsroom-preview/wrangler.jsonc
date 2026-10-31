@@ -1,0 +1,12 @@
+{
+  // Static preview of the built site for NewsRoom pull requests.
+  // Each PR uploads a version with its own preview alias; the live deployment is never changed.
+  "name": "edwardwu-newsroom-preview",
+  "compatibility_date": "2026-06-01",
+  "workers_dev": true,
+  "preview_urls": true,
+  "assets": {
+    "directory": "../../_site",
+    "not_found_handling": "404-page"
+  }
+}

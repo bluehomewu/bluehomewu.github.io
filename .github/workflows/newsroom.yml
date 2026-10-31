@@ -18,7 +18,8 @@ concurrency:
 
 env:
   CLOUDFLARE_ACCOUNT_ID: f275befea8e11742a4c2896c9afe7d4a
-  PREVIEW_PROJECT: edwardwu-newsroom-preview
+  # Preview Worker (workers/newsroom-preview); each PR gets its own preview alias
+  PREVIEW_HOST: edwardwu-newsroom-preview.pageview-counter.workers.dev
 
 jobs:
   convert:
@@ -94,13 +95,14 @@ jobs:
       - name: Deploy preview
         id: preview
         if: steps.convert.outputs.status == 'created' && env.HAS_PREVIEW_TOKEN == 'true'
+        working-directory: workers/newsroom-preview
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
         run: |
-          branch="newsroom-${GITHUB_REF_NAME#newsroom/}"
-          branch=$(echo "$branch" | tr '[:upper:]' '[:lower:]' | tr -c 'a-z0-9-\n' '-' | cut -c1-28)
-          npx --yes wrangler@4 pages deploy _site --project-name="$PREVIEW_PROJECT" --branch="$branch" --commit-dirty=true
-          echo "base=https://${branch}.${PREVIEW_PROJECT}.pages.dev" >> "$GITHUB_OUTPUT"
+          alias="nr-${GITHUB_REF_NAME#newsroom/}"
+          alias=$(echo "$alias" | tr '[:upper:]' '[:lower:]' | tr -c 'a-z0-9-\n' '-' | cut -c1-30)
+          npx --yes wrangler@4 versions upload --preview-alias "$alias" --message "NewsRoom preview for $GITHUB_REF_NAME"
+          echo "base=https://${alias}-${PREVIEW_HOST}" >> "$GITHUB_OUTPUT"
 
       - name: Comment preview link
         if: steps.convert.outputs.status == 'created'
