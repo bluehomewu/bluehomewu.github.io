@@ -83,7 +83,13 @@ script_includes:
 
         <div>
           <!-- pageviews -->
-          {% if site.pageviews.provider and site.analytics[site.pageviews.provider].id %}
+          {% assign pv_enabled = false %}
+          {% if site.pageviews.provider == 'counter' %}
+            {% if site.pageviews.endpoint %}{% assign pv_enabled = true %}{% endif %}
+          {% elsif site.pageviews.provider and site.analytics[site.pageviews.provider].id %}
+            {% assign pv_enabled = true %}
+          {% endif %}
+          {% if pv_enabled %}
             <span>
               <em id="pageviews">
                 <i class="fas fa-spinner fa-spin small"></i>

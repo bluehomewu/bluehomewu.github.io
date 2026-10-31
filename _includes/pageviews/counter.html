@@ -1,0 +1,27 @@
+<!-- Display pageviews from the self-hosted counter (every page load counts once) -->
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const pv = document.getElementById('pageviews');
+
+    if (pv !== null) {
+      const api = '{{ site.pageviews.endpoint }}';
+      const query = `?path=${encodeURIComponent(location.pathname)}`;
+      const show = (data) => {
+        pv.innerText = new Intl.NumberFormat().format(Math.max(Number(data.count) || 0, 1));
+      };
+
+      /* Count this visit; if the request is blocked, still try to show the current total */
+      fetch(`${api}/hit${query}`, { method: 'POST' })
+        .then((response) => response.json())
+        .then(show)
+        .catch(() =>
+          fetch(`${api}/count${query}`)
+            .then((response) => response.json())
+            .then(show)
+            .catch(() => {
+              pv.innerText = '1';
+            })
+        );
+    }
+  });
+</script>

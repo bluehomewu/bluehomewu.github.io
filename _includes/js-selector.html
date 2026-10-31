@@ -81,6 +81,10 @@
         {% if site.analytics[provider].id != empty and site.analytics[provider].id %}
           {% include pageviews/{{ provider }}.html %}
         {% endif %}
+      {% when 'counter' %}
+        {% if site.pageviews.endpoint != empty and site.pageviews.endpoint %}
+          {% include pageviews/counter.html %}
+        {% endif %}
     {% endcase %}
   {% endif %}
 {% endif %}

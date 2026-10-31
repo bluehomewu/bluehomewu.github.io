@@ -76,7 +76,8 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: goatcounter # now only supports 'goatcounter' # 啟用前端瀏覽次數顯示
+  provider: counter # 'goatcounter' or 'counter' (self-hosted, every page load counts) # 啟用前端瀏覽次數顯示
+  endpoint: https://edwardwu-pageviews.pageview-counter.workers.dev # used by 'counter', see workers/pageview-counter
 
 # Prefer color scheme setting.
 #
@@ -212,6 +213,7 @@ exclude:
   - "*.gemspec"
   - docs
   - tools
+  - workers
   - README.md
   - LICENSE
   - purgecss.js
