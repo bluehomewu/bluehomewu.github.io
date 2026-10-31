@@ -1,0 +1,19 @@
+---
+layout: compress
+swcache: true
+---
+{% comment %} Overrides the theme's search index to also include NewsRoom press releases {% endcomment %}
+{% assign entries = site.posts | concat: site.newsroom %}
+[
+  {% for post in entries %}
+  {
+    "title": {{ post.title | jsonify }},
+    "url": {{ post.url | relative_url | jsonify }},
+    "categories": {% if post.collection == 'newsroom' %}{{ 'NewsRoom' | append: ', ' | append: post.brand | jsonify }}{% else %}{{ post.categories | join: ', ' | jsonify }}{% endif %},
+    "tags": {{ post.tags | join: ', ' | jsonify }},
+    "date": {{ post.date | jsonify }},
+    {% capture content -%}{% include post-summary.html full_text=true %}{%- endcapture -%}
+    "content": {{ content | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

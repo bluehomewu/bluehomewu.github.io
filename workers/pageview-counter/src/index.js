@@ -1,9 +1,10 @@
-// Pageview counter for edwardwu23.com posts: every page load counts once.
+// Pageview counter for edwardwu23.com posts and press releases: every page load counts once.
 //   POST /hit?path=/posts/<slug>    increment, returns {"count": n}
 //   GET  /count?path=/posts/<slug>  read only, returns {"count": n}
+// /newsroom/<slug> paths are accepted the same way.
 
 const ALLOWED_ORIGINS = ['https://edwardwu23.com'];
-const PATH_RE = /^\/posts\/[a-z0-9._-]{1,150}$/;
+const PATH_RE = /^\/(posts|newsroom)\/[a-z0-9._-]{1,150}$/;
 const BOT_RE = /bot|crawl|spider|slurp|headless|lighthouse|preview|facebookexternalhit|embedly|curl|wget|python/i;
 
 const normalize = (raw) => {

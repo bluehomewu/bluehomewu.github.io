@@ -173,6 +173,8 @@ collections:
   tabs:
     output: true
     sort_by: order
+  newsroom: # vendor press releases, listed only on the NewsRoom tab
+    output: true
 
 defaults:
   - scope:
@@ -195,6 +197,14 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+  - scope:
+      path: ""
+      type: newsroom
+    values:
+      layout: post
+      comments: false
+      toc: true
+      permalink: /newsroom/:title/
 
 sass:
   style: compressed

@@ -130,10 +130,32 @@ script_includes:
   {% endif %}
 
   <div class="content">
+    {% if page.collection == 'newsroom' %}
+      <blockquote class="prompt-info">
+        <p>本文為{{ page.source | default: page.brand | default: '廠商' }}提供之新聞稿。更多新聞稿請見 <a href="{{ '/newsroom/' | relative_url }}">NewsRoom</a>。</p>
+      </blockquote>
+    {% endif %}
     {{ content }}
   </div>
 
   <div class="post-tail-wrapper text-muted">
+    {% if page.collection == 'newsroom' %}
+      <!-- press releases have no category or tag pages of their own -->
+      <div class="post-meta mb-3">
+        <i class="far fa-newspaper fa-fw me-1"></i>
+        <a href="{{ '/newsroom/' | relative_url }}">NewsRoom</a>
+        {%- if page.brand -%}, {{ page.brand }}{%- endif -%}
+      </div>
+
+      {% if page.tags.size > 0 %}
+        <div class="post-tags">
+          <i class="fa fa-tags fa-fw me-1"></i>
+          {% for tag in page.tags %}
+            <span class="post-tag">{{ tag }}</span>
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% else %}
     <!-- categories -->
     {% if page.categories.size > 0 %}
       <div class="post-meta mb-3">
@@ -158,6 +180,7 @@ script_includes:
           </a>
         {% endfor %}
       </div>
+    {% endif %}
     {% endif %}
 
     <div
