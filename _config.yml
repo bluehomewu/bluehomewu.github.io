@@ -224,6 +224,7 @@ exclude:
   - docs
   - tools
   - workers
+  - newsroom-inbox
   - README.md
   - LICENSE
   - purgecss.js

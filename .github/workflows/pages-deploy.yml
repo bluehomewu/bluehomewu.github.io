@@ -12,6 +12,10 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+  # Hourly rebuild so embargoed NewsRoom posts appear once their date has passed
+  schedule:
+    - cron: "7 * * * *"
+
 permissions:
   contents: read
   pages: write
@@ -23,7 +27,41 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  # Scheduled runs only rebuild when a post or press release became due in the last hour
+  check:
+    runs-on: ubuntu-latest
+    outputs:
+      build: ${{ steps.due.outputs.build }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check for newly due posts
+        id: due
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "build=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import datetime, glob, re
+          now = datetime.datetime.now(datetime.timezone.utc)
+          due = False
+          for path in glob.glob("_posts/*.md") + glob.glob("_newsroom/*.md"):
+              m = re.search(r"^date:\s*\"?(\d{4}-\d{2}-\d{2} \d{2}:\d{2}(?::\d{2})?)\s*([+-]\d{4})?", open(path, encoding="utf-8").read(), re.M)
+              if not m:
+                  continue
+              fmt = "%Y-%m-%d %H:%M:%S" if m.group(1).count(":") == 2 else "%Y-%m-%d %H:%M"
+              dt = datetime.datetime.strptime(m.group(1), fmt).replace(
+                  tzinfo=datetime.datetime.strptime(m.group(2) or "+0800", "%z").tzinfo)
+              if now - datetime.timedelta(minutes=70) <= dt <= now:
+                  due = True
+          print(f"build={'true' if due else 'false'}")
+          PY
+
   build:
+    needs: check
+    if: needs.check.outputs.build == 'true'
     runs-on: ubuntu-latest
 
     steps:
@@ -48,7 +86,7 @@ jobs:
       - name: Sync GitHub Profile README
         run: |
           # 準備好 about.md 需要的 Front Matter
-          ABOUT_FRONT_MATTER="---\nicon: fas fa-info-circle\norder: 4\ntitle: About\n---\n\n"
+          ABOUT_FRONT_MATTER="---\nicon: fas fa-info-circle\norder: 5\ntitle: About\n---\n\n"
           
           # 下載 README 內容到一個暫存檔案
           curl -s https://raw.githubusercontent.com/bluehomewu/bluehomewu/master/README.md -o ./README_from_profile.md

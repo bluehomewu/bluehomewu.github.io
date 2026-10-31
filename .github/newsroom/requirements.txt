@@ -1,0 +1,5 @@
+anthropic>=2.3,<3
+pillow>=13,<14
+beautifulsoup4>=4.15,<5
+html2text==2025.4.15
+python-docx>=1.2,<2

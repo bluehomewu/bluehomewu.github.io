@@ -1,0 +1,118 @@
+name: "NewsRoom"
+
+# Apps Script pushes each press-release email to its own newsroom/<message_id> branch.
+# This workflow converts it into a NewsRoom post, opens a pull request and publishes a preview.
+on:
+  push:
+    branches:
+      - "newsroom/**"
+    paths:
+      - "newsroom-inbox/**"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: newsroom-${{ github.ref }}
+
+env:
+  CLOUDFLARE_ACCOUNT_ID: f275befea8e11742a4c2896c9afe7d4a
+  PREVIEW_PROJECT: edwardwu-newsroom-preview
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    env:
+      HAS_PREVIEW_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN != '' }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: .github/newsroom/requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r .github/newsroom/requirements.txt
+
+      - name: Convert email
+        id: convert
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python .github/newsroom/convert.py newsroom-inbox --github-output "$GITHUB_OUTPUT"
+
+      - name: Commit result
+        env:
+          STATUS: ${{ steps.convert.outputs.status }}
+          INBOX: ${{ steps.convert.outputs.inbox }}
+          TITLE: ${{ steps.convert.outputs.title }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ "$STATUS" = "created" ]; then
+            cp "$INBOX/pr_body.md" "$RUNNER_TEMP/pr_body.md"
+            git rm -rq newsroom-inbox
+            git add _newsroom assets/img/newsroom
+            git commit -q -m "NewsRoom: Add $TITLE"
+          else
+            # keep the inbox so Apps Script can read result.json and label the email
+            git add "$INBOX/result.json"
+            git commit -q -m "NewsRoom: Mark $(basename "$INBOX") as $STATUS"
+          fi
+          git push -q
+
+      - name: Open pull request
+        id: pr
+        if: steps.convert.outputs.status == 'created'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TITLE: ${{ steps.convert.outputs.title }}
+        run: |
+          url=$(gh pr create --base main --head "$GITHUB_REF_NAME" --title "NewsRoom: $TITLE" --body-file "$RUNNER_TEMP/pr_body.md")
+          echo "url=$url" >> "$GITHUB_OUTPUT"
+
+      - name: Setup Ruby
+        if: steps.convert.outputs.status == 'created' && env.HAS_PREVIEW_TOKEN == 'true'
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.3
+          bundler-cache: true
+
+      - name: Build preview
+        if: steps.convert.outputs.status == 'created' && env.HAS_PREVIEW_TOKEN == 'true'
+        env:
+          JEKYLL_ENV: development
+        run: |
+          bundle exec jekyll build --future -d _site
+          printf 'User-agent: *\nDisallow: /\n' > _site/robots.txt
+
+      - name: Deploy preview
+        id: preview
+        if: steps.convert.outputs.status == 'created' && env.HAS_PREVIEW_TOKEN == 'true'
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        run: |
+          branch="newsroom-${GITHUB_REF_NAME#newsroom/}"
+          branch=$(echo "$branch" | tr '[:upper:]' '[:lower:]' | tr -c 'a-z0-9-\n' '-' | cut -c1-28)
+          npx --yes wrangler@4 pages deploy _site --project-name="$PREVIEW_PROJECT" --branch="$branch" --commit-dirty=true
+          echo "base=https://${branch}.${PREVIEW_PROJECT}.pages.dev" >> "$GITHUB_OUTPUT"
+
+      - name: Comment preview link
+        if: steps.convert.outputs.status == 'created'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_URL: ${{ steps.pr.outputs.url }}
+          BASE: ${{ steps.preview.outputs.base }}
+          SLUG: ${{ steps.convert.outputs.slug }}
+        run: |
+          if [ -n "$BASE" ]; then
+            body=$(printf '### 預覽\n\n- 文章：%s/newsroom/%s/\n- NewsRoom 列表：%s/newsroom/\n\n預覽網站不會被搜尋引擎收錄。確認沒問題後按 **Merge** 發佈。' "$BASE" "$SLUG" "$BASE")
+          else
+            body='尚未設定 Cloudflare 預覽（缺少 `CLOUDFLARE_API_TOKEN`），請直接查看 **Files changed** 分頁的內容。'
+          fi
+          gh pr comment "$PR_URL" --body "$body"
