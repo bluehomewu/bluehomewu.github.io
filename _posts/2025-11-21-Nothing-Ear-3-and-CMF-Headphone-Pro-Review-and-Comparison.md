@@ -19,31 +19,31 @@ categories: [Nothing Tech 產品評測]
 這次有幸再度上手體驗評測新推出的 Nothing Ear (3) 以及 CMF Headphone Pro，而我也將會利用這次體驗的機會，把這次的新產品，與他們各自的前代產品進行橫評。
 
 > 還沒看過 Nothing Phone (1) 的上手體驗文章看這邊  
-> -> [從 Android 系統開發者的角度評價 Nothing Phone(1)](https://bluehomewu.github.io/posts/Nothing-Phone-1-Review-From-An-Android-Developers-Perspective/)
+> -> [從 Android 系統開發者的角度評價 Nothing Phone(1)]({% post_url 2022-12-07-Nothing-Phone-1-Review-From-An-Android-Developers-Perspective %})
 > 
 > 還沒看過 Nothing Phone (2a) 的上手體驗文章看這邊  
-> -> [不同以往的 Nothing Phone：睽違已久的 Mediatek](https://bluehomewu.github.io/posts/A-Different-Nothing-Phone-Finally-Mediatek/)
+> -> [不同以往的 Nothing Phone：睽違已久的 Mediatek]({% post_url 2024-05-06-A-Different-Nothing-Phone-Finally-Mediatek %})
 > 
 > 還沒看過 Nothing Ear / Ear (a) 的上手體驗文章看這邊  
-> -> [Nothing Ear / Ear (a) 實際體驗：Nothing Ear (2) 使用者親自分享](https://bluehomewu.github.io/posts/Nothing-Ear-and-Ear-a-Hands-On-by-Ear-2-User/)
+> -> [Nothing Ear / Ear (a) 實際體驗：Nothing Ear (2) 使用者親自分享]({% post_url 2024-05-28-Nothing-Ear-and-Ear-a-Hands-On-by-Ear-2-User %})
 > 
 > 還沒看過 CMF By Nothing Phone 1 的上手體驗文章看這邊  
-> -> [流著 Nothing OS 血液的平價版 Nothing Phone：CMF By Nothing Phone 1](https://bluehomewu.github.io/posts/The-Affordable-Nothing-Phone-With-Nothing-OS-Blood-CMF-By-Nothing-Phone-1/)
+> -> [流著 Nothing OS 血液的平價版 Nothing Phone：CMF By Nothing Phone 1]({% post_url 2024-07-28-The-Affordable-Nothing-Phone-With-Nothing-OS-Blood-CMF-By-Nothing-Phone-1 %})
 > 
 > 還沒看過 CMF By Nothing Watch Pro 2 的上手體驗文章看這邊  
-> -> [CMF 家族再添一員：CMF By Nothing Watch Pro 2 臺灣搶先上手體驗](https://bluehomewu.github.io/posts/CMF-Family-New-Member-CMF-By-Nothing-Watch-Pro-2-Hands-On/)
+> -> [CMF 家族再添一員：CMF By Nothing Watch Pro 2 臺灣搶先上手體驗]({% post_url 2024-10-06-CMF-Family-New-Member-CMF-By-Nothing-Watch-Pro-2-Hands-On %})
 > 
 > 還沒看過 Nothing Phone (3a) 的上手體驗文章看這邊  
-> -> [Nothing Phone 3a 系列評測：性能、攝影與設計的全面升級？](https://bluehomewu.github.io/posts/Nothing-Phone-3a-Series-Review-Performance-Camera-and-Design-Upgrade/)
+> -> [Nothing Phone 3a 系列評測：性能、攝影與設計的全面升級？]({% post_url 2025-07-12-Nothing-Phone-3a-Series-Review-Performance-Camera-and-Design-Upgrade %})
 > 
 > 還沒看過 CMF by Nothing Phone 2 Pro 的上手體驗文章看這邊  
-> -> [潮流設計×高性價比：CMF by Nothing Phone 2 Pro 完整開箱](https://bluehomewu.github.io/posts/Stylish-Design-Meets-High-Value-CMF-by-Nothing-Phone-2-Pro-Unboxing/)
+> -> [潮流設計×高性價比：CMF by Nothing Phone 2 Pro 完整開箱]({% post_url 2025-06-28-Stylish-Design-Meets-High-Value-CMF-by-Nothing-Phone-2-Pro-Unboxing %})
 > 
 > 還沒看過 Nothing Phone (3) 的上手體驗文章看這邊  
-> -> [Glyph、鏡頭、續航一次看懂：Nothing Phone (3) 深度開箱](https://bluehomewu.github.io/posts/Nothing-Phone-3-In-Depth-Review-Glyph-Camera-Battery/)
+> -> [Glyph、鏡頭、續航一次看懂：Nothing Phone (3) 深度開箱]({% post_url 2025-08-01-Nothing-Phone-3-In-Depth-Review-Glyph-Camera-Battery %})
 > 
 > 還沒看過 Nothing Headphone (1) 的上手體驗文章看這邊  
-> -> [真實長測：Nothing Headphone (1) 降噪、通話、佩戴舒適度全記錄](https://bluehomewu.github.io/posts/Nothing-Headphone-1-Long-Term-Review/)
+> -> [真實長測：Nothing Headphone (1) 降噪、通話、佩戴舒適度全記錄]({% post_url 2025-09-22-Nothing-Headphone-1-Long-Term-Review %})
 
 
 規格比較

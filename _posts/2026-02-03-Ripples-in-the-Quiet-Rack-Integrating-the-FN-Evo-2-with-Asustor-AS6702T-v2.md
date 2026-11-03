@@ -12,7 +12,7 @@ categories: [FnNAS]
 
 前言
 ---
-距離我寫下《[當機架上的伺服器歸於平靜](https://bluehomewu.github.io/posts/When-the-Server-Rack-Fell-Silent-My-Journey-from-DIY-TrueNAS-to-Asustor-AS6702T-v2/)》這篇文章，時間剛好過了一個季度。
+距離我寫下《[當機架上的伺服器歸於平靜]({% post_url 2025-11-10-When-the-Server-Rack-Fell-Silent-My-Journey-from-DIY-TrueNAS-to-Asustor-AS6702T-v2 %})》這篇文章，時間剛好過了一個季度。
 
 在 2025 年末，我將那台轟鳴的 DIY TrueNAS 伺服器除役，換上了 **Asustor AS6702T v2**。它以穩定的 ADM 系統和恰到好處的硬體配置，接管了我所有的 Docker 容器與資料儲存。那是一種「退燒」後的愜意，機架不再喧囂，數據靜靜流淌。
 

@@ -18,11 +18,11 @@ Hi 各位好～
 也曾在 SITCON 2021 擔任講者，並分享開放式議程主題 [「從零開始編譯 Android 第三方系統！」](https://sitcon.org/2021/agenda/1c9e74cd-aeeb-4e63-8ec4-af33eff16e7d)
 
 以下是我自己寫過的教學文章
-[Android 第三方 ROM 繁體中文編譯教學](https://hackmd.io/@EdwardWu/CompileAndroidCustomROM)
-[Android 第三方 Recovery 繁體中文編譯教學](https://hackmd.io/@EdwardWu/CompileARecovery)
+[Android 第三方 ROM 繁體中文編譯教學]({% post_url 2022-11-22-Android-Third-Party-ROM-Traditional-Chinese-Compile-Tutorial %})
+[Android 第三方 Recovery 繁體中文編譯教學]({% post_url 2022-11-22-Android-Third-Party-Recovery-Traditional-Chinese-Compile-Tutorial %})
 
 轉載文章
-[快速上手 Android Custom ROM 適配 - Prebuilt Vendor](https://hackmd.io/@EdwardWu/Prebuilt-bringup)
+[快速上手 Android Custom ROM 適配 - Prebuilt Vendor]({% post_url 2022-11-21-Android-Custom-ROM-Porting-Guide-Prebuilt-Vendor %})
 
 身為一位 Android 第三方系統的維護者，每次新機發表，最看重的往往不一定是強大的硬體規格，但必定是官方對於新機的更新支援以及後續維護的難易度評估。
 

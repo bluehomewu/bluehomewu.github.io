@@ -18,25 +18,25 @@ Nothing 今年發布手機的頻率正在逐漸提高，並且屢屢在科技圈
 這次 Nothing Phone (3) 最大的改變，則是取消了過往 Nothing Phone 系列所提供的 Glyph Light，改為 Glyph Matrix 動態燈陣，以及雖然不是首發機型，但也搭載了自從 Nothing Phone (3a) 家族開始就有的 Essential Key。
 
 > 還沒看過 Nothing Phone (1) 的上手體驗文章看這邊
-> -> [從 Android 系統開發者的角度評價 Nothing Phone(1)](https://hackmd.io/@EdwardWu/Spacewar_review)
+> -> [從 Android 系統開發者的角度評價 Nothing Phone(1)]({% post_url 2022-12-07-Nothing-Phone-1-Review-From-An-Android-Developers-Perspective %})
 > 
 > 還沒看過 Nothing Phone (2a) 的上手體驗文章看這邊
-> -> [不同以往的 Nothing Phone：睽違已久的 Mediatek](https://hackmd.io/@EdwardWu/Pacman_review)
+> -> [不同以往的 Nothing Phone：睽違已久的 Mediatek]({% post_url 2024-05-06-A-Different-Nothing-Phone-Finally-Mediatek %})
 > 
 > 還沒看過 Nothing Ear / Ear (a) 的上手體驗文章看這邊
-> -> [Nothing Ear / Ear (a) 實際體驗：Nothing Ear (2) 使用者親自分享](https://hackmd.io/@EdwardWu/NothingEar_review)
+> -> [Nothing Ear / Ear (a) 實際體驗：Nothing Ear (2) 使用者親自分享]({% post_url 2024-05-28-Nothing-Ear-and-Ear-a-Hands-On-by-Ear-2-User %})
 > 
 > 還沒看過 CMF By Nothing Phone 1 的上手體驗文章看這邊
-> -> [流著 Nothing OS 血液的平價版 Nothing Phone：CMF By Nothing Phone 1](https://hackmd.io/@EdwardWu/Tetris_CMFBuds_review)
+> -> [流著 Nothing OS 血液的平價版 Nothing Phone：CMF By Nothing Phone 1]({% post_url 2024-07-28-The-Affordable-Nothing-Phone-With-Nothing-OS-Blood-CMF-By-Nothing-Phone-1 %})
 > 
 > 還沒看過 CMF By Nothing Watch Pro 2 的上手體驗文章看這邊
-> -> [CMF 家族再添一員：CMF By Nothing Watch Pro 2 臺灣搶先上手體驗](https://hackmd.io/@EdwardWu/CMFWatchPro2_review)
+> -> [CMF 家族再添一員：CMF By Nothing Watch Pro 2 臺灣搶先上手體驗]({% post_url 2024-10-06-CMF-Family-New-Member-CMF-By-Nothing-Watch-Pro-2-Hands-On %})
 > 
 > 還沒看過 Nothing Phone (3a) 的上手體驗文章看這邊
-> -> [Nothing Phone 3a 系列評測：性能、攝影與設計的全面升級？](https://hackmd.io/@EdwardWu/AsteroidsFamily_review)
+> -> [Nothing Phone 3a 系列評測：性能、攝影與設計的全面升級？]({% post_url 2025-07-12-Nothing-Phone-3a-Series-Review-Performance-Camera-and-Design-Upgrade %})
 > 
 > 還沒看過 CMF by Nothing Phone 2 Pro 的上手體驗文章看這邊
-> -> [潮流設計×高性價比：CMF by Nothing Phone 2 Pro 完整開箱](https://hackmd.io/@EdwardWu/Galaga_review)
+> -> [潮流設計×高性價比：CMF by Nothing Phone 2 Pro 完整開箱]({% post_url 2025-06-28-Stylish-Design-Meets-High-Value-CMF-by-Nothing-Phone-2-Pro-Unboxing %})
 
 
 Nothing Phone (3)

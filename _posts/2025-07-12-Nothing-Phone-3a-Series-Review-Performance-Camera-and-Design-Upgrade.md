@@ -19,16 +19,16 @@ Nothing Tech 這次一口氣推出了兩款新的中階手機，分別是 Nothin
 雖然在 Nothing Phone 最具代表性的 Glyph Light 上，仍舊採用與 Nothing Phone (2a) 十分相似的 3 段式的燈條，但對於整體 A 系列的風格，還是有維持相對應的家族式造型。
 
 > 還沒看過 Nothing Phone (1) 的上手體驗文章看這邊
-> -> [從 Android 系統開發者的角度評價 Nothing Phone(1)](https://hackmd.io/@EdwardWu/Spacewar_review)
+> -> [從 Android 系統開發者的角度評價 Nothing Phone(1)]({% post_url 2022-12-07-Nothing-Phone-1-Review-From-An-Android-Developers-Perspective %})
 > 
 > 還沒看過 Nothing Phone (2a) 的上手體驗文章看這邊
-> -> [不同以往的 Nothing Phone：睽違已久的 Mediatek](https://hackmd.io/@EdwardWu/Pacman_review)
+> -> [不同以往的 Nothing Phone：睽違已久的 Mediatek]({% post_url 2024-05-06-A-Different-Nothing-Phone-Finally-Mediatek %})
 > 
 > 還沒看過 Nothing Ear / Ear (a) 的上手體驗文章看這邊
-> -> [Nothing Ear / Ear (a) 實際體驗：Nothing Ear (2) 使用者親自分享](https://hackmd.io/@EdwardWu/NothingEar_review)
+> -> [Nothing Ear / Ear (a) 實際體驗：Nothing Ear (2) 使用者親自分享]({% post_url 2024-05-28-Nothing-Ear-and-Ear-a-Hands-On-by-Ear-2-User %})
 > 
 > 還沒看過 CMF By Nothing Phone 1 的上手體驗文章看這邊
-> -> [流著 Nothing OS 血液的平價版 Nothing Phone：CMF By Nothing Phone 1](https://hackmd.io/@EdwardWu/Tetris_CMFBuds_review)
+> -> [流著 Nothing OS 血液的平價版 Nothing Phone：CMF By Nothing Phone 1]({% post_url 2024-07-28-The-Affordable-Nothing-Phone-With-Nothing-OS-Blood-CMF-By-Nothing-Phone-1 %})
 
 
 Nothing Phone (3a) & (3a) Pro

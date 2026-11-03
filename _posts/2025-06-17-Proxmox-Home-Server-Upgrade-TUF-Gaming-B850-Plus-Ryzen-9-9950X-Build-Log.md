@@ -26,10 +26,10 @@ tags: [ASUS, Android, AMD, TUF, PVE]
 且於當時洽談時，我的其他硬體零件都尚未湊齊，因此不適合進行借用測試。
 
 > 還沒看過 ROG Strix SCAR 18 (2023) G834 的開箱評測文章看這邊
-> -> [ROG Strix SCAR 18 (2023) G834 開箱評測](https://hackmd.io/@EdwardWu/ROG_Strix_SCAR_18_2023_G834JY_Unboxing)
+> -> [ROG Strix SCAR 18 (2023) G834 開箱評測]({% post_url 2023-08-31-ROG-Strix-Scar-18-2023-G834-Unboxing-Review %})
 > 
 > 還沒看過 華碩 Vivobook S15(S5507) 的開箱評測文章看這邊
-> -> [攜手 Microsoft Copilot+：華碩 Vivobook S15 重新定義生產力](https://hackmd.io/@EdwardWu/VivobookS15_S5507)
+> -> [攜手 Microsoft Copilot+：華碩 Vivobook S15 重新定義生產力]({% post_url 2024-10-06-Microsoft-Copilot-Plus-Asus-Vivobook-S15-Productivity-Review %})
 
 硬體規格說明
 ---
@@ -193,7 +193,7 @@ Proxmox VE v7.4
 
 其實升級完硬體，Proxmox VE 是可以直接開機的，不需要重新安裝 OS。只有那...奇怪的 Windows 還是建議重新安裝 OS。  
 不過，在更換完硬體之後，我又遇到了網路卡消失術，查了很多網站的文章，我都已經修好了之後…我才想起來我自己也曾經寫過解決辦法的筆記。
-[網路卡消失術](https://hackmd.io/@EdwardWu/PVE_pit#%E7%B6%B2%E8%B7%AF%E5%8D%A1%E6%B6%88%E5%A4%B1%E8%A1%93)
+[網路卡消失術]({% post_url 2023-03-10-PVE-Troubleshooting-Notes %})
 
 其中令我比較意外的是，板載的 Realtek RTL8125 被改為 eno1。因為在此之前，我在 TUF Gaming B550M-Plus 上板載 Realtek RTL8125 是被設定為 enp6s0，也因此我在修改網路卡設定時，額外花了一些時間。  
 追蹤了一下之後了解到，是在 systemd v197 當中進行修改的。  

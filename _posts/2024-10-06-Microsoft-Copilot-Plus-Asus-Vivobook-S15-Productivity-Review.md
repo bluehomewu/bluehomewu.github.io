@@ -42,19 +42,19 @@ tags: [ASUS, Qualcomm, Laptop]
   </tr>
 </table
 >> 還沒看過 Nothing Phone (1) 的上手體驗文章看這邊
-> -> [從 Android 系統開發者的角度評價 Nothing Phone(1)](https://hackmd.io/@EdwardWu/Spacewar_review)
+> -> [從 Android 系統開發者的角度評價 Nothing Phone(1)]({% post_url 2022-12-07-Nothing-Phone-1-Review-From-An-Android-Developers-Perspective %})
 > 
 > 還沒看過 Nothing Phone (2a) 的上手體驗文章看這邊
-> -> [不同以往的 Nothing Phone：睽違已久的 Mediatek](https://hackmd.io/@EdwardWu/Pacman_review)
+> -> [不同以往的 Nothing Phone：睽違已久的 Mediatek]({% post_url 2024-05-06-A-Different-Nothing-Phone-Finally-Mediatek %})
 > 
 > 還沒看過 Nothing Ear / Ear (a) 的上手體驗文章看這邊
-> -> [Nothing Ear / Ear (a) 實際體驗：Nothing Ear (2) 使用者親自分享](https://hackmd.io/@EdwardWu/NothingEar_review)
+> -> [Nothing Ear / Ear (a) 實際體驗：Nothing Ear (2) 使用者親自分享]({% post_url 2024-05-28-Nothing-Ear-and-Ear-a-Hands-On-by-Ear-2-User %})
 > 
 > 還沒看過 CMF By Nothing Phone 1 的上手體驗文章看這邊
-> -> [流著 Nothing OS 血液的平價版 Nothing Phone：CMF By Nothing Phone 1](https://hackmd.io/@EdwardWu/Tetris_CMFBuds_review)
+> -> [流著 Nothing OS 血液的平價版 Nothing Phone：CMF By Nothing Phone 1]({% post_url 2024-07-28-The-Affordable-Nothing-Phone-With-Nothing-OS-Blood-CMF-By-Nothing-Phone-1 %})
 > 
 > 還沒看過 ROG Strix SCAR 18 (2023) G834 的開箱評測文章看這邊
-> -> [ROG Strix SCAR 18 (2023) G834 開箱評測](https://hackmd.io/@EdwardWu/ROG_Strix_SCAR_18_2023_G834JY_Unboxing)
+> -> [ROG Strix SCAR 18 (2023) G834 開箱評測]({% post_url 2023-08-31-ROG-Strix-Scar-18-2023-G834-Unboxing-Review %})
 
 ASUS Vivobook S15 (S5507)
 ---

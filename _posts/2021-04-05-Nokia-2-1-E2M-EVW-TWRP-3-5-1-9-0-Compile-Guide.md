@@ -25,7 +25,7 @@ https://github.com/SebaUbuntu/TWRP-device-tree-generator
 
 編譯
 ---
-- 詳細編譯教學，請參考 [Android 第三方 Recovery 繁體中文編譯教學](https://hackmd.io/@EdwardWu/CompileARecovery)
+- 詳細編譯教學，請參考 [Android 第三方 Recovery 繁體中文編譯教學]({% post_url 2022-11-22-Android-Third-Party-Recovery-Traditional-Chinese-Compile-Tutorial %})
 - 在這之後進行編譯，第一個版本(27MB)透過光卡的測試
 發現TWRP 檔案太大無法刷入該手機的Recovery分區(原始大小24MB)  
 在BoardConfig.mk檔案中加入了LZMA壓縮指令後

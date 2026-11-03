@@ -43,7 +43,7 @@ PSU ( 850W )
 
 
 
-[EdwardWu 的 PVE 踩坑紀錄](https://hackmd.io/@EdwardWu/PVE_pit)
+[EdwardWu 的 PVE 踩坑紀錄]({% post_url 2023-03-10-PVE-Troubleshooting-Notes %})
 
 
 環境紀錄

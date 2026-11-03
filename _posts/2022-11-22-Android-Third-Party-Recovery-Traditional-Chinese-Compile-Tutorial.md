@@ -201,7 +201,7 @@ lunch omni_X00I-eng && mka recoveryimage
 2. 如果真的遇到自己無法解決的問題，可以加入這兩個 Telegram 群組
 [Android Building Help](https://t.me/AndroidBuildersHelp)
 [RomDevelopment](https://t.me/alaskalinuxuser_romdevelopment)
-3. [快速上手 Android Custom ROM 適配 - Prebuilt Vendor](https://hackmd.io/@EdwardWu/Prebuilt-bringup)
+3. [快速上手 Android Custom ROM 適配 - Prebuilt Vendor]({% post_url 2022-11-21-Android-Custom-ROM-Porting-Guide-Prebuilt-Vendor %})
 4. 等我想到還有什麼問題再加上來
 
 
@@ -211,7 +211,7 @@ lunch omni_X00I-eng && mka recoveryimage
 - 行有餘力的話，可以考慮捐款給我
 [Paypal](https://www.paypal.me/edwardwu0223)
 - 同場加映
-[Android 第三方 ROM 繁體中文編譯教學](https://hackmd.io/@EdwardWu/CompileAndroidCustomROM)
+[Android 第三方 ROM 繁體中文編譯教學]({% post_url 2022-11-22-Android-Third-Party-ROM-Traditional-Chinese-Compile-Tutorial %})
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 - Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 

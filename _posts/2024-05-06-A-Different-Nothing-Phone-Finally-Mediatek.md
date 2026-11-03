@@ -19,13 +19,13 @@ Hi all 各位好～
 也曾在 SITCON 2021 擔任講者，並分享開放式議程主題 [「從零開始編譯 Android 第三方系統！」](https://sitcon.org/2021/agenda/1c9e74cd-aeeb-4e63-8ec4-af33eff16e7d)
 
 以下是我自己寫過的教學文章
-[Android 第三方 ROM 繁體中文編譯教學](https://hackmd.io/@EdwardWu/CompileAndroidCustomROM)
-[Android 第三方 Recovery 繁體中文編譯教學](https://hackmd.io/@EdwardWu/CompileARecovery)
+[Android 第三方 ROM 繁體中文編譯教學]({% post_url 2022-11-22-Android-Third-Party-ROM-Traditional-Chinese-Compile-Tutorial %})
+[Android 第三方 Recovery 繁體中文編譯教學]({% post_url 2022-11-22-Android-Third-Party-Recovery-Traditional-Chinese-Compile-Tutorial %})
 
 轉載文章
-[快速上手 Android Custom ROM 適配 - Prebuilt Vendor](https://hackmd.io/@EdwardWu/Prebuilt-bringup)
+[快速上手 Android Custom ROM 適配 - Prebuilt Vendor]({% post_url 2022-11-21-Android-Custom-ROM-Porting-Guide-Prebuilt-Vendor %})
 
-過去我在 [Nothing Phone (1) 的上手體驗文](https://hackmd.io/@EdwardWu/Spacewar_review) 當中有說到，Nothing Tech 有把 Kernel Sources 進行開源，遵循 GPL 協議。  
+過去我在 [Nothing Phone (1) 的上手體驗文]({% post_url 2022-12-07-Nothing-Phone-1-Review-From-An-Android-Developers-Perspective %}) 當中有說到，Nothing Tech 有把 Kernel Sources 進行開源，遵循 GPL 協議。  
 直到現在 Nothing Tech 已經推出了第三款手機，也有持續地在更新維護 Kernel Sources，這也讓 Nothing Tech 這個品牌持續地在開發者社群當中保有一定的聲量以及讚譽。  
 也因此我對 Nothing Tech 的這個品牌形象，抱持著相當高的期許。期待 Nothing Tech 端出好吃的牛肉。
 

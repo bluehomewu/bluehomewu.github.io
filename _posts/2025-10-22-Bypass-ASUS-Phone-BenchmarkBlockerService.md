@@ -122,7 +122,7 @@ package:com.asus.ims.benchmarkblocker
 
 從上面的輸出可以看到有兩個與跑分軟體相關的 package，分別是 `com.asus.benchmarkblocker` 和 `com.asus.ims.benchmarkblocker`。
 
-經由[上一篇文章](https://bluehomewu.github.io/posts/Disable-ASUS-Phone-IMEI-Watermark/)的經驗，我已經不考慮停用 `com.asus.benchmarkblocker` 這個服務，因為沒有足夠的權限停用它。  
+經由[上一篇文章]({% post_url 2025-10-21-Disable-ASUS-Phone-IMEI-Watermark %})的經驗，我已經不考慮停用 `com.asus.benchmarkblocker` 這個服務，因為沒有足夠的權限停用它。  
 因此我決定嘗試直接對 `user 0` 刪除 `com.asus.benchmarkblocker` & `com.asus.ims.benchmarkblocker` 這兩個 package。
 
 

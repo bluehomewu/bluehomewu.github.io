@@ -19,16 +19,16 @@ Hi all 各位好～
 也曾在 SITCON 2021 擔任講者，並分享開放式議程主題 [「從零開始編譯 Android 第三方系統！」](https://sitcon.org/2021/agenda/1c9e74cd-aeeb-4e63-8ec4-af33eff16e7d)
 
 以下是我自己寫過的教學文章
-[Android 第三方 ROM 繁體中文編譯教學](https://hackmd.io/@EdwardWu/CompileAndroidCustomROM)
-[Android 第三方 Recovery 繁體中文編譯教學](https://hackmd.io/@EdwardWu/CompileARecovery)
+[Android 第三方 ROM 繁體中文編譯教學]({% post_url 2022-11-22-Android-Third-Party-ROM-Traditional-Chinese-Compile-Tutorial %})
+[Android 第三方 Recovery 繁體中文編譯教學]({% post_url 2022-11-22-Android-Third-Party-Recovery-Traditional-Chinese-Compile-Tutorial %})
 
 轉載文章
-[快速上手 Android Custom ROM 適配 - Prebuilt Vendor](https://hackmd.io/@EdwardWu/Prebuilt-bringup)
+[快速上手 Android Custom ROM 適配 - Prebuilt Vendor]({% post_url 2022-11-21-Android-Custom-ROM-Porting-Guide-Prebuilt-Vendor %})
 
 Nothing Phone (1) 評測文章
-[從 Android 系統開發者的角度評價 Nothing Phone(1)](https://hackmd.io/@EdwardWu/Spacewar_review)
+[從 Android 系統開發者的角度評價 Nothing Phone(1)]({% post_url 2022-12-07-Nothing-Phone-1-Review-From-An-Android-Developers-Perspective %})
 Nothing Phone (2a) 評測文章
-[不同以往的 Nothing Phone：睽違已久的 Mediatek](https://hackmd.io/@EdwardWu/Pacman_review)
+[不同以往的 Nothing Phone：睽違已久的 Mediatek]({% post_url 2024-05-06-A-Different-Nothing-Phone-Finally-Mediatek %})
 
 在這次上手體驗 Nothing Ear / Ear (a) 之前，我自己也算是 Nothing 的粉絲及愛用者之一。  
 我在一年前購入了 Nothing Ear (2)，取代了我之前使用一陣子的 Pixel Buds A-Series，作為我主要的耳機。  

@@ -14,7 +14,7 @@ tags: [Asustor]
 ---
 
 > 還沒看過 Asustor AS6702T v2 的上手體驗文章看這邊  
-> -> [當機架上的伺服器歸於平靜：我從 True-NAS 轉投 Asustor AS6702T v2 的心路歷程](https://hackmd.io/@EdwardWu/AsustorAS6702Tv2_review)
+> -> [當機架上的伺服器歸於平靜：我從 True-NAS 轉投 Asustor AS6702T v2 的心路歷程]({% post_url 2025-11-10-When-the-Server-Rack-Fell-Silent-My-Journey-from-DIY-TrueNAS-to-Asustor-AS6702T-v2 %})
 
 從「極致客製化」走向「高效穩定」的轉移，本質上是為了徹底落實「化繁為簡」的理念，從 DIY 的折騰回到成品 NAS 的穩定與省心；但如果只停在這裡，終究還是會覺得少了點什麼。
 

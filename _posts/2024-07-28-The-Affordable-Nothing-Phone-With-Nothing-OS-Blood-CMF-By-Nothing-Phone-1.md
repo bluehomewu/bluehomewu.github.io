@@ -17,13 +17,13 @@ tags: [Nothing Tech, Android, Nothing, ROM, CMF]
 Nothing Tech 真的是一間蠻有野心的公司，今年才剛在臺灣上市 Nothing Phone (2a)，緊接著又再度發表子品牌的手機，也正是本次心得體驗的主角 - CMF By Nothing Phone 1
 
 > 還沒看過 Nothing Phone (1) 的上手體驗文章看這邊
-> -> [從 Android 系統開發者的角度評價 Nothing Phone(1)](https://hackmd.io/@EdwardWu/Spacewar_review)
+> -> [從 Android 系統開發者的角度評價 Nothing Phone(1)]({% post_url 2022-12-07-Nothing-Phone-1-Review-From-An-Android-Developers-Perspective %})
 > 
 > 還沒看過 Nothing Phone (2a) 的上手體驗文章看這邊
-> -> [不同以往的 Nothing Phone：睽違已久的 Mediatek](https://hackmd.io/@EdwardWu/Pacman_review)
+> -> [不同以往的 Nothing Phone：睽違已久的 Mediatek]({% post_url 2024-05-06-A-Different-Nothing-Phone-Finally-Mediatek %})
 > 
 > 還沒看過 Nothing Ear / Ear (a) 的上手體驗文章看這邊
-> -> [Nothing Ear / Ear (a) 實際體驗：Nothing Ear (2) 使用者親自分享](https://hackmd.io/@EdwardWu/NothingEar_review)
+> -> [Nothing Ear / Ear (a) 實際體驗：Nothing Ear (2) 使用者親自分享]({% post_url 2024-05-28-Nothing-Ear-and-Ear-a-Hands-On-by-Ear-2-User %})
 
 作為 Nothing Tech 的子品牌，CMF 主打的是平價品牌，且主打產品色調、質感與設計。Nothing Tech 藉由子品牌 CMF 推出的產品確實與 Nothing Tech 風格上有所區隔，也對應不同喜好市場的群眾。
 
@@ -208,7 +208,7 @@ Nothing Phone (2a) 相機規格：
 我在上次體驗 Nothing Ear / Ear (a) 的文章中有提到，我是重度的 Android 使用者，也因此外出時經常攜帶 2 台以上的 Android 設備，在多設備之間切換是我最需要解決的痛點。
 
 > 還沒看過 Nothing Ear / Ear (a) 的上手體驗文章看這邊
-> -> [Nothing Ear / Ear (a) 實際體驗：Nothing Ear (2) 使用者親自分享](https://hackmd.io/@EdwardWu/NothingEar_review)
+> -> [Nothing Ear / Ear (a) 實際體驗：Nothing Ear (2) 使用者親自分享]({% post_url 2024-05-28-Nothing-Ear-and-Ear-a-Hands-On-by-Ear-2-User %})
 
 CMF Buds Pro 2，也保留了 Google FastPair 的功能，以及支援相當優秀的降噪，同時也以高 CP 值的產品定位打入市場。
 

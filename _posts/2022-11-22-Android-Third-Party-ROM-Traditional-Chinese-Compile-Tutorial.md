@@ -264,7 +264,7 @@ brunch arrow_Z01R-userdebug | tee arrow_Z01R_$(date +"%Y%m%d_%H.%M")GMT8.txt
 [Android Building Help](https://t.me/AndroidBuildersHelp)
 [RomDevelopment](https://t.me/alaskalinuxuser_romdevelopment)
 [Android OS Building Support](https://t.me/android_builders_help)
-3. [快速上手 Android Custom ROM 適配 - Prebuilt Vendor](https://hackmd.io/@EdwardWu/Prebuilt-bringup)
+3. [快速上手 Android Custom ROM 適配 - Prebuilt Vendor]({% post_url 2022-11-21-Android-Custom-ROM-Porting-Guide-Prebuilt-Vendor %})
 4. 等我想到還有什麼問題再加上來
 
 
@@ -274,7 +274,7 @@ brunch arrow_Z01R-userdebug | tee arrow_Z01R_$(date +"%Y%m%d_%H.%M")GMT8.txt
 - 行有餘力的話，可以考慮捐款給我
 [Paypal](https://www.paypal.me/edwardwu0223)
 - 同場加映
-[Android 第三方 Recovery 繁體中文編譯教學](https://hackmd.io/@EdwardWu/CompileARecovery)
+[Android 第三方 Recovery 繁體中文編譯教學]({% post_url 2022-11-22-Android-Third-Party-Recovery-Traditional-Chinese-Compile-Tutorial %})
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 - Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 

@@ -16,8 +16,8 @@ Hi 各位好～
 也曾在 SITCON 2021 擔任講者，並分享開放式議程主題 [「從零開始編譯 Android 第三方系統！」](https://sitcon.org/2021/agenda/1c9e74cd-aeeb-4e63-8ec4-af33eff16e7d)
 
 以下是我自己寫的教學文章
-[Android 第三方 ROM 繁體中文編譯教學](https://hackmd.io/@EdwardWu/CompileAndroidCustomROM)
-[Android 第三方 Recovery 繁體中文編譯教學](https://hackmd.io/@EdwardWu/CompileARecovery)
+[Android 第三方 ROM 繁體中文編譯教學]({% post_url 2022-11-22-Android-Third-Party-ROM-Traditional-Chinese-Compile-Tutorial %})
+[Android 第三方 Recovery 繁體中文編譯教學]({% post_url 2022-11-22-Android-Third-Party-Recovery-Traditional-Chinese-Compile-Tutorial %})
 前陣子有緣與 AMD 合作，收到了來自 AMD 爸爸的一顆 Ryzen 7 5800X 以及火鳥科技的 750W 電源供應器
 
 相信大家在 AM5 腳位 CPU 即將上市之際，已經對 AM4 腳位的家族成員不陌生了。  

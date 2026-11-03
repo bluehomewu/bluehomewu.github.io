@@ -331,7 +331,7 @@ Install Script
 #!/bin/bash
 
 :<<comment
-Reference: https://hackmd.io/9f2GysWvR5eA1Y_t56Vtmw?view#Installing-Kernel-to-SDCard
+Reference: [Installing Kernel to SDCard](#installing-kernel-to-sdcard)
 comment
 
 # 定義掛載點目錄

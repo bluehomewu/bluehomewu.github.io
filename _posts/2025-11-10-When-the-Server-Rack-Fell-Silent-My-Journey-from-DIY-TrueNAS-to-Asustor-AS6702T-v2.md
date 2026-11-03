@@ -26,7 +26,7 @@ DIY NAS，與成品 NAS 最大的不同，就是高度的客製化，從硬體�
 
 
 升級紀錄可以參考這篇：
-[Proxmox 家用伺服器大升級：TUF Gaming B850-Plus WiFi × Ryzen 9 9950X 實戰紀錄](https://bluehomewu.github.io/posts/Proxmox-Home-Server-Upgrade-TUF-Gaming-B850-Plus-Ryzen-9-9950X-Build-Log/)
+[Proxmox 家用伺服器大升級：TUF Gaming B850-Plus WiFi × Ryzen 9 9950X 實戰紀錄]({% post_url 2025-06-17-Proxmox-Home-Server-Upgrade-TUF-Gaming-B850-Plus-Ryzen-9-9950X-Build-Log %})
 
 在前陣子，我升級了正在使用中的 Server，同時也在更換硬體的過程中出現了一些問題，最終經由我的除錯，而完美升級完成。
 
