@@ -156,7 +156,10 @@
       {% assign _wrapper_class = _wrapper_class | append: ' shimmer' %}
     {% endif %}
 
-    <!-- lazy-load images -->
+    <!-- lazy-load images, except the first one in a post, which is usually the largest visible element -->
+    {% if forloop.index == 2 and page.layout != 'home' %}
+      {% assign _lazyload = false %}
+    {% endif %}
     {% if _lazyload %}
       {% assign _left = _left | append: ' loading="lazy"' %}
     {% endif %}

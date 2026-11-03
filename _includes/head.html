@@ -74,6 +74,24 @@
     {%- endcapture -%}
 
     {% assign seo_tags = seo_tags | replace: '<meta name="twitter:card" content="summary" />', custom_og_tags %}
+
+    {%- comment -%} Give the BlogPosting JSON-LD the same image, for Google rich results and Discover {%- endcomment -%}
+    {%- if page.layout == 'post' -%}
+      {%- capture ld_with_image -%}"@type":"BlogPosting","image":{{ final_image_url | strip | jsonify }},{%- endcapture -%}
+      {% assign seo_tags = seo_tags | replace: '"@type":"BlogPosting",', ld_with_image %}
+    {%- endif -%}
+  {%- endif -%}
+
+  {%- comment -%} Press releases are written by the vendor, not by the site author {%- endcomment -%}
+  {%- if page.collection == 'newsroom' -%}
+    {%- assign vendor = page.source | default: page.brand -%}
+    {%- if vendor -%}
+      {%- capture site_author_ld -%}"author":{"@type":"Person","name":{{ site.author.name | jsonify }},"url":{{ site.author.url | jsonify }}}{%- endcapture -%}
+      {%- capture vendor_ld -%}"author":{"@type":"Organization","name":{{ vendor | jsonify }}}{%- endcapture -%}
+      {%- capture site_author_meta -%}<meta name="author" content="{{ site.author.name }}" />{%- endcapture -%}
+      {%- capture vendor_meta -%}<meta name="author" content="{{ vendor | xml_escape }}" />{%- endcapture -%}
+      {% assign seo_tags = seo_tags | replace: site_author_ld, vendor_ld | replace: site_author_meta, vendor_meta %}
+    {%- endif -%}
   {%- endif -%}
 
   {{ seo_tags }}

@@ -34,6 +34,11 @@ github:
 twitter:
   username: EdwardWu0231291 # change to your Twitter username
 
+# Default author for structured data (JSON-LD) and the author meta tag
+author:
+  name: Edward Wu
+  url: https://edwardwu23.com/
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
