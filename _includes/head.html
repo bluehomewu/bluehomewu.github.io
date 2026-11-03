@@ -95,7 +95,11 @@
       {%- endcapture -%}
       {{- title | append: ' | ' -}}
     {%- endunless -%}
-    {{- site.title -}}
+    {%- if page.layout == 'home' and site.home_title -%}
+      {{- site.home_title -}}
+    {%- else -%}
+      {{- site.title -}}
+    {%- endif -%}
   </title>
 
   {% include_cached favicons.html %}

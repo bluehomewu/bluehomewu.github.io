@@ -18,8 +18,11 @@ title: EdwardWu's blogs # the main title
 
 tagline: 一個地方用來紀錄自己寫的文章 # it will display as the subtitle
 
-# description: >- # used by seo meta and the atom feed
-#   A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: >- # used by seo meta and the atom feed
+  Android 系統開發者 EdwardWu 的部落格，分享 Nothing、vivo、ASUS 等 3C 產品評測，以及 Custom ROM、Kernel bring-up 與 NAS 實戰筆記。
+
+# Title of the home page only; posts keep "<post title> | <title>"
+home_title: EdwardWu's blogs｜Android 開發與 3C 評測
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
