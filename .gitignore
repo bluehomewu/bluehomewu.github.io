@@ -24,7 +24,10 @@ package-lock.json
 
 # Misc
 _sass/vendors
-assets/js/dist
+assets/js/dist/*
+# Site overrides of the theme's PWA scripts
+!assets/js/dist/app.min.js
+!assets/js/dist/sw.min.js
 
 # Cloudflare Wrangler
 .wrangler
