@@ -337,6 +337,20 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
   } /* .sidebar-bottom */
 } /* #sidebar */
 
+/*
+ * The pushed-aside #main-wrapper widens the page while the sidebar is open.
+ * Mobile browsers then grow the layout viewport on interaction (e.g. opening
+ * the theme menu), which stretches the fixed sidebar beyond the screen.
+ * Both elements need it: body only clips its own overflow when the root
+ * element's overflow is not `visible`.
+ */
+:root:has(body[#{$sidebar-display}]),
+body[#{$sidebar-display}] {
+  @include bp.lt(bp.get(lg)) {
+    overflow-x: clip;
+  }
+}
+
 [#{$sidebar-display}] {
   #main-wrapper {
     @include bp.lt(bp.get(lg)) {
