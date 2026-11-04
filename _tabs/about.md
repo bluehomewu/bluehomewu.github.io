@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-嗨，我是 EdwardWu（吳運凱）！
+嗨，我是 EdwardWu！
 
 一個玩 Android 玩了 8 年多的業餘 Custom ROM Maintainer，從最早幫 ASUS ZenFone 5 編譯第三方 ROM 開始，一路踩坑到現在，經手過 20 多台裝置的 ROM、Kernel 與 Recovery。
 
