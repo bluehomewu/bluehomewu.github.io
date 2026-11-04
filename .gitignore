@@ -36,3 +36,8 @@ assets/js/dist/*
 newsroom-inbox/
 .newsroom-inbox-repo/
 __pycache__/
+
+# Hidden system files
+*~
+.DS_Store
+Thumbs.db
