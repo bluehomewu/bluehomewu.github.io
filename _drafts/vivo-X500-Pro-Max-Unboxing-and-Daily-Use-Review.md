@@ -279,8 +279,10 @@ X500 Pro Max 配備 6.85 吋 2K AMOLED 螢幕，解析度 3168 × 1440，像素�
 
 ### 效能測試
 
-- 以下跑分全部都是在室溫 XX ℃ 下測試
-- 所有設定均使用系統預設值
+- 以下跑分全部都是在室溫約 24 ℃ 下測試
+- 系統版本為 `PD2602MF_EX_A_17.0.23.3W20`（OriginOS 7，Android 17）
+- 出廠預設為「均衡模式」，測試時手動切換為最大效能的「Boost 模式」，其餘設定均使用系統預設值
+- 對照機型若可調整效能模式，同樣切換為該機型的最大效能模式
 - 測試時手機為剛開機的乾淨狀態，尚未轉移個人資料
 
 在核心配置上，X500 Pro Max 搭載聯發科技天璣 9600 Pro，CPU 為 4.55GHz × 2 + 4.35GHz × 3 + 3.1GHz × 3 的八核心配置，搭配 LPDDR5X Ultra 記憶體與 UFS 4.1 儲存空間。
@@ -290,18 +292,26 @@ X500 Pro Max 配備 6.85 吋 2K AMOLED 螢幕，解析度 3168 × 1440，像素�
 {% endcomment %}
 
 #### vivo X500 Pro Max
-![vivo X500 Pro Max GeekBench 6 組圖](待補)
+![vivo X500 Pro Max GeekBench 7 組圖](/assets/img/posts/vivo-x500-pro-max-geekbench7.jpg)
 <table>
   <tr>
-    <td><img src="待補" alt="vivo X500 Pro Max 安兔兔測試"></td>
-    <td><img src="待補" alt="vivo X500 Pro Max 3DMark 壓力測試"></td>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-antutu.jpg" alt="vivo X500 Pro Max 安兔兔測試"></td>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-3dmark-wle.jpg" alt="vivo X500 Pro Max 3DMark 壓力測試"></td>
   </tr>
 </table>
 
-▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
+▲ GeekBench 7 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
+
+- **GeekBench 7**：連續 3 次的單核心分數為 2894、2880、2855，多核心分數為 9890、9396、10070。
+- **安兔兔 V12.0.3**：總分 4,536,074，其中 CPU 1,205,811、GPU 1,790,064、MEM 670,470、UX 869,729。測試過程中電池溫度從 31.2 ℃ 上升到 41.8 ℃，增加 10.6 ℃。
+- **3DMark Wild Life Extreme 20 輪壓力測試**：最高 6,988 分、最低 3,856 分，穩定度 55.2%。
+
+{% comment %}
+待補：跑分結果的解讀，特別是 3DMark 壓力測試的穩定度，以及測試後的機身體感溫度。
+{% endcomment %}
 
 #### 對照機型 A（待定）
-![對照機型 A GeekBench 6 組圖](待補)
+![對照機型 A GeekBench 7 組圖](待補)
 <table>
   <tr>
     <td><img src="待補" alt="對照機型 A 安兔兔測試"></td>
@@ -309,10 +319,10 @@ X500 Pro Max 配備 6.85 吋 2K AMOLED 螢幕，解析度 3168 × 1440，像素�
   </tr>
 </table>
 
-▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
+▲ GeekBench 7 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 #### 對照機型 B（待定）
-![對照機型 B GeekBench 6 組圖](待補)
+![對照機型 B GeekBench 7 組圖](待補)
 <table>
   <tr>
     <td><img src="待補" alt="對照機型 B 安兔兔測試"></td>
@@ -320,7 +330,7 @@ X500 Pro Max 配備 6.85 吋 2K AMOLED 螢幕，解析度 3168 × 1440，像素�
   </tr>
 </table>
 
-▲ GeekBench 6 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
+▲ GeekBench 7 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
 
 <table>
   <thead>
@@ -333,40 +343,84 @@ X500 Pro Max 配備 6.85 吋 2K AMOLED 螢幕，解析度 3168 × 1440，像素�
   </thead>
   <tbody>
     <tr>
-      <td><strong>GeekBench 6 單核心</strong></td>
-      <td>待補</td>
-      <td>待補</td>
-      <td>待補</td>
-    </tr>
-    <tr>
-      <td><strong>GeekBench 6 多核心</strong></td>
-      <td>待補</td>
+      <td><strong>GeekBench 7 單核心</strong></td>
+      <td>2894 / 2880 / 2855</td>
       <td>待補</td>
       <td>待補</td>
     </tr>
     <tr>
-      <td><strong>安兔兔總分</strong></td>
+      <td><strong>GeekBench 7 多核心</strong></td>
+      <td>9890 / 9396 / 10070</td>
       <td>待補</td>
+      <td>待補</td>
+    </tr>
+    <tr>
+      <td><strong>安兔兔 V12 總分</strong></td>
+      <td>4,536,074</td>
       <td>待補</td>
       <td>待補</td>
     </tr>
     <tr>
       <td><strong>3DMark WLE 最高分</strong></td>
+      <td>6,988</td>
       <td>待補</td>
+      <td>待補</td>
+    </tr>
+    <tr>
+      <td><strong>3DMark WLE 最低分</strong></td>
+      <td>3,856</td>
       <td>待補</td>
       <td>待補</td>
     </tr>
     <tr>
       <td><strong>3DMark WLE 穩定度</strong></td>
-      <td>待補</td>
+      <td>55.2%</td>
       <td>待補</td>
       <td>待補</td>
     </tr>
   </tbody>
 </table>
 
+#### 儲存空間讀寫測試
+<img src="/assets/img/posts/vivo-x500-pro-max-cpdt.jpg" alt="vivo X500 Pro Max CPDT 測試" style="width: 50%;">
+
+▲ Cross Platform Disk Test（CPDT）測試結果
+
+儲存空間的部分，我使用 Cross Platform Disk Test（CPDT）在空機狀態下測試，測試檔案大小為 1GB：
+
+<table>
+  <thead>
+    <tr>
+      <th>項目</th>
+      <th>vivo X500 Pro Max</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>順序寫入（4MB）</strong></td>
+      <td>618.56 MB/s</td>
+    </tr>
+    <tr>
+      <td><strong>順序讀取（4MB）</strong></td>
+      <td>1.09 GB/s</td>
+    </tr>
+    <tr>
+      <td><strong>隨機寫入（4KB）</strong></td>
+      <td>28.64 MB/s</td>
+    </tr>
+    <tr>
+      <td><strong>隨機讀取（4KB）</strong></td>
+      <td>33.80 MB/s</td>
+    </tr>
+    <tr>
+      <td><strong>記憶體複製（4MB）</strong></td>
+      <td>12.24 GB/s</td>
+    </tr>
+  </tbody>
+</table>
+
 {% comment %}
-待補：跑分結果的解讀，特別是 3DMark 20 輪壓力測試的穩定度與機身溫度。
+待補：CPDT 結果的解讀。
 {% endcomment %}
 
 ### 電池與充電
