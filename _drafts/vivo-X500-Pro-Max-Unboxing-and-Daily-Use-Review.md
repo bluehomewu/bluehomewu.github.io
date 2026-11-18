@@ -444,6 +444,42 @@ X500 Pro Max 內建 7800mAh 藍海電池，支援 90W 有線快充與 40W 無線
 OriginOS 7 的深入使用心得留到第三篇，這裡只需要帶到第一印象即可。
 {% endcomment %}
 
+### 快捷操作按鍵與 TapPass
+在 [iQOO Z11 那篇]({% post_url 2026-06-12-iQOO-Z11-Review-Battery-Gaming-Display-OriginOS %})我提過，我已經把公司與租屋處的門禁卡都模擬進手機裡，現在進出基本上只靠手機感應。換到 X500 Pro Max 之後，這個習慣當然也延續了下來，而 OriginOS 7 其實也很貼心地在電源鍵設定裡，提供了「按兩下電源鍵 → 打開 Access Card」的選項，讓門禁卡可以一鍵叫出來。
+
+不過我的雙擊電源鍵早就給了 Google 錢包，平常搭車、付款都靠它，實在捨不得換掉。所以我退而求其次，把腦筋動到 X500 Pro Max 機身側邊的「快捷操作按鍵」上。
+
+<table>
+  <tr>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-power-key-settings.jpg" alt="OriginOS 7 電源鍵設定"></td>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-quick-action-key-tappass.jpg" alt="快捷操作按鍵設定 TapPass"></td>
+  </tr>
+</table>
+
+▲ 電源鍵設定的雙擊選項（左圖） / 快捷操作按鍵的「按兩下啟動」綁定 TapPass（右圖）
+
+問題是，快捷操作按鍵可以綁定的 App 清單裡，偏偏找不到 Access Card。原因也不難理解：快捷操作按鍵只能綁定有桌面圖示的 App，而 Access Card 是系統內建、沒有桌面圖示的元件，自然不會出現在清單裡。
+
+身為 Android 開發者，遇到這種情況當然是自己動手。我請 Claude 協助我寫了一個很小的 App：**[TapPass](https://github.com/bluehomewu/TapPass)**。
+
+TapPass 本身只是一個「跳板」。它會出現在快捷操作按鍵的 App 清單裡，被觸發後，用和系統桌面捷徑完全相同的 intent 打開 Access Card 的刷卡頁面，然後立刻結束自己，整個過程中完全看不到 TapPass 的畫面，也不會留在最近使用的 App 清單裡：
+
+```
+action    vivo.intent.action.NFC_BUS_SWINGSPLASH
+component com.vivo.seclient/com.vivo.pay.fexswipe.activity.NewSwipeActivity
+flags     FLAG_ACTIVITY_NEW_TASK | FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS
+extras    lb_from = "5"   (String)
+```
+
+能做到這件事，也要歸功於 vivo 把 Access Card 的刷卡頁面設計成對外開放（exported），一般 App 就能直接呼叫，**不需要 root，也不需要 Shizuku**。現在只要在口袋裡按兩下快捷操作按鍵，門禁卡頁面就跳出來，拿起手機往感應器上一貼就能開門。
+
+如果你也有一樣的需求，可以到 GitHub 下載 APK 使用，不過有幾點要先說明：
+- TapPass 目前只在我的 vivo X500 Pro Max（OriginOS 7）上測試過。
+- 需要 Android 11 以上，且手機內建 Access Card（`com.vivo.seclient`）。
+- 如果未來系統更新改動了刷卡頁面的名稱，或把它改成不對外開放，TapPass 就可能失效，需要跟著更新。App 內建診斷頁面，可以查看目標頁面是否還能被開啟。
+
+當然，最理想的還是由系統直接支援。期許未來 OriginOS 能在快捷操作按鍵的選單裡，直接加入 Access Card 這個選項，讓門禁卡、Google 錢包和快捷操作按鍵三者可以各司其職。
+
 總結
 ---
 {% comment %}
