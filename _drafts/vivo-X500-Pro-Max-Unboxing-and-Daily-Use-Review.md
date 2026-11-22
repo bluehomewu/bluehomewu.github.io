@@ -1,20 +1,15 @@
 ---
 title: "vivo X500 Pro Max 開箱評測：星空灰 16+512 自費上手，影像旗艦的日常表現如何？"
-description: "vivo X500 Pro Max 開箱與日常使用心得：10/30 上市記者會現場直擊、星空灰 16GB+512GB 外觀手感、6.85 吋 2K 144Hz 螢幕、天璣 9600 Pro 跑分、7800mAh 續航與 90W 快充實測。"
+description: "vivo X500 Pro Max 開箱與日常使用心得：10/30 上市記者會現場直擊、星空灰 16GB+512GB 外觀手感、6.85 吋 2K 144Hz 螢幕、天璣 9600 Pro 跑分、7800mAh 續航與日常使用體驗。"
 categories: [開箱評測]
 tags: [vivo, Android, MediaTek, Dimensity, vivo X500 Pro Max, OriginOS 7, 蔡司]
 ---
 
 # vivo X500 Pro Max 開箱評測：星空灰 16+512 自費上手，影像旗艦的日常表現如何？
 
-![封面](待補)
+![vivo X500 Pro Max 星空灰](/assets/img/posts/vivo-x500-pro-max-design-01.jpg)
 
 ▲ vivo X500 Pro Max 星空灰
-
-{% comment %}
-待補：封面圖（自己拍的星空灰開箱照）。
-注意：head.html 會自動抓文章第一張圖當 og:image，封面請放自己拍的實機照。
-{% endcomment %}
 
 前言
 ---
@@ -39,9 +34,7 @@ vivo X500 系列上市記者會
 ![媒體識別證](/assets/img/posts/vivo-x500-pro-max-launch-01.jpg)
 ▲ 這次以媒體身分受邀參加 vivo X500 系列新機發表會
 
-{% comment %}
-待補：如果有想補充的現場印象（例如發表會流程、印象深刻的展示、和 vivo 團隊交流的內容），可以加在這裡。
-{% endcomment %}
+當天很感謝 vivo 邀請我參加這場新機發表會，讓我能以 KOC 的身分近距離搶先體驗新機，也和 vivo 團隊有了更深入的對話與交流。
 
 ### 全系列陣容與售價
 這次 X500 系列在台灣一共推出四種組合，再加上摺疊旗艦 X Fold6：
@@ -235,61 +228,77 @@ vivo X500 Pro Max
 - 原廠延長保固 1 年（共計 24 個月）
 - 電池 4 年耐用保固
 
-依官網列出的盒裝內容，盒內會有手機本體、充電器、Type-C 傳輸線、保護殼、保護膜、取卡針與說明書。
+![vivo 官方商城訂單截圖](/assets/img/posts/vivo-x500-pro-max-order.jpg)
+▲ 官方商城的訂單截圖，附上人權
+
+所以收到貨時，桌上一字排開的是三個盒子：手機本體、G2 增距鏡，以及增距鏡殼套裝。三個盒子都是統一的黑色系包裝，手機盒正面印著 X500 Pro Max 的大圓形鏡頭輪廓。
 
 <table>
   <tr>
-    <td><img src="待補" alt="vivo X500 Pro Max 外盒"></td>
-    <td><img src="待補" alt="vivo X500 Pro Max 盒內配件"></td>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-unboxing-01.jpg" alt="vivo X500 Pro Max 與增距鏡外盒"></td>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-unboxing-02.jpg" alt="vivo 蔡司增距鏡殼套裝外盒"></td>
+  </tr>
+  <tr>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-unboxing-03.jpg" alt="G2 增距鏡、手機本體與增距鏡殼"></td>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-unboxing-04.jpg" alt="vivo X500 Pro Max 盒內配件"></td>
+  </tr>
+  <tr>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-unboxing-05.jpg" alt="OriginOS 7 開機設定畫面"></td>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-unboxing-06.jpg" alt="OriginOS 7 歡迎使用畫面"></td>
   </tr>
 </table>
 
-▲ 開箱
+▲ 手機、G2 增距鏡與增距鏡殼套裝三盒合照（左上） / 增距鏡殼套裝外盒（右上） / G2 增距鏡、還包著紙膜的手機本體與銀色紋理的增距鏡殼（左中） / 充電器、傳輸線、手機本體與盒內附的矽膠保護殼（右中） / 開機設定畫面（下排）
 
-{% comment %}
-待補：
-1. 外盒、盒內配件、手機本體的開箱照。
-2. 確認盒內實際配件是否與官網一致（充電器規格是不是 90W、保護殼的材質與樣式）。
-3. G2 增距鏡與增距鏡殼套裝的開箱照（也可以留到第二篇台東實拍再寫）。
-{% endcomment %}
+打開盒子之後，可以看到 G2 增距鏡、包著紙膜的手機本體，以及增距鏡殼套裝裡那個帶有鏡頭環、表面有細緻紋理的銀色手機殼。手機盒內則附有 90W 充電器、Type-C 傳輸線，還有一個淡灰色的矽膠保護殼（照片在室內燈光下看起來偏白）。依官網列出的盒裝內容，另外還有保護膜、取卡針與說明書。
+
+需要特別說明的是，我買的並不是攝影師套裝，只是官方商城這筆訂單剛好附了 G2 增距鏡與增距鏡殼套裝。增距鏡的實拍表現，我會留到之後的文章再好好測試。
 
 ### 外觀與手感
 X500 Pro Max 延續了 X 系列的大圓形鏡頭模組，而我手上的星空灰是玻璃背蓋版本，厚度 8.12mm、重量 230.3 公克。以一台塞進 2 億畫素長焦與 7800mAh 電池的影像旗艦來說，這組數字已經相當克制。
 
-![外觀](待補)
+<table>
+  <tr>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-design-02.jpg" alt="vivo X500 Pro Max 鏡頭模組特寫"></td>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-design-03.jpg" alt="vivo X500 Pro Max 星空灰背蓋紋理"></td>
+  </tr>
+</table>
 
-{% comment %}
-待補：
-1. 星空灰在不同光線下的顏色表現、背蓋觸感（霧面？會不會沾指紋？）。
-2. 單手握持的感受、鏡頭模組的凸起程度、放在桌上會不會晃。
-3. 中框材質與按鍵手感。
-4. 和你手上其他手機放在一起的對比照。
-{% endcomment %}
+<img src="/assets/img/posts/vivo-x500-pro-max-design-04.jpg" alt="vivo X500 Pro Max 機身底部與中框">
+
+▲ 鏡頭模組特寫（左上） / 星空灰背蓋上的星點紋理（右上） / 機身底部的 USB-C 與喇叭開孔（下圖）
+
+「星空灰」這個名字取得很貼切。背蓋的 vivo logo 周圍與角落，刻意點綴了細碎的亮點，在光線下會像星空一樣閃爍。遠看是低調的灰色，近看才會發現這些小細節。
+
+日常使用上，裸機時背蓋不太會留下明顯的指紋痕跡，頂多有一些淡淡的印子，對於習慣裸機使用的人來說算是相當友善。
+
+鏡頭模組則是這次外觀最搶眼的部分。圓形的鏡頭環上刻著「1:1.57-2.67/15-85 ASPH.」字樣，搭配中央的蔡司 T* 標誌，很有傳統相機鏡頭的味道。
+
+而我覺得最讓人驚喜的，是它的握持手感。這顆像 Oreo 餅乾一樣的大鏡頭，並不會讓手機拿起來頭重腳輕，整體的重量分配很平衡，反倒讓我很想一直拿在手上把玩。放在桌面上時，也因為鏡頭模組是置中的大圓形，而不是偏向一側，上半部可以左右平衡，點按螢幕時不太會有蹺蹺板的晃動。
 
 ### 螢幕
 X500 Pro Max 配備 6.85 吋 2K AMOLED 螢幕，解析度 3168 × 1440，像素密度 507 ppi，支援最高 144Hz 更新率與 P3 廣色域。
 
-{% comment %}
-待補：
-1. 戶外陽光下的可視度。
-2. 夜間低亮度的使用感受（官網沒有列 PWM 調光規格，系統內如果有護眼相關設定可以截圖）。
-3. 144Hz 在哪些 App 有開、哪些沒開。
-4. 超聲波指紋的解鎖速度與位置。
-{% endcomment %}
+實際使用下來，在戶外陽光下螢幕依然看得很清楚，不需要特別遮光或瞇著眼看。夜間調低亮度時，我自己的眼睛不算太敏感，所以不會覺得不舒服；不過我平常還是會盡量減少在暗光環境下使用電子產品。
+
+螢幕更新率我選擇設定為「高」。因為是 LTPO 螢幕，並不是每個畫面都會一直維持在 144Hz，而是依照使用情境動態調整，在流暢度與耗電之間取得平衡。
+
+<img src="/assets/img/posts/vivo-x500-pro-max-lockscreen-fingerprint.jpg" alt="vivo X500 Pro Max 自訂指紋解鎖圖案" style="width: 50%;">
+
+▲ 自訂的指紋解鎖圖案
+
+另外，OriginOS 可以自訂螢幕指紋的解鎖圖案，讓我可以依照自己的喜好客製化，像我就把它換成了寶貝球的圖案。
 
 ### 效能測試
 
 - 以下跑分全部都是在室溫約 24 ℃ 下測試
 - 系統版本為 `PD2602MF_EX_A_17.0.23.3W20`（OriginOS 7，Android 17）
 - 出廠預設為「均衡模式」，測試時手動切換為最大效能的「Boost 模式」，其餘設定均使用系統預設值
-- 對照機型若可調整效能模式，同樣切換為該機型的最大效能模式
 - 測試時手機為剛開機的乾淨狀態，尚未轉移個人資料
 
 在核心配置上，X500 Pro Max 搭載聯發科技天璣 9600 Pro，CPU 為 4.55GHz × 2 + 4.35GHz × 3 + 3.1GHz × 3 的八核心配置，搭配 LPDDR5X Ultra 記憶體與 UFS 4.1 儲存空間。
 
-{% comment %}
-待補：你對這次天璣 9600 Pro 的看法（例如和過去對聯發科的印象比較）。
-{% endcomment %}
+過去我一直都是選擇搭載高通 Snapdragon 8 系列旗艦晶片的手機作為主力機。不過今年看到不少搭載 Snapdragon 8 Elite Extreme Gen 6 的手機傳出災情，反觀聯發科今年的表現相當可圈可點；加上我也觀察 vivo 與聯發科的合作已經好幾年了，這次決定換上天璣 9600 Pro，而 X500 Pro Max 的表現也確實相當出色。
 
 #### vivo X500 Pro Max
 ![vivo X500 Pro Max GeekBench 7 組圖](/assets/img/posts/vivo-x500-pro-max-geekbench7.jpg)
@@ -306,80 +315,11 @@ X500 Pro Max 配備 6.85 吋 2K AMOLED 螢幕，解析度 3168 × 1440，像素�
 - **安兔兔 V12.0.3**：總分 4,536,074，其中 CPU 1,205,811、GPU 1,790,064、MEM 670,470、UX 869,729。測試過程中電池溫度從 31.2 ℃ 上升到 41.8 ℃，增加 10.6 ℃。
 - **3DMark Wild Life Extreme 20 輪壓力測試**：最高 6,988 分、最低 3,856 分，穩定度 55.2%。
 
-{% comment %}
-待補：跑分結果的解讀，特別是 3DMark 壓力測試的穩定度，以及測試後的機身體感溫度。
-{% endcomment %}
+從結果來看，GeekBench 7 連續 3 次的單核心分數落差不到 1.5%，表現相當一致；多核心分數則在 9,396 到 10,070 之間浮動。
 
-#### 對照機型 A（待定）
-![對照機型 A GeekBench 7 組圖](待補)
-<table>
-  <tr>
-    <td><img src="待補" alt="對照機型 A 安兔兔測試"></td>
-    <td><img src="待補" alt="對照機型 A 3DMark 壓力測試"></td>
-  </tr>
-</table>
+3DMark Wild Life Extreme 壓力測試是連續 20 輪的 GPU 滿載測試，強度比一般手機遊戲高上不少。X500 Pro Max 的穩定度為 55.2%，代表在長時間滿載下，效能會從最高點逐步下修。
 
-▲ GeekBench 7 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
-
-#### 對照機型 B（待定）
-![對照機型 B GeekBench 7 組圖](待補)
-<table>
-  <tr>
-    <td><img src="待補" alt="對照機型 B 安兔兔測試"></td>
-    <td><img src="待補" alt="對照機型 B 3DMark 壓力測試"></td>
-  </tr>
-</table>
-
-▲ GeekBench 7 連續 3 次的測試結果（圖一） / 安兔兔評測的測試結果（左圖） / 3DMark Wild Life Extreme 20 輪壓力測試結果（右圖）
-
-<table>
-  <thead>
-    <tr>
-      <th>項目</th>
-      <th>vivo X500 Pro Max</th>
-      <th>對照機型 A</th>
-      <th>對照機型 B</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>GeekBench 7 單核心</strong></td>
-      <td>2894 / 2880 / 2855</td>
-      <td>待補</td>
-      <td>待補</td>
-    </tr>
-    <tr>
-      <td><strong>GeekBench 7 多核心</strong></td>
-      <td>9890 / 9396 / 10070</td>
-      <td>待補</td>
-      <td>待補</td>
-    </tr>
-    <tr>
-      <td><strong>安兔兔 V12 總分</strong></td>
-      <td>4,536,074</td>
-      <td>待補</td>
-      <td>待補</td>
-    </tr>
-    <tr>
-      <td><strong>3DMark WLE 最高分</strong></td>
-      <td>6,988</td>
-      <td>待補</td>
-      <td>待補</td>
-    </tr>
-    <tr>
-      <td><strong>3DMark WLE 最低分</strong></td>
-      <td>3,856</td>
-      <td>待補</td>
-      <td>待補</td>
-    </tr>
-    <tr>
-      <td><strong>3DMark WLE 穩定度</strong></td>
-      <td>55.2%</td>
-      <td>待補</td>
-      <td>待補</td>
-    </tr>
-  </tbody>
-</table>
+讓我很意外的是，即便是剛跑完這幾項測試，手機摸起來都只有微溫的感覺，機身和螢幕面板完全沒有燙手。換句話說，X500 Pro Max 在長時間滿載時，選擇適度降低效能來控制機身溫度，讓手機一直維持在拿在手上也舒服的狀態。
 
 #### 儲存空間讀寫測試
 <img src="/assets/img/posts/vivo-x500-pro-max-cpdt.jpg" alt="vivo X500 Pro Max CPDT 測試" style="width: 50%;">
@@ -419,35 +359,145 @@ X500 Pro Max 配備 6.85 吋 2K AMOLED 螢幕，解析度 3168 × 1440，像素�
   </tbody>
 </table>
 
-{% comment %}
-待補：CPDT 結果的解讀。
-{% endcomment %}
+CPDT 是透過 App 實際經過檔案系統讀寫檔案，測出來的數字通常會比廠商標示的 UFS 4.1 理論速度保守，比較適合當作實際使用時的參考。順序讀取 1.09 GB/s、順序寫入 618.56 MB/s，在安裝 App、搬移大型影片檔案時都很夠用；影響 App 開啟速度的 4KB 隨機讀寫，則落在 30 MB/s 上下。
 
 ### 電池與充電
 X500 Pro Max 內建 7800mAh 藍海電池，支援 90W 有線快充與 40W 無線充電。
 
-{% comment %}
-待補：
-1. PCMark 3.0 續航測試（測試條件可以沿用 iQOO Z11 那篇的格式）。
-2. 90W 充電從 1% 到 50%、到 100% 的時間。
-3. 日常一天的實際使用時間與剩餘電量。
-{% endcomment %}
+這次我沒有另外跑續航測試，而是直接以轉為主力機之後的實際使用情況來看。我的使用習慣算是相當重度：效能模式維持在 Boost 模式、系統動畫全開、螢幕更新率設定為高，幾乎是最耗電的使用方式。
+
+<img src="/assets/img/posts/vivo-x500-pro-max-battery-usage.jpg" alt="vivo X500 Pro Max 每日耗電詳細資訊" style="width: 50%;">
+
+▲ 11/21 當天的耗電詳細資訊
+
+以 11/21（星期六）這天為例，螢幕亮起時間為 7 小時 44 分鐘，當天總耗電 86%，耗電最多的 App 是 Facebook（21%）與 Threads（14%）。當天白天和晚上我都有充電，但那只是我自己選擇順手補電；回頭看耗電紀錄，在這樣高強度的使用情況下，X500 Pro Max 其實可以讓我接近一整天不用充電。
 
 日常使用
 ---
-{% comment %}
-待補：日常使用心得，例如：
-1. 通勤、工作、多設備使用情境下的體驗。
-2. 日常隨手拍的感受（相機的深入實測留到第二篇）。
-3. 喇叭、震動馬達、訊號、eSIM 使用體驗。
-4. 這段時間遇到的小問題或不習慣的地方。
-OriginOS 7 的深入使用心得留到第三篇，這裡只需要帶到第一印象即可。
-{% endcomment %}
+轉為主力機使用的這段時間，X500 Pro Max 所有的操作都很跟手。週五晚間和週六下午，我分別搭乘自強號 3000 往返中壢與台中，一路上戴著耳機滑社群媒體、看影片，上面 11/21 的耗電紀錄，就是往返台中的那一天。
+
+如果要說這段時間比較不習慣的地方，大概是應用程式抽屜的排序方式。程式抽屜是依照 App 名稱排序，遇到中文名稱的 App，會以拼音的首字母來排序，對於習慣注音的台灣使用者來說，還是需要一點時間適應。
+
+<img src="/assets/img/posts/vivo-x500-pro-max-app-drawer.jpg" alt="OriginOS 7 應用程式抽屜排序" style="width: 50%;">
+
+▲ 中文名稱的 App 會依拼音首字母排序，例如「安兔兔評測」排在 A
+
+### 日常隨手拍
+這裡先放上這幾天用 X500 Pro Max 隨手拍的照片。
+
+<table>
+  <tr>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-daily-01.jpg" alt="vivo X500 Pro Max 24mm 隨手拍"></td>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-daily-02.jpg" alt="vivo X500 Pro Max 50mm 隨手拍"></td>
+  </tr>
+  <tr>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-daily-03.jpg" alt="vivo X500 Pro Max 24mm 隨手拍"></td>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-daily-04.jpg" alt="vivo X500 Pro Max 50mm 隨手拍"></td>
+  </tr>
+</table>
+
+▲ 24mm（左）與 50mm（右）
+
+<table>
+  <tr>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-daily-05.jpg" alt="vivo X500 Pro Max 85mm 隨手拍"></td>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-daily-06.jpg" alt="vivo X500 Pro Max 85mm 隨手拍"></td>
+  </tr>
+  <tr>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-daily-07.jpg" alt="vivo X500 Pro Max 85mm 隨手拍"></td>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-daily-08.jpg" alt="vivo X500 Pro Max 85mm 隨手拍"></td>
+  </tr>
+</table>
+
+▲ 85mm
+
+<table>
+  <tr>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-daily-09.jpg" alt="vivo X500 Pro Max 1200mm 拍攝月亮"></td>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-daily-10.jpg" alt="vivo X500 Pro Max 1200mm 拍攝月亮"></td>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-daily-11.jpg" alt="vivo X500 Pro Max 1200mm 拍攝月亮"></td>
+  </tr>
+</table>
+
+▲ 夜景模式下的「超級月亮」模式（50 倍放大，1200mm），未使用增距鏡
+
+### 快捷與輔助
+<table>
+  <tr>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-shortcuts-01.jpg" alt="OriginOS 7 快捷與輔助設定（一）"></td>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-shortcuts-02.jpg" alt="OriginOS 7 快捷與輔助設定（二）"></td>
+  </tr>
+</table>
+
+▲ OriginOS 7 的「快捷與輔助」設定
+
+OriginOS 7 把許多實用的小功能，集中在設定裡的「快捷與輔助」，並依照用途分成幾個類別：
+- **智慧服務**：AI 建議空間、AI 跨視窗拖曳、AI 字幕。
+- **多工處理**：分割畫面、小視窗、原子工作台、智慧側邊欄。
+- **快捷操作**：快捷操作按鍵、超級拖曳、超級擷取螢幕、原子隨身聽、輕觸手機背面、智慧體感、電源鍵、懸浮球、單手操作。後面會提到的 TapPass，就是搭配這裡的「快捷操作按鍵」使用。
+- **關懷輔助**：暈動視覺輔助（顯示跟隨車輛運動的圓點，緩解暈車症狀）、簡易模式、無障礙設定。
+- **其他**：語音強化、美顏視訊通話、閃光燈提醒、定時任務、防誤觸。
+
+這些功能裡，我最常用的是「原子工作台」和「智慧側邊欄」，可以很方便地進行多工任務。
+
+<table>
+  <tr>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-atomic-workbench.jpg" alt="OriginOS 7 原子工作台"></td>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-smart-sidebar.jpg" alt="OriginOS 7 智慧側邊欄"></td>
+  </tr>
+</table>
+
+▲ 原子工作台（左） / 智慧側邊欄（右）
+
+### 遊戲魔盒
+<img src="/assets/img/posts/vivo-x500-pro-max-game-box.jpg" alt="OriginOS 7 遊戲魔盒設定" style="width: 50%;">
+
+▲ 遊戲魔盒設定
+
+針對手遊玩家，OriginOS 7 內建「遊戲魔盒」。開啟「側滑開啟」後，在遊戲中從螢幕側邊上端向內滑動，就能快速叫出遊戲魔盒。設定裡主要分成幾個部分：
+- **渲染提升**：超級解析度、超級幀率、遊戲視覺強化。
+- **場景模式**：電競模式、關閉螢幕掛機。
+- **特色遊戲的功能**：4D 遊戲震感、遊戲倒數計時、操控設定。
+
+### 動態效果
+<img src="/assets/img/posts/vivo-x500-pro-max-animations.jpg" alt="OriginOS 7 動態效果設定" style="width: 50%;">
+
+▲ 動態效果設定
+
+前面提到我把系統動畫全開，OriginOS 7 在「動態效果」裡，提供了相當多可以調整的動畫項目：
+- **強化動態效果**
+- **桌面相關**：桌面過場動畫、解鎖進入桌面動畫。
+- **解鎖相關**：鎖定螢幕指紋圖示動畫、指紋辨識動畫、臉部辨識動畫。
+- **其他情境**：氣氛燈、充電動畫、插入 USB 動畫、螢幕啟閉動畫，以及其他動畫效果。
+
+從這些設定可以看出，vivo 加入了許多動畫選擇，讓使用者可以依照自己的喜好客製化自己的手機。
+
+### Google 錢包一卡通
+這次 vivo 也和一卡通合作推出活動：在 2026/10/30 – 2026/12/31 期間，購買 vivo X500 系列或 X Fold6 並透過 Google 錢包啟用一卡通，就能獲得 **250 元儲值金**（名額有限，送完為止）。
+
+我在 11/18 透過 Google 錢包啟用一卡通之後，卡片裡就直接顯示了這筆 250 元的儲值紀錄。
+
+<table>
+  <tr>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-ipass-google-wallet.jpg" alt="Google 錢包一卡通"></td>
+    <td><img src="/assets/img/posts/vivo-x500-pro-max-ipass-parking.jpg" alt="付停車費的停車場"></td>
+  </tr>
+</table>
+
+▲ Google 錢包裡的一卡通，可以看到 250 元的儲值與付停車費的紀錄（左圖） / 實際付款的停車場（右圖）
+
+我平常搭車其實都是用悠遊付，所以這張一卡通第一次派上用場，反而是拿來付停車費。直接把手機貼到繳費機上感應就完成扣款，不需要另外找零錢或拿實體卡。
+
+比較有趣的是，我明明是在停車場繳費，扣款完成後交易紀錄上的收款方卻不是停車場，而是「太魯閣客運」XD
+
+活動詳情可以參考：[【vivo】全新機款啟用 Google 錢包™一卡通送 250 元儲值金](https://www.i-pass.com.tw/Preferential/Detail/GM2DGOIETW6YV64rmNDW)
+
+另外要提醒一下，活動頁面上有寫到，同一支手機只回饋一次，如果刪除卡片重新啟用或恢復出廠設定，就不會再回饋。所以如果打算重設手機，記得先確認卡片的記名與餘額狀況。
 
 ### 快捷操作按鍵與 TapPass
 在 [iQOO Z11 那篇]({% post_url 2026-06-12-iQOO-Z11-Review-Battery-Gaming-Display-OriginOS %})我提過，我已經把公司與租屋處的門禁卡都模擬進手機裡，現在進出基本上只靠手機感應。換到 X500 Pro Max 之後，這個習慣當然也延續了下來，而 OriginOS 7 其實也很貼心地在電源鍵設定裡，提供了「按兩下電源鍵 → 打開 Access Card」的選項，讓門禁卡可以一鍵叫出來。
 
-不過我的雙擊電源鍵早就給了 Google 錢包，平常搭車、付款都靠它，實在捨不得換掉。所以我退而求其次，把腦筋動到 X500 Pro Max 機身側邊的「快捷操作按鍵」上。
+不過我的雙擊電源鍵早就給了 Google 錢包，上面那張一卡通也放在裡面，實在捨不得換掉。所以我退而求其次，把腦筋動到 X500 Pro Max 機身側邊的「快捷操作按鍵」上。
 
 <table>
   <tr>
@@ -482,9 +532,13 @@ extras    lb_from = "5"   (String)
 
 總結
 ---
-{% comment %}
-待補：等開箱、跑分、續航與日常使用都完成後，再整理總結。
-{% endcomment %}
+從 10/30 在記者會上第一次拿到實機，到自費入手、轉為主力機使用，vivo X500 Pro Max 給我的整體感受，是一台在日常體驗上相當完整的影像旗艦。
+
+這段時間用下來，最讓我有感的不是哪一項規格特別突出，而是每天用起來都很順手：拿在手上舒服、操作一直都很跟手、長時間使用也不燙手，電量更是不太需要擔心。這次從高通換到天璣 9600 Pro，X500 Pro Max 的表現也沒有讓我失望。
+
+OriginOS 7 則讓這台手機多了不少可以依照自己喜好調整的空間。雖然還有一些需要適應的小地方，但整體來說瑕不掩瑜。
+
+整體而言，X500 Pro Max 在外觀、螢幕、效能溫控與續航這些每天都會用到的地方都表現得相當穩定，對於想要一台旗艦主力機、又重視影像表現的人來說，是一個很值得考慮的選擇。
 
 About Me
 ---
