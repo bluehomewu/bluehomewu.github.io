@@ -1,6 +1,7 @@
 ---
 title: "vivo X500 Pro Max 開箱評測：星空灰 16+512 自費上手，影像旗艦的日常表現如何？"
 description: "vivo X500 Pro Max 開箱與日常使用心得：10/30 上市記者會現場直擊、星空灰 16GB+512GB 外觀手感、6.85 吋 2K 144Hz 螢幕、天璣 9600 Pro 跑分、7800mAh 續航與日常使用體驗。"
+date: 2026-11-23
 categories: [開箱評測]
 tags: [vivo, Android, MediaTek, Dimensity, vivo X500 Pro Max, OriginOS 7, 蔡司]
 ---
