@@ -31,7 +31,7 @@ vivo X500 系列上市記者會
 ---
 10/30 這天，vivo 正式在台推出 X500 系列，同步登場的還有摺疊旗艦 X Fold6。這次 vivo 找來品牌影像大使周杰倫，以「蔡司電影感．創作無界」作為主題，整場記者會的重點也很明確：**逆光、夜景與遠距舞台**這幾個手機最難拍好的場景。
 
-![媒體識別證](/assets/img/posts/vivo-x500-pro-max-launch-01.jpg)
+![媒體識別證](/assets/img/posts/vivo-x500-pro-max-launch-01.jpg)  
 ▲ 這次以媒體身分受邀參加 vivo X500 系列新機發表會
 
 當天很感謝 vivo 邀請我參加這場新機發表會，讓我能以 KOC 的身分近距離搶先體驗新機，也和 vivo 團隊有了更深入的對話與交流。
@@ -228,7 +228,7 @@ vivo X500 Pro Max
 - 原廠延長保固 1 年（共計 24 個月）
 - 電池 4 年耐用保固
 
-![vivo 官方商城訂單截圖](/assets/img/posts/vivo-x500-pro-max-order.jpg)
+![vivo 官方商城訂單截圖](/assets/img/posts/vivo-x500-pro-max-order.jpg)  
 ▲ 官方商城的訂單截圖，附上人權
 
 所以收到貨時，桌上一字排開的是三個盒子：手機本體、G2 增距鏡，以及增距鏡殼套裝。三個盒子都是統一的黑色系包裝，手機盒正面印著 X500 Pro Max 的大圓形鏡頭輪廓。
