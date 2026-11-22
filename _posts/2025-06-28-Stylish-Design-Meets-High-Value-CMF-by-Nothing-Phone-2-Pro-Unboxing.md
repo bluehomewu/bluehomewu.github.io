@@ -224,9 +224,6 @@ About Me
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 - Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
-![image](/assets/img/posts/Bk1EYGfYA.jpg)
-
-
 ###### tags: `Android` `Nothing` `CMF by Nothing Phone 2 Pro` `ROM` `Nothing Tech` `CMF`
 
 

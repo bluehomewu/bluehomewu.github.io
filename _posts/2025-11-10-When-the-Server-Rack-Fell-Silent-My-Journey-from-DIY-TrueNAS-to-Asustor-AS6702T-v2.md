@@ -350,6 +350,4 @@ About Me
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 - Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
-![image](/assets/img/posts/Bk1EYGfYA.jpg)
-
 ###### tags: `Android` `Asustor` `Asustor AS6702T v2` `ROM` `AS6702T v2` `True-NAS`

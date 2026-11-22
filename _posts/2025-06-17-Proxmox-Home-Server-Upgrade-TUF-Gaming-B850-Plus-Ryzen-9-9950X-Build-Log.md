@@ -216,9 +216,6 @@ About Me
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 - Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
-![image](/assets/img/posts/Bk1EYGfYA.jpg)
-
-
 ###### tags: `Android` `Asus` `TUF Gaming` `TUF Gaming B850-Plus WiFi` `ROM` `Asus Taiwan` `AMD Taiwan`
 
 

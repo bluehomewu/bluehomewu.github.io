@@ -82,6 +82,4 @@ About Me
 - GitHub : [bluehomewu](https://github.com/bluehomewu)
 - Email : [bluehome.wu@gmail.com](mailto:bluehome.wu@gmail.com)
 
-![image](/assets/img/posts/Bk1EYGfYA.jpg)
-
 ###### tags: `Android` `Nothing` `Nothing Phone (2a)` `ROM` `Nothing Tech`
